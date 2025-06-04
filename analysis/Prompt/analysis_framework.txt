@@ -1,0 +1,246 @@
+# DDOK SMS ANALYSIS FRAMEWORK
+# Executive Summary: Sales Representative Performance Analysis
+
+## OVERVIEW
+This framework defines the requirements for creating an executive summary that grades sales representatives based on SMS message quality and conversion performance.
+
+## DATA SOURCES
+### Primary Files:
+- INPUT_SMS_FILE: data/ddok_sms_fgs_l3m.csv
+- INPUT_CONVERSIONS_FILE: data/ddok_sms_fgs_l3m_conversions.csv
+- QA_PROMPT_FILE: resources/sms_ddok_qa_prompt
+
+### Data Join Strategy:
+- Primary key: opportunity_uuid
+- Challenge: SMS file has multiple rows per opportunity (one per task), conversions file has one row per opportunity
+- Solution: Deduplicate appropriately to avoid inflated metrics --- double check this, failed on v1.0
+
+## SALES REP IDENTIFICATION LOGIC
+### AI Agent Handling:
+- IF ai_agent_tag = TRUE in conversions file: 
+  - SET owner_name = "AI Agent"
+- ELSE:
+  - USE owner_name from conversions file
+
+### Minimum Threshold:
+- MINIMUM_OPPORTUNITIES_PER_REP: 100
+- Only analyze reps with >= minimum opportunities for statistical significance
+
+## SCORING METHODOLOGY
+
+### Overall Score Calculation (100 points total):
+- QA Score Weight: 40%
+- Conversion Rate Weight: 60%
+- Formula: (QA_Score * 0.4) + (Conversion_Rate_Normalized * 0.6)
+
+### QA Scoring (40% of total):
+- Use sms_ddok_qa_prompt framework
+- Evaluate OUTBOUND messages only
+- Score each message 0-100 using prompt criteria:
+  - Conversation Effectiveness (0-50 points)
+  - Brand Alignment (0-50 points)
+- Calculate average QA score per rep across all their messages
+
+### Conversion Rate Scoring (60% of total):
+- Calculate: (successful_conversions / total_opportunities) * 100
+- Normalize to 0-100 scale for scoring
+- NORMALIZATION_METHOD: [EDIT: Choose method - linear, percentile-based, etc.]
+- CONVERSION_CAP: 100% -- if you have a anyone over 100 the joins have failed and ask to re-run the analysis, 
+
+## QA EVALUATION PARAMETERS
+### Company-Specific Variables (for sms_ddok_qa_prompt):
+- COMPANY_NAME: [EDIT: Insert company name, e.g., "DoorDash"]
+- WORKER_TYPE: [EDIT: Insert worker type, e.g., "Dasher"]
+- WORK_ACTIVITY: [EDIT: Insert activity, e.g., "Dashing"]
+- EXAMPLE_HOURLY_RATE: [EDIT: Insert rate, e.g., "25"]
+
+### Sensitive Topics & Guidelines:
+- SENSITIVE_TOPICS_CONTENT: [EDIT: Add company-specific banned topics/language]
+- TONE_GUIDELINES: [EDIT: Add specific tone requirements]
+- BRAND_VOICE: [EDIT: Add brand voice characteristics]
+
+### Message Evaluation Criteria:
+- MAX_MESSAGE_LENGTH: 300 characters
+- EMOJI_LIMIT: [EDIT: Set emoji usage limits]
+- REQUIRED_CTA: [EDIT: Specify if CTA is mandatory]
+- PROFESSIONAL_LANGUAGE: [EDIT: Define professional language standards]
+
+## ANALYSIS DEPTH REQUIREMENTS
+
+### Statistical Analysis:
+- CONFIDENCE_LEVEL: 90%
+- SAMPLE_SIZE_VALIDATION: Enable
+- OUTLIER_HANDLING: remove outliers in main analysis, call them out at the end of the report 
+
+### Performance Metrics:
+- Calculate per rep:
+  - Total opportunities handled
+  - Total messages sent
+  - Average messages per opportunity
+  - Message response rate (if inbound data available)
+  - Conversion funnel metrics
+  - QA score distribution (min, max, std dev)
+
+### Comparative Analysis:
+- Rank reps by overall score
+- Calculate percentile rankings
+- Identify top/bottom performers
+- Generate peer comparison insights
+
+## OUTPUT REQUIREMENTS
+
+### Executive Summary Structure:
+1. Overall Performance Overview
+2. Top Performers (Top 20% or Top 5, whichever is larger)
+3. Individual Rep Analysis
+4. Performance Distribution Analysis
+5. Key Insights & Recommendations
+
+### Individual Rep Analysis (for each rep):
+- Overall Grade: X/100
+- Rank: #X of Y total reps
+- QA Score: X/100 (40% weight)
+- Conversion Rate: X% (60% weight)
+- Key Metrics:
+  - Total opportunities: X
+  - Total messages: X
+  - Avg messages/opportunity: X
+  - Message quality consistency (std dev)
+
+### Feedback Format (per rep):
+- 2 Positive Bullet Points:
+  - Focus on strengths in QA or conversion performance
+  - Highlight best practices or standout metrics
+- 2 Areas for Improvement:
+  - Specific, actionable feedback
+  - Based on QA analysis and conversion gaps
+
+### Performance Insights:
+- CORRELATION_ANALYSIS: Enable 
+- MESSAGE_PATTERNS: Enable
+- TIMING_ANALYSIS: Enable
+- LENGTH_ANALYSIS: Enable
+
+## QUALITY CONTROLS
+
+### Data Validation:
+- Validate opportunity_uuid uniqueness in conversions file
+- Check for missing owner names
+- Validate message content (non-null, reasonable length)
+- Flag incomplete records for review
+
+### Analysis Validation:
+- Cross-check conversion calculations
+- Validate QA scoring consistency
+- Ensure statistical significance thresholds
+- Flag edge cases (e.g., 100%+ conversion rates)
+
+### Output Validation:
+- Verify score calculations
+- Check ranking logic
+- Validate feedback generation
+- Ensure all reps included appropriately
+
+## CUSTOMIZATION SECTIONS
+
+### Business Context:
+- ANALYSIS_PURPOSE: Grade SMS scores and find out what drives success in the DDOK message
+- STAKEHOLDER_AUDIENCE: Non technical sales managers and VP of the account 
+- ACTION_ORIENTATION: Share best practices across the team, which includes adding human best practices to the AI chatbot
+
+### Performance Standards:
+- EXCELLENT_QA_THRESHOLD: 85+
+- GOOD_QA_THRESHOLD: 70+
+- OK_QA_THRESHOLD: 50+
+- ATTENTION_NEEDED_QA_THRESHOLD: < 50
+- EXCELLENT_CONVERSION_THRESHOLD: 50%+ 
+- GOOD_CONVERSION_THRESHOLD: 40%+ 
+- OK_CONVERSION_THRESHOLD: 33%+
+- POOR_CONVERSION_THRESHOLD: 33%+
+- ATTENTION_NEEDED_CONVERSION_THRESHOLD: < 33%
+- ** when scoreing the conversions the points out of 100 should be: **
+      0-10% conversion — 0/100
+      11-20% comversion — (X% * 1.75) ie 13% = 26pts/100 
+      21-30% comversion — (X% * 2)
+      31-33% comversion — (X% * 2.1)
+      34%+ comversion — (X% * 2.2)
+      this score can go over 100, do not cap at 100
+
+### Reporting Preferences:
+- INCLUDE_RAW_SCORES: False
+- INCLUDE_MESSAGE_SAMPLES: false
+- INCLUDE_STATISTICAL_DETAILS: flase
+- ANONYMIZE_RESULTS: false
+
+### Advanced Analysis Options:
+- SEGMENT_BY_LEAD_TIER: false
+- SEGMENT_BY_TIME_PERIOD: monthly 
+- COMPETITIVE_BENCHMARKING: false
+- ROI_ANALYSIS: false
+
+## TECHNICAL SPECIFICATIONS
+
+### Processing Requirements:
+- Handle large datasets efficiently
+- Implement proper memory management
+- Include progress tracking for long-running analysis
+- Generate intermediate outputs for validation
+
+### Error Handling:
+- Graceful handling of malformed data
+- Clear error messages for data issues
+- Fallback scoring for edge cases
+- Comprehensive logging
+
+### Output Formats:
+- Primary: Markdown executive summary
+- Secondary: JSON data export for further analysis
+- Optional: CSV rankings export
+- Optional: Individual rep detailed reports
+
+## IMPLEMENTATION NOTES
+
+### Phase 1: Data Processing
+1. Load and validate input files
+2. Implement proper joins avoiding duplicates
+3. Clean and standardize data
+4. Apply rep identification logic
+
+### Phase 2: QA Analysis
+1. Implement QA prompt evaluation
+2. Process all outbound messages
+3. Calculate per-rep QA averages
+4. Generate QA insights
+
+### Phase 3: Conversion Analysis
+1. Calculate conversion rates per rep
+2. Normalize scores appropriately
+3. Apply statistical validation
+4. Generate conversion insights
+
+### Phase 4: Report Generation
+1. Calculate overall scores
+2. Generate rankings
+3. Create individual assessments
+4. Compile executive summary
+5. Chart that ranks sales reps on QA, Conversion, and the combined score
+
+### Phase 5: Validation & Review
+1. Validate all calculations
+2. Review edge cases
+3. Generate quality report
+4. Finalize outputs
+5. Share outout to reports folder, with date and version, check folder to see what is the latest version and add .1 so the first version would be 1.0
+
+---
+
+## EDIT CHECKLIST
+Before running analysis, review and customize:
+- [ ] Set minimum opportunities threshold
+- [ ] Define company-specific variables
+- [ ] Configure sensitive topics content
+- [ ] Set performance thresholds
+- [ ] Choose normalization methods
+- [ ] Configure output preferences
+- [ ] Review quality control parameters
+- [ ] Validate business context settings

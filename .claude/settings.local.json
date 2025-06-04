@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv:*)",
+      "Bash(rmdir:*)",
+      "Bash(rm:*)",
+      "Bash(python analysis/ddok_comprehensive_analysis.py:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(/opt/homebrew/share/google-cloud-sdk/bin/gcloud auth application-default print-access-token)",
+      "Bash(/opt/homebrew/share/google-cloud-sdk/bin/gcloud auth application-default login)",
+      "Bash(grep:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,36 @@
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.installed.cfg
+*.egg
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (if sensitive)
+# *.csv
+# *.json

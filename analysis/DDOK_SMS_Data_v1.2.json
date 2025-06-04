@@ -1,0 +1,3261 @@
+{
+  "rep_scores": {
+    "Jake Damon": {
+      "overall_score": 55.59571137150718,
+      "qa_score": 89.9238578680203,
+      "conversion_rate": 32.71028037383177,
+      "normalized_conversion": 32.71028037383177,
+      "total_opportunities": 107,
+      "successful_conversions": 35,
+      "total_messages": 394,
+      "qa_std": 8.724159194144335,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          352
+        ],
+        [
+          "Professional formatting",
+          329
+        ],
+        [
+          "Engages with questions",
+          289
+        ],
+        [
+          "Personal, conversational tone",
+          193
+        ],
+        [
+          "Optimal message length",
+          160
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          54
+        ],
+        [
+          "Missing clear call-to-action",
+          41
+        ],
+        [
+          "Message too short",
+          2
+        ],
+        [
+          "Empty or invalid message",
+          1
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ],
+      "overall_rank": 14,
+      "percentile": 50.0
+    },
+    "Velvet Burghardt": {
+      "overall_score": 56.219795504408665,
+      "qa_score": 88.08643457382954,
+      "conversion_rate": 34.97536945812808,
+      "normalized_conversion": 34.97536945812808,
+      "total_opportunities": 203,
+      "successful_conversions": 71,
+      "total_messages": 833,
+      "qa_std": 8.00658317901601,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          718
+        ],
+        [
+          "Professional formatting",
+          704
+        ],
+        [
+          "Engages with questions",
+          653
+        ],
+        [
+          "Personal, conversational tone",
+          471
+        ],
+        [
+          "Mentions value proposition",
+          378
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          294
+        ],
+        [
+          "Missing clear call-to-action",
+          115
+        ],
+        [
+          "Aggressive tone: asap",
+          22
+        ],
+        [
+          "Aggressive tone: right now",
+          10
+        ],
+        [
+          "Message too short",
+          8
+        ]
+      ],
+      "overall_rank": 12,
+      "percentile": 57.692307692307686
+    },
+    "AI Agent": {
+      "overall_score": 51.351528079332674,
+      "qa_score": 92.6649973741466,
+      "conversion_rate": 23.809215216123388,
+      "normalized_conversion": 23.809215216123388,
+      "total_opportunities": 30862,
+      "successful_conversions": 7348,
+      "total_messages": 53316,
+      "qa_std": 3.129214895109081,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          52910
+        ],
+        [
+          "Professional formatting",
+          52659
+        ],
+        [
+          "Engages with questions",
+          46524
+        ],
+        [
+          "Personal, conversational tone",
+          44370
+        ],
+        [
+          "Optimal message length",
+          14483
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          2683
+        ],
+        [
+          "Missing clear call-to-action",
+          406
+        ],
+        [
+          "Aggressive tone: right now",
+          302
+        ],
+        [
+          "Unprofessional language: hell",
+          195
+        ],
+        [
+          "Aggressive tone: you need to",
+          107
+        ]
+      ],
+      "overall_rank": 23,
+      "percentile": 15.384615384615385
+    },
+    "Savanna Seaman": {
+      "overall_score": 58.99738958470666,
+      "qa_score": 89.38536585365854,
+      "conversion_rate": 38.73873873873874,
+      "normalized_conversion": 38.73873873873874,
+      "total_opportunities": 111,
+      "successful_conversions": 43,
+      "total_messages": 410,
+      "qa_std": 6.438662221891633,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          354
+        ],
+        [
+          "Professional formatting",
+          310
+        ],
+        [
+          "Engages with questions",
+          270
+        ],
+        [
+          "Personal, conversational tone",
+          160
+        ],
+        [
+          "Optimal message length",
+          152
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          65
+        ],
+        [
+          "Missing clear call-to-action",
+          56
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ],
+      "overall_rank": 7,
+      "percentile": 76.92307692307693
+    },
+    "Safa Aboudaoud": {
+      "overall_score": 64.34991063207497,
+      "qa_score": 87.90180360721443,
+      "conversion_rate": 48.64864864864865,
+      "normalized_conversion": 48.64864864864865,
+      "total_opportunities": 111,
+      "successful_conversions": 54,
+      "total_messages": 499,
+      "qa_std": 9.78733675086623,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          385
+        ],
+        [
+          "Professional formatting",
+          366
+        ],
+        [
+          "Engages with questions",
+          320
+        ],
+        [
+          "Optimal message length",
+          246
+        ],
+        [
+          "Personal, conversational tone",
+          182
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          114
+        ],
+        [
+          "Message exceeds 300 character limit",
+          47
+        ],
+        [
+          "Message too short",
+          14
+        ],
+        [
+          "Aggressive tone: asap",
+          5
+        ]
+      ],
+      "overall_rank": 1,
+      "percentile": 100.0
+    },
+    "Pamela Perez": {
+      "overall_score": 56.32917697509484,
+      "qa_score": 88.96124031007751,
+      "conversion_rate": 34.57446808510639,
+      "normalized_conversion": 34.57446808510639,
+      "total_opportunities": 188,
+      "successful_conversions": 65,
+      "total_messages": 903,
+      "qa_std": 6.340787425280426,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          868
+        ],
+        [
+          "Personal, conversational tone",
+          591
+        ],
+        [
+          "Engages with questions",
+          569
+        ],
+        [
+          "Professional formatting",
+          503
+        ],
+        [
+          "Helpful and supportive tone",
+          474
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          464
+        ],
+        [
+          "Missing clear call-to-action",
+          35
+        ],
+        [
+          "Aggressive tone: right now",
+          20
+        ],
+        [
+          "Aggressive tone: you need to",
+          3
+        ],
+        [
+          "Message too short",
+          3
+        ]
+      ],
+      "overall_rank": 11,
+      "percentile": 61.53846153846154
+    },
+    "Danielle DaCosta": {
+      "overall_score": 54.07638112569869,
+      "qa_score": 90.29299363057325,
+      "conversion_rate": 29.931972789115648,
+      "normalized_conversion": 29.931972789115648,
+      "total_opportunities": 147,
+      "successful_conversions": 44,
+      "total_messages": 628,
+      "qa_std": 8.575265234424167,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          543
+        ],
+        [
+          "Engages with questions",
+          481
+        ],
+        [
+          "Professional formatting",
+          476
+        ],
+        [
+          "Personal, conversational tone",
+          382
+        ],
+        [
+          "Optimal message length",
+          299
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          85
+        ],
+        [
+          "Message exceeds 300 character limit",
+          71
+        ],
+        [
+          "Message too short",
+          10
+        ],
+        [
+          "Unprofessional language: hell",
+          5
+        ],
+        [
+          "Excessive capitalization",
+          3
+        ]
+      ],
+      "overall_rank": 18,
+      "percentile": 34.61538461538461
+    },
+    "Austin Hardin": {
+      "overall_score": 53.54995527584188,
+      "qa_score": 92.16365824308063,
+      "conversion_rate": 27.807486631016044,
+      "normalized_conversion": 27.807486631016044,
+      "total_opportunities": 187,
+      "successful_conversions": 52,
+      "total_messages": 831,
+      "qa_std": 5.947194676769438,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          800
+        ],
+        [
+          "Contains clear call-to-action",
+          775
+        ],
+        [
+          "Engages with questions",
+          769
+        ],
+        [
+          "Personal, conversational tone",
+          451
+        ],
+        [
+          "Helpful and supportive tone",
+          339
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          147
+        ],
+        [
+          "Missing clear call-to-action",
+          56
+        ],
+        [
+          "Aggressive tone: right now",
+          3
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ],
+        [
+          "Aggressive tone: you must",
+          1
+        ]
+      ],
+      "overall_rank": 20,
+      "percentile": 26.923076923076923
+    },
+    "Anna Pangelinan": {
+      "overall_score": 51.18496240601504,
+      "qa_score": 93.0,
+      "conversion_rate": 23.308270676691727,
+      "normalized_conversion": 23.308270676691727,
+      "total_opportunities": 133,
+      "successful_conversions": 31,
+      "total_messages": 163,
+      "qa_std": 0.0,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          163
+        ],
+        [
+          "Engages with questions",
+          163
+        ],
+        [
+          "Personal, conversational tone",
+          163
+        ],
+        [
+          "Professional formatting",
+          163
+        ],
+        [
+          "Optimal message length",
+          30
+        ]
+      ],
+      "common_issues": [],
+      "overall_rank": 24,
+      "percentile": 11.538461538461538
+    },
+    "Nicole Piccolo": {
+      "overall_score": 56.188941502149056,
+      "qa_score": 89.52895752895753,
+      "conversion_rate": 33.9622641509434,
+      "normalized_conversion": 33.9622641509434,
+      "total_opportunities": 159,
+      "successful_conversions": 54,
+      "total_messages": 777,
+      "qa_std": 6.703463295101671,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          687
+        ],
+        [
+          "Engages with questions",
+          610
+        ],
+        [
+          "Professional formatting",
+          608
+        ],
+        [
+          "Personal, conversational tone",
+          396
+        ],
+        [
+          "Mentions value proposition",
+          345
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          242
+        ],
+        [
+          "Missing clear call-to-action",
+          90
+        ],
+        [
+          "Unprofessional language: hell",
+          8
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Aggressive tone: right now",
+          2
+        ]
+      ],
+      "overall_rank": 13,
+      "percentile": 53.84615384615385
+    },
+    "Chris Jensen": {
+      "overall_score": 58.72909880974872,
+      "qa_score": 90.10632911392405,
+      "conversion_rate": 37.81094527363184,
+      "normalized_conversion": 37.81094527363184,
+      "total_opportunities": 201,
+      "successful_conversions": 76,
+      "total_messages": 790,
+      "qa_std": 5.758105828059003,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          776
+        ],
+        [
+          "Professional formatting",
+          647
+        ],
+        [
+          "Engages with questions",
+          625
+        ],
+        [
+          "Personal, conversational tone",
+          427
+        ],
+        [
+          "Mentions value proposition",
+          306
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          306
+        ],
+        [
+          "Aggressive tone: asap",
+          20
+        ],
+        [
+          "Missing clear call-to-action",
+          14
+        ],
+        [
+          "Too many questions",
+          1
+        ]
+      ],
+      "overall_rank": 8,
+      "percentile": 73.07692307692307
+    },
+    "Kodee Martin": {
+      "overall_score": 52.84225067743478,
+      "qa_score": 89.69183359013867,
+      "conversion_rate": 28.27586206896552,
+      "normalized_conversion": 28.27586206896552,
+      "total_opportunities": 145,
+      "successful_conversions": 41,
+      "total_messages": 649,
+      "qa_std": 5.520429450873966,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          562
+        ],
+        [
+          "Engages with questions",
+          523
+        ],
+        [
+          "Professional formatting",
+          391
+        ],
+        [
+          "Personal, conversational tone",
+          371
+        ],
+        [
+          "Mentions value proposition",
+          238
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          195
+        ],
+        [
+          "Missing clear call-to-action",
+          87
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Aggressive tone: asap",
+          2
+        ]
+      ],
+      "overall_rank": 21,
+      "percentile": 23.076923076923077
+    },
+    "Isaac Stansbury": {
+      "overall_score": 62.87134128600523,
+      "qa_score": 88.60692464358452,
+      "conversion_rate": 45.714285714285715,
+      "normalized_conversion": 45.714285714285715,
+      "total_opportunities": 105,
+      "successful_conversions": 48,
+      "total_messages": 491,
+      "qa_std": 9.621252830104716,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          452
+        ],
+        [
+          "Contains clear call-to-action",
+          446
+        ],
+        [
+          "Engages with questions",
+          307
+        ],
+        [
+          "Personal, conversational tone",
+          229
+        ],
+        [
+          "Optimal message length",
+          227
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          105
+        ],
+        [
+          "Missing clear call-to-action",
+          45
+        ],
+        [
+          "Aggressive tone: asap",
+          39
+        ],
+        [
+          "Message too short",
+          6
+        ],
+        [
+          "Aggressive tone: you need to",
+          4
+        ]
+      ],
+      "overall_rank": 2,
+      "percentile": 96.15384615384616
+    },
+    "Ryan Alford": {
+      "overall_score": 59.782346818868554,
+      "qa_score": 91.69189189189188,
+      "conversion_rate": 38.50931677018634,
+      "normalized_conversion": 38.50931677018634,
+      "total_opportunities": 161,
+      "successful_conversions": 62,
+      "total_messages": 555,
+      "qa_std": 5.341375723438978,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          507
+        ],
+        [
+          "Professional formatting",
+          469
+        ],
+        [
+          "Engages with questions",
+          435
+        ],
+        [
+          "Mentions value proposition",
+          294
+        ],
+        [
+          "Personal, conversational tone",
+          199
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          48
+        ],
+        [
+          "Message exceeds 300 character limit",
+          16
+        ],
+        [
+          "Aggressive tone: right now",
+          10
+        ],
+        [
+          "Aggressive tone: immediately",
+          1
+        ],
+        [
+          "Unprofessional language: hell",
+          1
+        ]
+      ],
+      "overall_rank": 4,
+      "percentile": 88.46153846153845
+    },
+    "Samuel Tedla": {
+      "overall_score": 61.0531394056235,
+      "qa_score": 92.0738423028786,
+      "conversion_rate": 40.37267080745342,
+      "normalized_conversion": 40.37267080745342,
+      "total_opportunities": 161,
+      "successful_conversions": 65,
+      "total_messages": 799,
+      "qa_std": 4.750158854353157,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          731
+        ],
+        [
+          "Professional formatting",
+          671
+        ],
+        [
+          "Engages with questions",
+          627
+        ],
+        [
+          "Optimal message length",
+          553
+        ],
+        [
+          "Personal, conversational tone",
+          372
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          68
+        ],
+        [
+          "Aggressive tone: immediately",
+          9
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Message exceeds 300 character limit",
+          3
+        ]
+      ],
+      "overall_rank": 3,
+      "percentile": 92.3076923076923
+    },
+    "Adriana Pena": {
+      "overall_score": 55.33846153846153,
+      "qa_score": 88.34615384615384,
+      "conversion_rate": 33.33333333333333,
+      "normalized_conversion": 33.33333333333333,
+      "total_opportunities": 174,
+      "successful_conversions": 58,
+      "total_messages": 650,
+      "qa_std": 7.87177190341592,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          525
+        ],
+        [
+          "Professional formatting",
+          484
+        ],
+        [
+          "Engages with questions",
+          451
+        ],
+        [
+          "Personal, conversational tone",
+          323
+        ],
+        [
+          "Mentions value proposition",
+          252
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          125
+        ],
+        [
+          "Message exceeds 300 character limit",
+          117
+        ],
+        [
+          "Message too short",
+          5
+        ],
+        [
+          "Unprofessional language: hell",
+          2
+        ],
+        [
+          "Grammar: lowercase 'i'",
+          1
+        ]
+      ],
+      "overall_rank": 15,
+      "percentile": 46.15384615384615
+    },
+    "Sarah Lee": {
+      "overall_score": 58.12038834951456,
+      "qa_score": 89.96116504854369,
+      "conversion_rate": 36.89320388349515,
+      "normalized_conversion": 36.89320388349515,
+      "total_opportunities": 103,
+      "successful_conversions": 38,
+      "total_messages": 515,
+      "qa_std": 5.531063785911978,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          464
+        ],
+        [
+          "Engages with questions",
+          365
+        ],
+        [
+          "Professional formatting",
+          362
+        ],
+        [
+          "Personal, conversational tone",
+          273
+        ],
+        [
+          "Optimal message length",
+          207
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          101
+        ],
+        [
+          "Missing clear call-to-action",
+          51
+        ],
+        [
+          "Aggressive tone: right now",
+          2
+        ],
+        [
+          "Unprofessional language: hell",
+          1
+        ],
+        [
+          "Aggressive tone: asap",
+          1
+        ]
+      ],
+      "overall_rank": 9,
+      "percentile": 69.23076923076923
+    },
+    "Tierra Bacon": {
+      "overall_score": 58.112806313166274,
+      "qa_score": 92.86266094420601,
+      "conversion_rate": 34.946236559139784,
+      "normalized_conversion": 34.946236559139784,
+      "total_opportunities": 186,
+      "successful_conversions": 65,
+      "total_messages": 699,
+      "qa_std": 4.539890819848286,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          660
+        ],
+        [
+          "Professional formatting",
+          537
+        ],
+        [
+          "Engages with questions",
+          520
+        ],
+        [
+          "Optimal message length",
+          362
+        ],
+        [
+          "Personal, conversational tone",
+          285
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          39
+        ],
+        [
+          "Message exceeds 300 character limit",
+          34
+        ],
+        [
+          "Aggressive tone: immediately",
+          4
+        ],
+        [
+          "Unprofessional language: hell",
+          2
+        ]
+      ],
+      "overall_rank": 10,
+      "percentile": 65.38461538461539
+    },
+    "Jeff Tafipolsky": {
+      "overall_score": 59.3686220027498,
+      "qa_score": 89.46201743462018,
+      "conversion_rate": 39.30635838150289,
+      "normalized_conversion": 39.30635838150289,
+      "total_opportunities": 173,
+      "successful_conversions": 68,
+      "total_messages": 803,
+      "qa_std": 6.120580753233853,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          713
+        ],
+        [
+          "Engages with questions",
+          594
+        ],
+        [
+          "Professional formatting",
+          532
+        ],
+        [
+          "Personal, conversational tone",
+          390
+        ],
+        [
+          "Mentions value proposition",
+          330
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          250
+        ],
+        [
+          "Missing clear call-to-action",
+          90
+        ],
+        [
+          "Unprofessional language: hell",
+          4
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ],
+      "overall_rank": 6,
+      "percentile": 80.76923076923077
+    },
+    "Jacob Shapiro": {
+      "overall_score": 52.43793961325342,
+      "qa_score": 89.5407949790795,
+      "conversion_rate": 27.7027027027027,
+      "normalized_conversion": 27.7027027027027,
+      "total_opportunities": 148,
+      "successful_conversions": 41,
+      "total_messages": 956,
+      "qa_std": 12.160081522407923,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          831
+        ],
+        [
+          "Professional formatting",
+          800
+        ],
+        [
+          "Engages with questions",
+          584
+        ],
+        [
+          "Personal, conversational tone",
+          451
+        ],
+        [
+          "Mentions value proposition",
+          399
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          117
+        ],
+        [
+          "Message exceeds 300 character limit",
+          77
+        ],
+        [
+          "Empty or invalid message",
+          8
+        ],
+        [
+          "Message too short",
+          4
+        ],
+        [
+          "Aggressive tone: you need to",
+          3
+        ]
+      ],
+      "overall_rank": 22,
+      "percentile": 19.230769230769234
+    },
+    "Kyle Capstick": {
+      "overall_score": 55.210559006211184,
+      "qa_score": 89.92857142857143,
+      "conversion_rate": 32.065217391304344,
+      "normalized_conversion": 32.065217391304344,
+      "total_opportunities": 184,
+      "successful_conversions": 59,
+      "total_messages": 882,
+      "qa_std": 8.18691090730085,
+      "common_strengths": [
+        [
+          "Engages with questions",
+          752
+        ],
+        [
+          "Contains clear call-to-action",
+          747
+        ],
+        [
+          "Professional formatting",
+          675
+        ],
+        [
+          "Personal, conversational tone",
+          455
+        ],
+        [
+          "Mentions value proposition",
+          378
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          135
+        ],
+        [
+          "Message exceeds 300 character limit",
+          107
+        ],
+        [
+          "Message too short",
+          8
+        ],
+        [
+          "Unprofessional language: hell",
+          5
+        ],
+        [
+          "Aggressive tone: you need to",
+          2
+        ]
+      ],
+      "overall_rank": 16,
+      "percentile": 42.30769230769231
+    },
+    "Ardy Ghavimi": {
+      "overall_score": 59.70918936136328,
+      "qa_score": 89.74916387959867,
+      "conversion_rate": 39.682539682539684,
+      "normalized_conversion": 39.682539682539684,
+      "total_opportunities": 189,
+      "successful_conversions": 75,
+      "total_messages": 897,
+      "qa_std": 7.09220699650551,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          803
+        ],
+        [
+          "Engages with questions",
+          759
+        ],
+        [
+          "Professional formatting",
+          673
+        ],
+        [
+          "Personal, conversational tone",
+          486
+        ],
+        [
+          "Mentions value proposition",
+          397
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          159
+        ],
+        [
+          "Missing clear call-to-action",
+          94
+        ],
+        [
+          "Aggressive tone: you need to",
+          56
+        ],
+        [
+          "Aggressive tone: right now",
+          6
+        ]
+      ],
+      "overall_rank": 5,
+      "percentile": 84.61538461538461
+    },
+    "Hevo API": {
+      "overall_score": 48.965455756179814,
+      "qa_score": 92.89684233568653,
+      "conversion_rate": 19.67786470317533,
+      "normalized_conversion": 19.67786470317533,
+      "total_opportunities": 10865,
+      "successful_conversions": 2138,
+      "total_messages": 18273,
+      "qa_std": 1.616734908035808,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          18264
+        ],
+        [
+          "Professional formatting",
+          18259
+        ],
+        [
+          "Personal, conversational tone",
+          18221
+        ],
+        [
+          "Engages with questions",
+          15210
+        ],
+        [
+          "Optimal message length",
+          7775
+        ]
+      ],
+      "common_issues": [
+        [
+          "Unprofessional language: hell",
+          63
+        ],
+        [
+          "Message exceeds 300 character limit",
+          17
+        ],
+        [
+          "Missing clear call-to-action",
+          9
+        ],
+        [
+          "Unprofessional language: shit",
+          4
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ],
+      "overall_rank": 26,
+      "percentile": 3.8461538461538463
+    },
+    "Moss Konick": {
+      "overall_score": 53.81456323206835,
+      "qa_score": 89.61662198391421,
+      "conversion_rate": 29.946524064171122,
+      "normalized_conversion": 29.946524064171122,
+      "total_opportunities": 187,
+      "successful_conversions": 56,
+      "total_messages": 746,
+      "qa_std": 6.895850433432223,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          673
+        ],
+        [
+          "Engages with questions",
+          585
+        ],
+        [
+          "Professional formatting",
+          457
+        ],
+        [
+          "Personal, conversational tone",
+          357
+        ],
+        [
+          "Optimal message length",
+          265
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          118
+        ],
+        [
+          "Missing clear call-to-action",
+          73
+        ],
+        [
+          "Aggressive tone: asap",
+          19
+        ],
+        [
+          "Aggressive tone: you need to",
+          4
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ]
+      ],
+      "overall_rank": 19,
+      "percentile": 30.76923076923077
+    },
+    "Megan Obina": {
+      "overall_score": 51.15043096774193,
+      "qa_score": 89.1664,
+      "conversion_rate": 25.806451612903224,
+      "normalized_conversion": 25.806451612903224,
+      "total_opportunities": 186,
+      "successful_conversions": 48,
+      "total_messages": 625,
+      "qa_std": 8.586565730255607,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          576
+        ],
+        [
+          "Engages with questions",
+          519
+        ],
+        [
+          "Contains clear call-to-action",
+          499
+        ],
+        [
+          "Optimal message length",
+          301
+        ],
+        [
+          "Personal, conversational tone",
+          278
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          126
+        ],
+        [
+          "Message exceeds 300 character limit",
+          42
+        ],
+        [
+          "Aggressive tone: asap",
+          14
+        ],
+        [
+          "Message too short",
+          11
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ]
+      ],
+      "overall_rank": 25,
+      "percentile": 7.6923076923076925
+    },
+    "Joelle Martin": {
+      "overall_score": 54.770783559771,
+      "qa_score": 89.93900709219858,
+      "conversion_rate": 31.32530120481928,
+      "normalized_conversion": 31.32530120481928,
+      "total_opportunities": 166,
+      "successful_conversions": 52,
+      "total_messages": 705,
+      "qa_std": 8.886389090675227,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          561
+        ],
+        [
+          "Professional formatting",
+          547
+        ],
+        [
+          "Engages with questions",
+          459
+        ],
+        [
+          "Optimal message length",
+          319
+        ],
+        [
+          "Personal, conversational tone",
+          253
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          144
+        ],
+        [
+          "Message too short",
+          15
+        ],
+        [
+          "Message exceeds 300 character limit",
+          14
+        ],
+        [
+          "Excessive capitalization",
+          1
+        ],
+        [
+          "Aggressive tone: you need to",
+          1
+        ]
+      ],
+      "overall_rank": 17,
+      "percentile": 38.46153846153847
+    }
+  },
+  "qa_results": {
+    "Anna Pangelinan": {
+      "avg_qa_score": 93.0,
+      "median_qa_score": 93.0,
+      "qa_std": 0.0,
+      "min_qa_score": "93",
+      "max_qa_score": "93",
+      "total_messages": 163,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          163
+        ],
+        [
+          "Engages with questions",
+          163
+        ],
+        [
+          "Personal, conversational tone",
+          163
+        ],
+        [
+          "Professional formatting",
+          163
+        ],
+        [
+          "Optimal message length",
+          30
+        ]
+      ],
+      "common_issues": []
+    },
+    "AI Agent": {
+      "avg_qa_score": 92.6649973741466,
+      "median_qa_score": 93.0,
+      "qa_std": 3.129214895109081,
+      "min_qa_score": "46",
+      "max_qa_score": "98",
+      "total_messages": 53316,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          52910
+        ],
+        [
+          "Professional formatting",
+          52659
+        ],
+        [
+          "Engages with questions",
+          46524
+        ],
+        [
+          "Personal, conversational tone",
+          44370
+        ],
+        [
+          "Optimal message length",
+          14483
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          2683
+        ],
+        [
+          "Missing clear call-to-action",
+          406
+        ],
+        [
+          "Aggressive tone: right now",
+          302
+        ],
+        [
+          "Unprofessional language: hell",
+          195
+        ],
+        [
+          "Aggressive tone: you need to",
+          107
+        ]
+      ]
+    },
+    "Dante Franco": {
+      "avg_qa_score": 90.6,
+      "median_qa_score": 93.0,
+      "qa_std": 3.826225293941798,
+      "min_qa_score": "86",
+      "max_qa_score": "95",
+      "total_messages": 5,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          5
+        ],
+        [
+          "Engages with questions",
+          3
+        ],
+        [
+          "Professional formatting",
+          3
+        ],
+        [
+          "Personal, conversational tone",
+          3
+        ],
+        [
+          "Mentions value proposition",
+          2
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          2
+        ]
+      ]
+    },
+    "Maricruz Rojas": {
+      "avg_qa_score": 92.53846153846153,
+      "median_qa_score": 93.0,
+      "qa_std": 2.4215501905687993,
+      "min_qa_score": "81",
+      "max_qa_score": "95",
+      "total_messages": 26,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          26
+        ],
+        [
+          "Engages with questions",
+          24
+        ],
+        [
+          "Personal, conversational tone",
+          23
+        ],
+        [
+          "Professional formatting",
+          23
+        ],
+        [
+          "Optimal message length",
+          7
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          2
+        ]
+      ]
+    },
+    "Synova Najarian": {
+      "avg_qa_score": 87.8,
+      "median_qa_score": 93.0,
+      "qa_std": 7.413501197140255,
+      "min_qa_score": "74",
+      "max_qa_score": "93",
+      "total_messages": 5,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          5
+        ],
+        [
+          "Personal, conversational tone",
+          5
+        ],
+        [
+          "Mentions value proposition",
+          4
+        ],
+        [
+          "Professional formatting",
+          4
+        ],
+        [
+          "Engages with questions",
+          4
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          2
+        ],
+        [
+          "Aggressive tone: immediately",
+          1
+        ]
+      ]
+    },
+    "Liza Alfaro": {
+      "avg_qa_score": 93.66666666666667,
+      "median_qa_score": 93.0,
+      "qa_std": 0.9428090415820634,
+      "min_qa_score": "93",
+      "max_qa_score": "95",
+      "total_messages": 3,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          3
+        ],
+        [
+          "Personal, conversational tone",
+          3
+        ],
+        [
+          "Optimal message length",
+          2
+        ],
+        [
+          "Engages with questions",
+          2
+        ],
+        [
+          "Professional formatting",
+          2
+        ]
+      ],
+      "common_issues": []
+    },
+    "Marco Campollo": {
+      "avg_qa_score": 90.5,
+      "median_qa_score": 90.5,
+      "qa_std": 2.5,
+      "min_qa_score": "88",
+      "max_qa_score": "93",
+      "total_messages": 2,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          2
+        ],
+        [
+          "Engages with questions",
+          2
+        ],
+        [
+          "Mentions value proposition",
+          1
+        ],
+        [
+          "Helpful and supportive tone",
+          1
+        ],
+        [
+          "Personal, conversational tone",
+          1
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          1
+        ]
+      ]
+    },
+    "Sebrinna Padilla": {
+      "avg_qa_score": 93.0,
+      "median_qa_score": 93.0,
+      "qa_std": 3.3380918415851206,
+      "min_qa_score": "86",
+      "max_qa_score": "98",
+      "total_messages": 7,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          7
+        ],
+        [
+          "Personal, conversational tone",
+          6
+        ],
+        [
+          "Professional formatting",
+          6
+        ],
+        [
+          "Engages with questions",
+          4
+        ],
+        [
+          "Optimal message length",
+          3
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          1
+        ]
+      ]
+    },
+    "Zackery Killingsworth": {
+      "avg_qa_score": 94.8,
+      "median_qa_score": 95.0,
+      "qa_std": 1.8330302779823358,
+      "min_qa_score": "93",
+      "max_qa_score": "98",
+      "total_messages": 5,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          5
+        ],
+        [
+          "Personal, conversational tone",
+          4
+        ],
+        [
+          "Optimal message length",
+          3
+        ],
+        [
+          "Engages with questions",
+          3
+        ],
+        [
+          "Professional formatting",
+          3
+        ]
+      ],
+      "common_issues": []
+    },
+    "Nelson Arana": {
+      "avg_qa_score": 92.0,
+      "median_qa_score": 93.0,
+      "qa_std": 2.943920288775949,
+      "min_qa_score": "88",
+      "max_qa_score": "95",
+      "total_messages": 3,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          3
+        ],
+        [
+          "Engages with questions",
+          3
+        ],
+        [
+          "Mentions value proposition",
+          2
+        ],
+        [
+          "Helpful and supportive tone",
+          2
+        ],
+        [
+          "Personal, conversational tone",
+          1
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          1
+        ]
+      ]
+    },
+    "Samantha Garrison": {
+      "avg_qa_score": 93.14285714285714,
+      "median_qa_score": 95.0,
+      "qa_std": 5.138887356744271,
+      "min_qa_score": "81",
+      "max_qa_score": "98",
+      "total_messages": 7,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          7
+        ],
+        [
+          "Optimal message length",
+          5
+        ],
+        [
+          "Helpful and supportive tone",
+          5
+        ],
+        [
+          "Mentions value proposition",
+          3
+        ],
+        [
+          "Professional formatting",
+          3
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          1
+        ]
+      ]
+    },
+    "Adriana Pena": {
+      "avg_qa_score": 88.34615384615384,
+      "median_qa_score": 93.0,
+      "qa_std": 7.87177190341592,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 650,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          525
+        ],
+        [
+          "Professional formatting",
+          484
+        ],
+        [
+          "Engages with questions",
+          451
+        ],
+        [
+          "Personal, conversational tone",
+          323
+        ],
+        [
+          "Mentions value proposition",
+          252
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          125
+        ],
+        [
+          "Message exceeds 300 character limit",
+          117
+        ],
+        [
+          "Message too short",
+          5
+        ],
+        [
+          "Unprofessional language: hell",
+          2
+        ],
+        [
+          "Grammar: lowercase 'i'",
+          1
+        ]
+      ]
+    },
+    "Ardy Ghavimi": {
+      "avg_qa_score": 89.74916387959867,
+      "median_qa_score": 93.0,
+      "qa_std": 7.09220699650551,
+      "min_qa_score": "66",
+      "max_qa_score": "98",
+      "total_messages": 897,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          803
+        ],
+        [
+          "Engages with questions",
+          759
+        ],
+        [
+          "Professional formatting",
+          673
+        ],
+        [
+          "Personal, conversational tone",
+          486
+        ],
+        [
+          "Mentions value proposition",
+          397
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          159
+        ],
+        [
+          "Missing clear call-to-action",
+          94
+        ],
+        [
+          "Aggressive tone: you need to",
+          56
+        ],
+        [
+          "Aggressive tone: right now",
+          6
+        ]
+      ]
+    },
+    "Austin Hardin": {
+      "avg_qa_score": 92.16365824308063,
+      "median_qa_score": 93.0,
+      "qa_std": 5.947194676769438,
+      "min_qa_score": "60",
+      "max_qa_score": "98",
+      "total_messages": 831,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          800
+        ],
+        [
+          "Contains clear call-to-action",
+          775
+        ],
+        [
+          "Engages with questions",
+          769
+        ],
+        [
+          "Personal, conversational tone",
+          451
+        ],
+        [
+          "Helpful and supportive tone",
+          339
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          147
+        ],
+        [
+          "Missing clear call-to-action",
+          56
+        ],
+        [
+          "Aggressive tone: right now",
+          3
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ],
+        [
+          "Aggressive tone: you must",
+          1
+        ]
+      ]
+    },
+    "Chris Jensen": {
+      "avg_qa_score": 90.10632911392405,
+      "median_qa_score": 93.0,
+      "qa_std": 5.758105828059003,
+      "min_qa_score": "60",
+      "max_qa_score": "98",
+      "total_messages": 790,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          776
+        ],
+        [
+          "Professional formatting",
+          647
+        ],
+        [
+          "Engages with questions",
+          625
+        ],
+        [
+          "Personal, conversational tone",
+          427
+        ],
+        [
+          "Mentions value proposition",
+          306
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          306
+        ],
+        [
+          "Aggressive tone: asap",
+          20
+        ],
+        [
+          "Missing clear call-to-action",
+          14
+        ],
+        [
+          "Too many questions",
+          1
+        ]
+      ]
+    },
+    "Danielle DaCosta": {
+      "avg_qa_score": 90.29299363057325,
+      "median_qa_score": 93.0,
+      "qa_std": 8.575265234424167,
+      "min_qa_score": "40",
+      "max_qa_score": "98",
+      "total_messages": 628,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          543
+        ],
+        [
+          "Engages with questions",
+          481
+        ],
+        [
+          "Professional formatting",
+          476
+        ],
+        [
+          "Personal, conversational tone",
+          382
+        ],
+        [
+          "Optimal message length",
+          299
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          85
+        ],
+        [
+          "Message exceeds 300 character limit",
+          71
+        ],
+        [
+          "Message too short",
+          10
+        ],
+        [
+          "Unprofessional language: hell",
+          5
+        ],
+        [
+          "Excessive capitalization",
+          3
+        ]
+      ]
+    },
+    "Eugene Arnold": {
+      "avg_qa_score": 87.69469026548673,
+      "median_qa_score": 93.0,
+      "qa_std": 9.50196384646157,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 452,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          376
+        ],
+        [
+          "Contains clear call-to-action",
+          372
+        ],
+        [
+          "Engages with questions",
+          289
+        ],
+        [
+          "Personal, conversational tone",
+          236
+        ],
+        [
+          "Optimal message length",
+          195
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          80
+        ],
+        [
+          "Message exceeds 300 character limit",
+          53
+        ],
+        [
+          "Aggressive tone: asap",
+          35
+        ],
+        [
+          "Message too short",
+          5
+        ],
+        [
+          "Grammar: lowercase 'i'",
+          4
+        ]
+      ]
+    },
+    "Hevo API": {
+      "avg_qa_score": 92.89684233568653,
+      "median_qa_score": 93.0,
+      "qa_std": 1.616734908035808,
+      "min_qa_score": "61",
+      "max_qa_score": "98",
+      "total_messages": 18273,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          18264
+        ],
+        [
+          "Professional formatting",
+          18259
+        ],
+        [
+          "Personal, conversational tone",
+          18221
+        ],
+        [
+          "Engages with questions",
+          15210
+        ],
+        [
+          "Optimal message length",
+          7775
+        ]
+      ],
+      "common_issues": [
+        [
+          "Unprofessional language: hell",
+          63
+        ],
+        [
+          "Message exceeds 300 character limit",
+          17
+        ],
+        [
+          "Missing clear call-to-action",
+          9
+        ],
+        [
+          "Unprofessional language: shit",
+          4
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ]
+    },
+    "Isaac Stansbury": {
+      "avg_qa_score": 88.60692464358452,
+      "median_qa_score": 93.0,
+      "qa_std": 9.621252830104716,
+      "min_qa_score": "53",
+      "max_qa_score": "98",
+      "total_messages": 491,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          452
+        ],
+        [
+          "Contains clear call-to-action",
+          446
+        ],
+        [
+          "Engages with questions",
+          307
+        ],
+        [
+          "Personal, conversational tone",
+          229
+        ],
+        [
+          "Optimal message length",
+          227
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          105
+        ],
+        [
+          "Missing clear call-to-action",
+          45
+        ],
+        [
+          "Aggressive tone: asap",
+          39
+        ],
+        [
+          "Message too short",
+          6
+        ],
+        [
+          "Aggressive tone: you need to",
+          4
+        ]
+      ]
+    },
+    "Jacob Shapiro": {
+      "avg_qa_score": 89.5407949790795,
+      "median_qa_score": 93.0,
+      "qa_std": 12.160081522407923,
+      "min_qa_score": "0",
+      "max_qa_score": "98",
+      "total_messages": 956,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          831
+        ],
+        [
+          "Professional formatting",
+          800
+        ],
+        [
+          "Engages with questions",
+          584
+        ],
+        [
+          "Personal, conversational tone",
+          451
+        ],
+        [
+          "Mentions value proposition",
+          399
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          117
+        ],
+        [
+          "Message exceeds 300 character limit",
+          77
+        ],
+        [
+          "Empty or invalid message",
+          8
+        ],
+        [
+          "Message too short",
+          4
+        ],
+        [
+          "Aggressive tone: you need to",
+          3
+        ]
+      ]
+    },
+    "Jake Damon": {
+      "avg_qa_score": 89.9238578680203,
+      "median_qa_score": 93.0,
+      "qa_std": 8.724159194144335,
+      "min_qa_score": "0",
+      "max_qa_score": "98",
+      "total_messages": 394,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          352
+        ],
+        [
+          "Professional formatting",
+          329
+        ],
+        [
+          "Engages with questions",
+          289
+        ],
+        [
+          "Personal, conversational tone",
+          193
+        ],
+        [
+          "Optimal message length",
+          160
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          54
+        ],
+        [
+          "Missing clear call-to-action",
+          41
+        ],
+        [
+          "Message too short",
+          2
+        ],
+        [
+          "Empty or invalid message",
+          1
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ]
+    },
+    "Jeff Tafipolsky": {
+      "avg_qa_score": 89.46201743462018,
+      "median_qa_score": 91.0,
+      "qa_std": 6.120580753233853,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 803,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          713
+        ],
+        [
+          "Engages with questions",
+          594
+        ],
+        [
+          "Professional formatting",
+          532
+        ],
+        [
+          "Personal, conversational tone",
+          390
+        ],
+        [
+          "Mentions value proposition",
+          330
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          250
+        ],
+        [
+          "Missing clear call-to-action",
+          90
+        ],
+        [
+          "Unprofessional language: hell",
+          4
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ]
+    },
+    "Joelle Martin": {
+      "avg_qa_score": 89.93900709219858,
+      "median_qa_score": 93.0,
+      "qa_std": 8.886389090675227,
+      "min_qa_score": "40",
+      "max_qa_score": "98",
+      "total_messages": 705,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          561
+        ],
+        [
+          "Professional formatting",
+          547
+        ],
+        [
+          "Engages with questions",
+          459
+        ],
+        [
+          "Optimal message length",
+          319
+        ],
+        [
+          "Personal, conversational tone",
+          253
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          144
+        ],
+        [
+          "Message too short",
+          15
+        ],
+        [
+          "Message exceeds 300 character limit",
+          14
+        ],
+        [
+          "Excessive capitalization",
+          1
+        ],
+        [
+          "Aggressive tone: you need to",
+          1
+        ]
+      ]
+    },
+    "Kodee Martin": {
+      "avg_qa_score": 89.69183359013867,
+      "median_qa_score": 91.0,
+      "qa_std": 5.520429450873966,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 649,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          562
+        ],
+        [
+          "Engages with questions",
+          523
+        ],
+        [
+          "Professional formatting",
+          391
+        ],
+        [
+          "Personal, conversational tone",
+          371
+        ],
+        [
+          "Mentions value proposition",
+          238
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          195
+        ],
+        [
+          "Missing clear call-to-action",
+          87
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Aggressive tone: asap",
+          2
+        ]
+      ]
+    },
+    "Kyle Capstick": {
+      "avg_qa_score": 89.92857142857143,
+      "median_qa_score": 93.0,
+      "qa_std": 8.18691090730085,
+      "min_qa_score": "40",
+      "max_qa_score": "98",
+      "total_messages": 882,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Engages with questions",
+          752
+        ],
+        [
+          "Contains clear call-to-action",
+          747
+        ],
+        [
+          "Professional formatting",
+          675
+        ],
+        [
+          "Personal, conversational tone",
+          455
+        ],
+        [
+          "Mentions value proposition",
+          378
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          135
+        ],
+        [
+          "Message exceeds 300 character limit",
+          107
+        ],
+        [
+          "Message too short",
+          8
+        ],
+        [
+          "Unprofessional language: hell",
+          5
+        ],
+        [
+          "Aggressive tone: you need to",
+          2
+        ]
+      ]
+    },
+    "Megan Obina": {
+      "avg_qa_score": 89.1664,
+      "median_qa_score": 93.0,
+      "qa_std": 8.586565730255607,
+      "min_qa_score": "40",
+      "max_qa_score": "98",
+      "total_messages": 625,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Professional formatting",
+          576
+        ],
+        [
+          "Engages with questions",
+          519
+        ],
+        [
+          "Contains clear call-to-action",
+          499
+        ],
+        [
+          "Optimal message length",
+          301
+        ],
+        [
+          "Personal, conversational tone",
+          278
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          126
+        ],
+        [
+          "Message exceeds 300 character limit",
+          42
+        ],
+        [
+          "Aggressive tone: asap",
+          14
+        ],
+        [
+          "Message too short",
+          11
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ]
+      ]
+    },
+    "Nicole Piccolo": {
+      "avg_qa_score": 89.52895752895753,
+      "median_qa_score": 93.0,
+      "qa_std": 6.703463295101671,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 777,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          687
+        ],
+        [
+          "Engages with questions",
+          610
+        ],
+        [
+          "Professional formatting",
+          608
+        ],
+        [
+          "Personal, conversational tone",
+          396
+        ],
+        [
+          "Mentions value proposition",
+          345
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          242
+        ],
+        [
+          "Missing clear call-to-action",
+          90
+        ],
+        [
+          "Unprofessional language: hell",
+          8
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Aggressive tone: right now",
+          2
+        ]
+      ]
+    },
+    "Pamela Perez": {
+      "avg_qa_score": 88.96124031007751,
+      "median_qa_score": 93.0,
+      "qa_std": 6.340787425280426,
+      "min_qa_score": "40",
+      "max_qa_score": "98",
+      "total_messages": 903,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          868
+        ],
+        [
+          "Personal, conversational tone",
+          591
+        ],
+        [
+          "Engages with questions",
+          569
+        ],
+        [
+          "Professional formatting",
+          503
+        ],
+        [
+          "Helpful and supportive tone",
+          474
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          464
+        ],
+        [
+          "Missing clear call-to-action",
+          35
+        ],
+        [
+          "Aggressive tone: right now",
+          20
+        ],
+        [
+          "Aggressive tone: you need to",
+          3
+        ],
+        [
+          "Message too short",
+          3
+        ]
+      ]
+    },
+    "Ryan Alford": {
+      "avg_qa_score": 91.69189189189188,
+      "median_qa_score": 93.0,
+      "qa_std": 5.341375723438978,
+      "min_qa_score": "63",
+      "max_qa_score": "98",
+      "total_messages": 555,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          507
+        ],
+        [
+          "Professional formatting",
+          469
+        ],
+        [
+          "Engages with questions",
+          435
+        ],
+        [
+          "Mentions value proposition",
+          294
+        ],
+        [
+          "Personal, conversational tone",
+          199
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          48
+        ],
+        [
+          "Message exceeds 300 character limit",
+          16
+        ],
+        [
+          "Aggressive tone: right now",
+          10
+        ],
+        [
+          "Aggressive tone: immediately",
+          1
+        ],
+        [
+          "Unprofessional language: hell",
+          1
+        ]
+      ]
+    },
+    "Moss Konick": {
+      "avg_qa_score": 89.61662198391421,
+      "median_qa_score": 93.0,
+      "qa_std": 6.895850433432223,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 746,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          673
+        ],
+        [
+          "Engages with questions",
+          585
+        ],
+        [
+          "Professional formatting",
+          457
+        ],
+        [
+          "Personal, conversational tone",
+          357
+        ],
+        [
+          "Optimal message length",
+          265
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          118
+        ],
+        [
+          "Missing clear call-to-action",
+          73
+        ],
+        [
+          "Aggressive tone: asap",
+          19
+        ],
+        [
+          "Aggressive tone: you need to",
+          4
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ]
+      ]
+    },
+    "Safa Aboudaoud": {
+      "avg_qa_score": 87.90180360721443,
+      "median_qa_score": 93.0,
+      "qa_std": 9.78733675086623,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 499,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          385
+        ],
+        [
+          "Professional formatting",
+          366
+        ],
+        [
+          "Engages with questions",
+          320
+        ],
+        [
+          "Optimal message length",
+          246
+        ],
+        [
+          "Personal, conversational tone",
+          182
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          114
+        ],
+        [
+          "Message exceeds 300 character limit",
+          47
+        ],
+        [
+          "Message too short",
+          14
+        ],
+        [
+          "Aggressive tone: asap",
+          5
+        ]
+      ]
+    },
+    "Samuel Tedla": {
+      "avg_qa_score": 92.0738423028786,
+      "median_qa_score": 93.0,
+      "qa_std": 4.750158854353157,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 799,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          731
+        ],
+        [
+          "Professional formatting",
+          671
+        ],
+        [
+          "Engages with questions",
+          627
+        ],
+        [
+          "Optimal message length",
+          553
+        ],
+        [
+          "Personal, conversational tone",
+          372
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          68
+        ],
+        [
+          "Aggressive tone: immediately",
+          9
+        ],
+        [
+          "Message too short",
+          3
+        ],
+        [
+          "Message exceeds 300 character limit",
+          3
+        ]
+      ]
+    },
+    "Sarah Lee": {
+      "avg_qa_score": 89.96116504854369,
+      "median_qa_score": 93.0,
+      "qa_std": 5.531063785911978,
+      "min_qa_score": "65",
+      "max_qa_score": "98",
+      "total_messages": 515,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          464
+        ],
+        [
+          "Engages with questions",
+          365
+        ],
+        [
+          "Professional formatting",
+          362
+        ],
+        [
+          "Personal, conversational tone",
+          273
+        ],
+        [
+          "Optimal message length",
+          207
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          101
+        ],
+        [
+          "Missing clear call-to-action",
+          51
+        ],
+        [
+          "Aggressive tone: right now",
+          2
+        ],
+        [
+          "Unprofessional language: hell",
+          1
+        ],
+        [
+          "Aggressive tone: asap",
+          1
+        ]
+      ]
+    },
+    "Savanna Seaman": {
+      "avg_qa_score": 89.38536585365854,
+      "median_qa_score": 93.0,
+      "qa_std": 6.438662221891633,
+      "min_qa_score": "68",
+      "max_qa_score": "98",
+      "total_messages": 410,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          354
+        ],
+        [
+          "Professional formatting",
+          310
+        ],
+        [
+          "Engages with questions",
+          270
+        ],
+        [
+          "Personal, conversational tone",
+          160
+        ],
+        [
+          "Optimal message length",
+          152
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          65
+        ],
+        [
+          "Missing clear call-to-action",
+          56
+        ],
+        [
+          "Unprofessional language: hell",
+          3
+        ],
+        [
+          "Aggressive tone: right now",
+          1
+        ]
+      ]
+    },
+    "Tierra Bacon": {
+      "avg_qa_score": 92.86266094420601,
+      "median_qa_score": 93.0,
+      "qa_std": 4.539890819848286,
+      "min_qa_score": "68",
+      "max_qa_score": "98",
+      "total_messages": 699,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          660
+        ],
+        [
+          "Professional formatting",
+          537
+        ],
+        [
+          "Engages with questions",
+          520
+        ],
+        [
+          "Optimal message length",
+          362
+        ],
+        [
+          "Personal, conversational tone",
+          285
+        ]
+      ],
+      "common_issues": [
+        [
+          "Missing clear call-to-action",
+          39
+        ],
+        [
+          "Message exceeds 300 character limit",
+          34
+        ],
+        [
+          "Aggressive tone: immediately",
+          4
+        ],
+        [
+          "Unprofessional language: hell",
+          2
+        ]
+      ]
+    },
+    "Velvet Burghardt": {
+      "avg_qa_score": 88.08643457382954,
+      "median_qa_score": 89.0,
+      "qa_std": 8.00658317901601,
+      "min_qa_score": "50",
+      "max_qa_score": "98",
+      "total_messages": 833,
+      "detailed_results": null,
+      "common_strengths": [
+        [
+          "Contains clear call-to-action",
+          718
+        ],
+        [
+          "Professional formatting",
+          704
+        ],
+        [
+          "Engages with questions",
+          653
+        ],
+        [
+          "Personal, conversational tone",
+          471
+        ],
+        [
+          "Mentions value proposition",
+          378
+        ]
+      ],
+      "common_issues": [
+        [
+          "Message exceeds 300 character limit",
+          294
+        ],
+        [
+          "Missing clear call-to-action",
+          115
+        ],
+        [
+          "Aggressive tone: asap",
+          22
+        ],
+        [
+          "Aggressive tone: right now",
+          10
+        ],
+        [
+          "Message too short",
+          8
+        ]
+      ]
+    }
+  },
+  "conversion_results": {
+    "AI Agent": {
+      "total_opportunities": 30862,
+      "successful_conversions": 7348,
+      "conversion_rate": 23.809215216123388
+    },
+    "Adriana Pena": {
+      "total_opportunities": 174,
+      "successful_conversions": 58,
+      "conversion_rate": 33.33333333333333
+    },
+    "Anna Pangelinan": {
+      "total_opportunities": 133,
+      "successful_conversions": 31,
+      "conversion_rate": 23.308270676691727
+    },
+    "Ardy Ghavimi": {
+      "total_opportunities": 189,
+      "successful_conversions": 75,
+      "conversion_rate": 39.682539682539684
+    },
+    "Austin Hardin": {
+      "total_opportunities": 187,
+      "successful_conversions": 52,
+      "conversion_rate": 27.807486631016044
+    },
+    "Chris Jensen": {
+      "total_opportunities": 201,
+      "successful_conversions": 76,
+      "conversion_rate": 37.81094527363184
+    },
+    "Danielle DaCosta": {
+      "total_opportunities": 147,
+      "successful_conversions": 44,
+      "conversion_rate": 29.931972789115648
+    },
+    "Hevo API": {
+      "total_opportunities": 10865,
+      "successful_conversions": 2138,
+      "conversion_rate": 19.67786470317533
+    },
+    "Isaac Stansbury": {
+      "total_opportunities": 105,
+      "successful_conversions": 48,
+      "conversion_rate": 45.714285714285715
+    },
+    "Jacob Shapiro": {
+      "total_opportunities": 148,
+      "successful_conversions": 41,
+      "conversion_rate": 27.7027027027027
+    },
+    "Jake Damon": {
+      "total_opportunities": 107,
+      "successful_conversions": 35,
+      "conversion_rate": 32.71028037383177
+    },
+    "Jeff Tafipolsky": {
+      "total_opportunities": 173,
+      "successful_conversions": 68,
+      "conversion_rate": 39.30635838150289
+    },
+    "Joelle Martin": {
+      "total_opportunities": 166,
+      "successful_conversions": 52,
+      "conversion_rate": 31.32530120481928
+    },
+    "Kodee Martin": {
+      "total_opportunities": 145,
+      "successful_conversions": 41,
+      "conversion_rate": 28.27586206896552
+    },
+    "Kyle Capstick": {
+      "total_opportunities": 184,
+      "successful_conversions": 59,
+      "conversion_rate": 32.065217391304344
+    },
+    "Megan Obina": {
+      "total_opportunities": 186,
+      "successful_conversions": 48,
+      "conversion_rate": 25.806451612903224
+    },
+    "Moss Konick": {
+      "total_opportunities": 187,
+      "successful_conversions": 56,
+      "conversion_rate": 29.946524064171122
+    },
+    "Nicole Piccolo": {
+      "total_opportunities": 159,
+      "successful_conversions": 54,
+      "conversion_rate": 33.9622641509434
+    },
+    "Pamela Perez": {
+      "total_opportunities": 188,
+      "successful_conversions": 65,
+      "conversion_rate": 34.57446808510639
+    },
+    "Ryan Alford": {
+      "total_opportunities": 161,
+      "successful_conversions": 62,
+      "conversion_rate": 38.50931677018634
+    },
+    "Safa Aboudaoud": {
+      "total_opportunities": 111,
+      "successful_conversions": 54,
+      "conversion_rate": 48.64864864864865
+    },
+    "Samuel Tedla": {
+      "total_opportunities": 161,
+      "successful_conversions": 65,
+      "conversion_rate": 40.37267080745342
+    },
+    "Sarah Lee": {
+      "total_opportunities": 103,
+      "successful_conversions": 38,
+      "conversion_rate": 36.89320388349515
+    },
+    "Savanna Seaman": {
+      "total_opportunities": 111,
+      "successful_conversions": 43,
+      "conversion_rate": 38.73873873873874
+    },
+    "Tierra Bacon": {
+      "total_opportunities": 186,
+      "successful_conversions": 65,
+      "conversion_rate": 34.946236559139784
+    },
+    "Velvet Burghardt": {
+      "total_opportunities": 203,
+      "successful_conversions": 71,
+      "conversion_rate": 34.97536945812808
+    }
+  },
+  "analysis_metadata": {
+    "timestamp": "2025-06-04T12:42:11.219564",
+    "total_reps_analyzed": 26,
+    "min_opportunities_threshold": 100,
+    "qa_weight": 0.4,
+    "conversion_weight": 0.6
+  }
+}
