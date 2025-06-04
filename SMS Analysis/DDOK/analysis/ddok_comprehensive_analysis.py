@@ -51,12 +51,12 @@ class DDOKAnalysisEngine:
         try:
             # Load SMS data
             print("Loading SMS data...")
-            self.sms_data = pd.read_csv('data/ddok_sms_fgs_l3m.csv')
+            self.sms_data = pd.read_csv('../data/ddok_sms_fgs_l3m.csv')
             print(f"✓ Loaded {len(self.sms_data)} SMS records")
             
             # Load conversion data
             print("Loading conversion data...")
-            self.conversion_data = pd.read_csv('data/ddok_sms_fgs_l3m_conversions.csv')
+            self.conversion_data = pd.read_csv('../data/ddok_sms_fgs_l3m_conversions.csv')
             print(f"✓ Loaded {len(self.conversion_data)} conversion records")
             
             # Validate data structure
@@ -745,7 +745,7 @@ class DDOKAnalysisEngine:
         import os
         import glob
         
-        pattern = "reports/DDOK_SMS_Analysis_v*.md"
+        pattern = "../reports/DDOK_SMS_Analysis_v*.md"
         existing = glob.glob(pattern)
         
         if existing:
@@ -766,12 +766,12 @@ class DDOKAnalysisEngine:
             new_version = 1.0
         
         # Save report
-        filename = f"reports/DDOK_SMS_Analysis_v{new_version:.1f}.md"
+        filename = f"../reports/DDOK_SMS_Analysis_v{new_version:.1f}.md"
         with open(filename, 'w') as f:
             f.write(report_content)
         
         # Save detailed data
-        data_filename = f"analysis/DDOK_SMS_Data_v{new_version:.1f}.json"
+        data_filename = f"DDOK_SMS_Data_v{new_version:.1f}.json"
         detailed_data = {
             'rep_scores': self.rep_scores,
             'qa_results': {k: {**v, 'detailed_results': None} for k, v in self.qa_results.items()},  # Exclude detailed results for size

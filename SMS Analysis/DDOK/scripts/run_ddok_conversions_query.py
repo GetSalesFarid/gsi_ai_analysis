@@ -78,7 +78,7 @@ def run_ddok_conversions_query():
                 print(f"Row {i+1}: {row}")
             
             # Save results to CSV manually
-            output_file = 'data/ddok_sms_fgs_l3m_conversions.csv'
+            output_file = '../data/ddok_sms_fgs_l3m_conversions.csv'
             
             with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
                 if rows:

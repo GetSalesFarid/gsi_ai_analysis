@@ -83,7 +83,7 @@ def run_ddok_query():
             
             # Save results to CSV manually
             import csv
-            output_file = 'ddok_experiment_results.csv'
+            output_file = '../data/ddok_sms_fgs_l3m.csv'
             
             with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
                 if rows:
