@@ -38,7 +38,18 @@ def query_to_dataframe(query_string):
     client = get_bigquery_client()
     
     try:
-        df = client.query(query_string).to_dataframe()
+        query_job = client.query(query_string)
+        # Get results as rows first, then convert to dataframe manually
+        results = query_job.result()
+        
+        # Convert to list of dictionaries
+        rows = []
+        for row in results:
+            rows.append(dict(row))
+        
+        # Convert to pandas DataFrame
+        import pandas as pd
+        df = pd.DataFrame(rows)
         return df
     except Exception as e:
         print(f"Error executing query: {e}")

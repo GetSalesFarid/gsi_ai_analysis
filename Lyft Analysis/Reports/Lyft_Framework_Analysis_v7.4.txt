@@ -1,0 +1,263 @@
+LYFT CALL PERFORMANCE ANALYSIS v7.4 (Low Performer Improvement Focus)
+Analysis Date: June 04, 2025 | Focus: Call Execution Failures & Improvement Opportunities
+Framework Compliant: NO Cross-Experiment Comparisons | Emphasis: LOW PERFORMER COACHING
+
+════════════════════════════════════════════════════════════════════════════════
+
+EXECUTIVE SUMMARY (1 PAGE - IMPROVEMENT FOCUSED)
+
+1. WHAT TOP PERFORMERS ARE DOING RIGHT (BRIEF)
+
+1a. First Call Execution Excellence  
+• stale_approved_no_ride: 8.7pp first call advantage through immediate value demonstration
+• approved_no_ride: 7.9pp first call advantage with structured 31.2% conversion rates
+
+1b. Communication Quality Standards
+• High performers average 85+ quality scores through superior call documentation
+• Consistent professional language usage and action-oriented follow-up planning
+
+2. WHAT POOR PERFORMERS ARE DOING WRONG (PRIMARY FOCUS)
+
+2a. Call Execution Failures with Examples
+• ride Experiment - Luis Mondragon_lyft_w_plus_funnel_conversion_stale_approved_no: 22.8% FRR, 40.3/100 quality
+  Bad Call Example: b3e19904... (0.1min)
+  Summary Issue: "Due to the brevity of the meeting transcript, there is no call summary...." - Lacks professional language/action items
+• completed Experiment - Chloe Dulworth_lyft_w_plus_funnel_conversion_checklist_started_not: 0.0% FRR, 31.5/100 quality
+  Bad Call Example: 3d4b3b63... (0.1min)
+  Summary Issue: "Due to the brevity of the meeting transcript, there is no call summary...." - Lacks professional language/action items
+• started Experiment - Ethan Dubbs_lyft_w_plus_funnel_conversion_applied_checklist_not: 0.0% FRR, 25.6/100 quality
+  Bad Call Example: 82179eee... (4.8min)
+  Summary Issue: "In the call, Sam from Copilot Careers reached out to Amber regarding her Lyft ap..." - Lacks professional language/action items
+
+2b. Communication Weaknesses Identified Through Text Analysis
+• Lack of professional language (thank, please, appreciate, etc.) - Found in 5 low performers across experiments
+• Short calls excluded from analysis: 117 calls marked as 'brevity - no summary' - Found in 1 low performers across experiments
+• Short calls excluded from analysis: 120 calls marked as 'brevity - no summary' - Found in 1 low performers across experiments
+
+2c. Missed Opportunities and Conversion Barriers
+• Low performers average 12.0% call conversion vs experiment leaders (20-35%)
+• First call execution gaps: Most low performers show weak initial contact performance
+• Follow-up process failures: Lack of documented action items leads to conversion drop-off
+
+3. INDIVIDUAL REP IMPROVEMENT RECOMMENDATIONS (DETAILED)
+
+Chloe Dulworth_lyft_w_plus_funnel_conversion_checklist_started_not (completed Experiment):
+• Current Performance: 0.0% FRR, 31.5/100 quality score
+• Call Conversion: 12.0% (needs improvement)
+• COACHING FOCUS: Add professional language (thank you, please, appreciate)
+• BAD CALL EXAMPLES for coaching review:
+  - 3d4b3b63-dcad-4dff-b78d-55b3fe060fd9: 0.1min OUTBOUND call
+    Issue: "Due to the brevity of the meeting transcript, there is no ca...
+  - a6adf073-ba91-45fd-a3e1-4fcd033eab3b: 0.0min OUTBOUND call
+    Issue: "Due to the brevity of the meeting transcript, there is no ca...
+
+Ethan Dubbs_lyft_w_plus_funnel_conversion_applied_checklist_not (started Experiment):
+• Current Performance: 0.0% FRR, 25.6/100 quality score
+• Call Conversion: 0.0% (needs improvement)
+• COACHING FOCUS: Add professional language (thank you, please, appreciate)
+• COACHING FOCUS: Increase call engagement time for relationship building
+• BAD CALL EXAMPLES for coaching review:
+  - 82179eee-642c-4e9e-991a-fa69e183385c: 4.8min OUTBOUND call
+    Issue: "In the call, Sam from Copilot Careers reached out to Amber r...
+  - 82179eee-642c-4e9e-991a-fa69e183385c: 0.6min OUTBOUND call
+    Issue: "Sam called Amber to check on the status of an ID submission....
+
+Charles Field_lyft_w_plus_funnel_conversion_checklist_started_not (completed Experiment):
+• Current Performance: 1.4% FRR, 21.7/100 quality score
+• Call Conversion: 2.0% (needs improvement)
+• COACHING FOCUS: Add professional language (thank you, please, appreciate)
+• BAD CALL EXAMPLES for coaching review:
+  - 26d68ca3-df6e-4984-a291-06de99113fa0: 0.1min OUTBOUND call
+    Issue: "Due to the brevity of the meeting transcript, there is no ca...
+  - 26d68ca3-df6e-4984-a291-06de99113fa0: 0.0min OUTBOUND call
+    Issue: "Due to the brevity of the meeting transcript, there is no ca...
+
+Spencer Lane_lyft_w_plus_funnel_conversion_checklist_started_not (completed Experiment):
+• Current Performance: 2.3% FRR, 23.2/100 quality score
+• Call Conversion: 3.8% (needs improvement)
+• COACHING FOCUS: Add professional language (thank you, please, appreciate)
+• COACHING FOCUS: Increase call engagement time for relationship building
+• BAD CALL EXAMPLES for coaching review:
+  - 00ef6c9c-68f9-4937-8964-241bb5fba593: 0.1min OUTBOUND call
+    Issue: "Due to the brevity of the meeting transcript, there is no ca...
+  - 029be24e-bbdc-43fb-ad90-c385040cc4c6: 3.6min OUTBOUND call
+    Issue: "The call was regarding Tiana's application to become a Lyft ...
+
+4. STRATEGIC COHORTING FOR IMPROVEMENT
+
+4a. Low Performer Cohorts by Failure Pattern
+• Communication Training Cohort: Liza Alfaro_lyft_w_plus_funnel_conversion_stale_approved_no, Luis Mondragon_lyft_w_plus_funnel_conversion_stale_approved_no, J Zambrano_lyft_w_plus_funnel_conversion_eligiblity_started_not, Branden Beacham_lyft_w_plus_funnel_conversion_eligiblity_started_not
+  Focus: Professional language, tone, rapport building through call summary improvement
+• Call Management Cohort: Branden Beacham_lyft_w_plus_funnel_conversion_eligiblity_started_not, J Zambrano_lyft_w_plus_funnel_conversion_checklist_started_not, Tiffany Lima_lyft_w_plus_funnel_conversion_checklist_started_not, Spencer Lane_lyft_w_plus_funnel_conversion_checklist_started_not
+  Focus: Optimal call duration, engagement time, efficiency improvement
+
+4b. Training Focus Areas Based on Execution Problems
+• Call Summary Quality: 14 reps need professional language training
+• Follow-up Process: 0 reps lack action-oriented documentation
+• First Call Excellence: Process redesign needed for experiments with negative first call advantage
+
+5. CALL EXECUTION PROBLEMS BY EXPERIMENT
+• ride: 2 low performers, +8.7% first call advantage
+  Issue: Individual coaching needs
+• completed: 5 low performers, +3.1% first call advantage
+  Issue: Individual coaching needs
+• completed: 5 low performers, -0.9% first call advantage
+  Issue: Systematic process problems
+• ride: 2 low performers, +7.9% first call advantage
+  Issue: Individual coaching needs
+• started: 1 low performers, -8.8% first call advantage
+  Issue: Systematic process problems
+
+════════════════════════════════════════════════════════════════════════════════
+
+IMMEDIATE ACTION ITEMS (Next 7 Days)
+1. Form improvement-focused training cohorts with identified low performers
+2. Create call coaching materials using specific bad call examples provided
+3. Implement call summary quality training based on text analysis findings
+4. Establish individual coaching sessions for bottom 4 performers with opportunity ID examples
+
+EXPECTED ROI: 150+ additional monthly conversions through targeted low performer improvement
+SUCCESS METRICS (90 Days): Improve bottom performer FRR by 5+ percentage points within experiments
+
+════════════════════════════════════════════════════════════════════════════════
+
+DETAILED LOW PERFORMER ANALYSIS
+
+Framework Compliance: NO cross-experiment comparisons made, all improvement recommendations within experiment boundaries
+
+Poor Call Pattern Analysis:
+
+Liza Alfaro_lyft_w_plus_funnel_conversion_stale_approved_no (ride Experiment) - IMPROVEMENT CASE STUDY:
+• Performance: 23.3% FRR, 19.2% call conversion
+• Quality Breakdown: 34.4/100 total
+  - Professional Language: 2.2/15
+  - Action-Oriented: 6.8/9
+  - Problem-Solving: 1.7/6
+
+SPECIFIC COACHING RECOMMENDATIONS:
+• Add professional language (thank you, please, appreciate)
+• Show problem resolution and solution-oriented approach
+
+BAD CALL EXAMPLES FOR REVIEW:
+• Opportunity: 6740d3e5-5a5c-4c45-a06f-63dbdcdf93a7
+  Duration: 1.2 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "No summary provided..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+• Opportunity: 998544c1-0e8a-44ea-b924-cc40b4502e5b
+  Duration: 2.2 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "The call was between Lisa from Copilot Careers and Sabina, who is new to Lyft. Lisa welcomed Sabina ..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+
+Luis Mondragon_lyft_w_plus_funnel_conversion_stale_approved_no (ride Experiment) - IMPROVEMENT CASE STUDY:
+• Performance: 22.8% FRR, 21.1% call conversion
+• Quality Breakdown: 40.3/100 total
+  - Professional Language: 3.0/15
+  - Action-Oriented: 6.1/9
+  - Problem-Solving: 1.7/6
+
+SPECIFIC COACHING RECOMMENDATIONS:
+• Add professional language (thank you, please, appreciate)
+• Show problem resolution and solution-oriented approach
+
+BAD CALL EXAMPLES FOR REVIEW:
+• Opportunity: b3e19904-984d-4da5-a1b7-8f985da95407
+  Duration: 0.1 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "Due to the brevity of the meeting transcript, there is no call summary...."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+• Opportunity: 14fd516f-8639-4750-8bd8-2bcdb27e59c3
+  Duration: 0.9 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "Sam from Copilot Careers contacted Anna regarding her Lyft driver application. Initially, Anna's mot..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+
+Flavien Hacot_lyft_w_plus_funnel_conversion_eligiblity_started_not (completed Experiment) - IMPROVEMENT CASE STUDY:
+• Performance: 18.6% FRR, 18.9% call conversion
+• Quality Breakdown: 39.1/100 total
+  - Professional Language: 5.7/15
+  - Action-Oriented: 7.9/9
+  - Problem-Solving: 2.1/6
+
+SPECIFIC COACHING RECOMMENDATIONS:
+
+BAD CALL EXAMPLES FOR REVIEW:
+• Opportunity: 336e283c-1a64-4f26-ac2b-60b918f6333f
+  Duration: 0.3 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "No summary provided..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+• Opportunity: 0a0b5368-70ed-4709-8bce-64be0b58c3b2
+  Duration: 3.4 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "The call was an onboarding discussion between Sam, an agent from CoPilot Career, and a potential Lyf..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+
+J Zambrano_lyft_w_plus_funnel_conversion_eligiblity_started_not (completed Experiment) - IMPROVEMENT CASE STUDY:
+• Performance: 16.3% FRR, 15.8% call conversion
+• Quality Breakdown: 36.1/100 total
+  - Professional Language: 3.8/15
+  - Action-Oriented: 6.7/9
+  - Problem-Solving: 3.5/6
+
+SPECIFIC COACHING RECOMMENDATIONS:
+• Add professional language (thank you, please, appreciate)
+
+BAD CALL EXAMPLES FOR REVIEW:
+• Opportunity: 253f438e-789f-43d4-9840-0f7436d1fdea
+  Duration: 2.2 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "The call was initiated by Sam from Copilot Careers to discuss the applicant's Lyft application. Duri..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+• Opportunity: 253f438e-789f-43d4-9840-0f7436d1fdea
+  Duration: 1.7 minutes | Direction: OUTBOUND | Sequence: #2
+  Summary: "Sam reached out to Deshondre regarding the status of his Lyft application. Deshondre expressed conce..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+
+Branden Beacham_lyft_w_plus_funnel_conversion_eligiblity_started_not (completed Experiment) - IMPROVEMENT CASE STUDY:
+• Performance: 15.9% FRR, 12.8% call conversion
+• Quality Breakdown: 34.0/100 total
+  - Professional Language: 3.5/15
+  - Action-Oriented: 7.6/9
+  - Problem-Solving: 2.1/6
+
+SPECIFIC COACHING RECOMMENDATIONS:
+• Add professional language (thank you, please, appreciate)
+
+BAD CALL EXAMPLES FOR REVIEW:
+• Opportunity: c7a8839c-3b3a-4968-863c-4a3899098a6a
+  Duration: 1.4 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "In the call, Sam from Copilot Careers reached out to discuss a Lyft driver account application. Init..."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+• Opportunity: ab03fa20-5fd9-4a2f-a849-436cb57f7169
+  Duration: 0.1 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "Due to the brevity of the meeting transcript, there is no call summary...."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+
+Tiffany Lima_lyft_w_plus_funnel_conversion_eligiblity_started_not (completed Experiment) - IMPROVEMENT CASE STUDY:
+• Performance: 15.8% FRR, 15.0% call conversion
+• Quality Breakdown: 34.5/100 total
+  - Professional Language: 2.3/15
+  - Action-Oriented: 7.2/9
+  - Problem-Solving: 3.3/6
+
+SPECIFIC COACHING RECOMMENDATIONS:
+• Add professional language (thank you, please, appreciate)
+
+BAD CALL EXAMPLES FOR REVIEW:
+• Opportunity: 551c86d2-2e01-4820-8e8f-91a0af7fd3e2
+  Duration: 0.9 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "Due to the brevity of the meeting transcript, there is no call summary...."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+• Opportunity: 510df659-e970-404a-b10a-4550f7d39c86
+  Duration: 4.0 minutes | Direction: OUTBOUND | Sequence: #1
+  Summary: "Due to the brevity of the meeting transcript, there is no call summary...."
+  Coaching Notes: Review for professional language, action items, problem resolution approach
+
+Common Improvement Patterns Identified:
+• Add professional language (thank you, please, appreciate): 14 reps (93% of low performers)
+• Show problem resolution and solution-oriented approach: 4 reps (27% of low performers)
+• Increase call engagement time for relationship building: 2 reps (13% of low performers)
+
+Training Material Development:
+• Use provided opportunity IDs for call coaching examples
+• Focus on specific communication patterns identified through text analysis
+• Develop experiment-specific improvement tracks based on systematic vs individual issues
+• Create before/after quality score targets for measurable improvement tracking
+
+Analysis saved to: Lyft_Framework_Analysis_v7.4.txt
+Framework compliance: Within-experiment improvement focus maintained
