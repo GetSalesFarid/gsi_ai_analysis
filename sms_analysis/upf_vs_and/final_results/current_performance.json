@@ -1,0 +1,472 @@
+{
+  "bucket_performance": {
+    "INITIAL_OUTREACH": {
+      "total_count": 3183,
+      "percentage": 42.44,
+      "full_conversion_rate": 16.588124410933084,
+      "bgc_conversion_rate": 48.444863336475024,
+      "inbound_count": 0,
+      "outbound_count": 3183,
+      "group_performance": {
+        "AnD AI": {
+          "count": 1292,
+          "conversion_rate": 20.356037151702786
+        },
+        "AnD": {
+          "count": 1142,
+          "conversion_rate": 12.95971978984238
+        },
+        "UpF": {
+          "count": 749,
+          "conversion_rate": 15.620827770360481
+        }
+      }
+    },
+    "GENERIC_OTHER": {
+      "total_count": 853,
+      "percentage": 11.37,
+      "full_conversion_rate": 31.770222743259087,
+      "bgc_conversion_rate": 52.637749120750286,
+      "inbound_count": 758,
+      "outbound_count": 95,
+      "group_performance": {
+        "AnD AI": {
+          "count": 185,
+          "conversion_rate": 41.62162162162162
+        },
+        "AnD": {
+          "count": 248,
+          "conversion_rate": 28.62903225806452
+        },
+        "UpF": {
+          "count": 420,
+          "conversion_rate": 29.28571428571429
+        }
+      }
+    },
+    "READY_TO_START": {
+      "total_count": 785,
+      "percentage": 10.47,
+      "full_conversion_rate": 34.14012738853503,
+      "bgc_conversion_rate": 54.52229299363057,
+      "inbound_count": 656,
+      "outbound_count": 129,
+      "group_performance": {
+        "AnD AI": {
+          "count": 212,
+          "conversion_rate": 46.69811320754717
+        },
+        "AnD": {
+          "count": 264,
+          "conversion_rate": 31.060606060606062
+        },
+        "UpF": {
+          "count": 309,
+          "conversion_rate": 28.155339805825243
+        }
+      }
+    },
+    "SCHEDULING_ISSUES": {
+      "total_count": 692,
+      "percentage": 9.23,
+      "full_conversion_rate": 35.54913294797688,
+      "bgc_conversion_rate": 61.70520231213873,
+      "inbound_count": 324,
+      "outbound_count": 368,
+      "group_performance": {
+        "AnD AI": {
+          "count": 324,
+          "conversion_rate": 41.04938271604938
+        },
+        "AnD": {
+          "count": 219,
+          "conversion_rate": 25.570776255707763
+        },
+        "UpF": {
+          "count": 149,
+          "conversion_rate": 38.25503355704698
+        }
+      }
+    },
+    "NEEDS_GUIDANCE": {
+      "total_count": 450,
+      "percentage": 6.0,
+      "full_conversion_rate": 36.44444444444444,
+      "bgc_conversion_rate": 58.44444444444444,
+      "inbound_count": 65,
+      "outbound_count": 385,
+      "group_performance": {
+        "AnD AI": {
+          "count": 193,
+          "conversion_rate": 47.15025906735752
+        },
+        "AnD": {
+          "count": 167,
+          "conversion_rate": 28.143712574850298
+        },
+        "UpF": {
+          "count": 90,
+          "conversion_rate": 28.888888888888886
+        }
+      }
+    },
+    "TECHNICAL_ISSUES": {
+      "total_count": 389,
+      "percentage": 5.19,
+      "full_conversion_rate": 24.42159383033419,
+      "bgc_conversion_rate": 52.44215938303341,
+      "inbound_count": 103,
+      "outbound_count": 286,
+      "group_performance": {
+        "AnD AI": {
+          "count": 42,
+          "conversion_rate": 35.714285714285715
+        },
+        "AnD": {
+          "count": 50,
+          "conversion_rate": 38.0
+        },
+        "UpF": {
+          "count": 297,
+          "conversion_rate": 20.53872053872054
+        }
+      }
+    },
+    "NOT_INTERESTED": {
+      "total_count": 296,
+      "percentage": 3.95,
+      "full_conversion_rate": 22.972972972972975,
+      "bgc_conversion_rate": 47.2972972972973,
+      "inbound_count": 251,
+      "outbound_count": 45,
+      "group_performance": {
+        "AnD AI": {
+          "count": 62,
+          "conversion_rate": 38.70967741935484
+        },
+        "AnD": {
+          "count": 73,
+          "conversion_rate": 26.027397260273972
+        },
+        "UpF": {
+          "count": 161,
+          "conversion_rate": 15.527950310559005
+        }
+      }
+    },
+    "EQUIPMENT_CONCERNS": {
+      "total_count": 202,
+      "percentage": 2.69,
+      "full_conversion_rate": 40.099009900990104,
+      "bgc_conversion_rate": 62.87128712871287,
+      "inbound_count": 51,
+      "outbound_count": 151,
+      "group_performance": {
+        "AnD AI": {
+          "count": 44,
+          "conversion_rate": 45.45454545454545
+        },
+        "AnD": {
+          "count": 113,
+          "conversion_rate": 27.43362831858407
+        },
+        "UpF": {
+          "count": 45,
+          "conversion_rate": 66.66666666666666
+        }
+      }
+    },
+    "AI_QUESTION_RESPONSE": {
+      "total_count": 175,
+      "percentage": 2.33,
+      "full_conversion_rate": 23.42857142857143,
+      "bgc_conversion_rate": 41.714285714285715,
+      "inbound_count": 0,
+      "outbound_count": 175,
+      "group_performance": {
+        "AnD AI": {
+          "count": 18,
+          "conversion_rate": 50.0
+        },
+        "AnD": {
+          "count": 52,
+          "conversion_rate": 23.076923076923077
+        },
+        "UpF": {
+          "count": 105,
+          "conversion_rate": 19.047619047619047
+        }
+      }
+    },
+    "TRANSPORTATION_CONCERNS": {
+      "total_count": 167,
+      "percentage": 2.23,
+      "full_conversion_rate": 31.137724550898206,
+      "bgc_conversion_rate": 51.49700598802395,
+      "inbound_count": 100,
+      "outbound_count": 67,
+      "group_performance": {
+        "AnD AI": {
+          "count": 62,
+          "conversion_rate": 40.32258064516129
+        },
+        "AnD": {
+          "count": 39,
+          "conversion_rate": 30.76923076923077
+        },
+        "UpF": {
+          "count": 66,
+          "conversion_rate": 22.727272727272727
+        }
+      }
+    },
+    "BACKGROUND_CHECK": {
+      "total_count": 95,
+      "percentage": 1.27,
+      "full_conversion_rate": 34.73684210526316,
+      "bgc_conversion_rate": 69.47368421052632,
+      "inbound_count": 35,
+      "outbound_count": 60,
+      "group_performance": {
+        "AnD AI": {
+          "count": 4,
+          "conversion_rate": 50.0
+        },
+        "AnD": {
+          "count": 20,
+          "conversion_rate": 40.0
+        },
+        "UpF": {
+          "count": 71,
+          "conversion_rate": 32.3943661971831
+        }
+      }
+    },
+    "PAYMENT_QUESTIONS": {
+      "total_count": 78,
+      "percentage": 1.04,
+      "full_conversion_rate": 35.8974358974359,
+      "bgc_conversion_rate": 61.53846153846154,
+      "inbound_count": 35,
+      "outbound_count": 43,
+      "group_performance": {
+        "AnD AI": {
+          "count": 27,
+          "conversion_rate": 37.03703703703704
+        },
+        "AnD": {
+          "count": 35,
+          "conversion_rate": 34.285714285714285
+        },
+        "UpF": {
+          "count": 16,
+          "conversion_rate": 37.5
+        }
+      }
+    },
+    "MARKET_CONCERNS": {
+      "total_count": 44,
+      "percentage": 0.59,
+      "full_conversion_rate": 38.63636363636363,
+      "bgc_conversion_rate": 45.45454545454545,
+      "inbound_count": 26,
+      "outbound_count": 18,
+      "group_performance": {
+        "AnD AI": {
+          "count": 19,
+          "conversion_rate": 31.57894736842105
+        },
+        "AnD": {
+          "count": 21,
+          "conversion_rate": 42.857142857142854
+        },
+        "UpF": {
+          "count": 4,
+          "conversion_rate": 50.0
+        }
+      }
+    },
+    "PERSONAL_CIRCUMSTANCES": {
+      "total_count": 34,
+      "percentage": 0.45,
+      "full_conversion_rate": 38.23529411764706,
+      "bgc_conversion_rate": 55.88235294117647,
+      "inbound_count": 30,
+      "outbound_count": 4,
+      "group_performance": {
+        "AnD AI": {
+          "count": 11,
+          "conversion_rate": 45.45454545454545
+        },
+        "AnD": {
+          "count": 22,
+          "conversion_rate": 31.818181818181817
+        },
+        "UpF": {
+          "count": 1,
+          "conversion_rate": 100.0
+        }
+      }
+    },
+    "ENCOURAGEMENT_MESSAGE": {
+      "total_count": 32,
+      "percentage": 0.43,
+      "full_conversion_rate": 34.375,
+      "bgc_conversion_rate": 65.625,
+      "inbound_count": 0,
+      "outbound_count": 32,
+      "group_performance": {
+        "AnD AI": {
+          "count": 2,
+          "conversion_rate": 0.0
+        },
+        "AnD": {
+          "count": 19,
+          "conversion_rate": 36.84210526315789
+        },
+        "UpF": {
+          "count": 11,
+          "conversion_rate": 36.36363636363637
+        }
+      }
+    },
+    "URGENCY_MESSAGE": {
+      "total_count": 13,
+      "percentage": 0.17,
+      "full_conversion_rate": 15.384615384615385,
+      "bgc_conversion_rate": 23.076923076923077,
+      "inbound_count": 0,
+      "outbound_count": 13,
+      "group_performance": {
+        "AnD": {
+          "count": 9,
+          "conversion_rate": 11.11111111111111
+        },
+        "UpF": {
+          "count": 4,
+          "conversion_rate": 25.0
+        }
+      }
+    },
+    "AI_EMPATHY_RESPONSE": {
+      "total_count": 10,
+      "percentage": 0.13,
+      "full_conversion_rate": 30.0,
+      "bgc_conversion_rate": 60.0,
+      "inbound_count": 0,
+      "outbound_count": 10,
+      "group_performance": {
+        "AnD AI": {
+          "count": 2,
+          "conversion_rate": 0.0
+        },
+        "AnD": {
+          "count": 6,
+          "conversion_rate": 33.33333333333333
+        },
+        "UpF": {
+          "count": 2,
+          "conversion_rate": 50.0
+        }
+      }
+    },
+    "SOCIAL_PROOF": {
+      "total_count": 2,
+      "percentage": 0.03,
+      "full_conversion_rate": 0.0,
+      "bgc_conversion_rate": 0.0,
+      "inbound_count": 0,
+      "outbound_count": 2,
+      "group_performance": {
+        "AnD AI": {
+          "count": 1,
+          "conversion_rate": 0.0
+        },
+        "AnD": {
+          "count": 1,
+          "conversion_rate": 0.0
+        }
+      }
+    }
+  },
+  "group_analysis": {
+    "AnD AI": {
+      "size": 2500,
+      "full_conversion_rate": 31.16,
+      "bgc_conversion_rate": 58.08,
+      "bucket_distribution": {
+        "INITIAL_OUTREACH": 51.68,
+        "SCHEDULING_ISSUES": 12.96,
+        "READY_TO_START": 8.48,
+        "NEEDS_GUIDANCE": 7.72,
+        "GENERIC_OTHER": 7.4,
+        "NOT_INTERESTED": 2.48,
+        "TRANSPORTATION_CONCERNS": 2.48,
+        "EQUIPMENT_CONCERNS": 1.76,
+        "TECHNICAL_ISSUES": 1.68,
+        "PAYMENT_QUESTIONS": 1.08,
+        "MARKET_CONCERNS": 0.76,
+        "AI_QUESTION_RESPONSE": 0.72,
+        "PERSONAL_CIRCUMSTANCES": 0.44,
+        "BACKGROUND_CHECK": 0.16,
+        "ENCOURAGEMENT_MESSAGE": 0.08,
+        "AI_EMPATHY_RESPONSE": 0.08,
+        "SOCIAL_PROOF": 0.04
+      }
+    },
+    "AnD": {
+      "size": 2500,
+      "full_conversion_rate": 21.72,
+      "bgc_conversion_rate": 45.76,
+      "bucket_distribution": {
+        "INITIAL_OUTREACH": 45.68,
+        "READY_TO_START": 10.56,
+        "GENERIC_OTHER": 9.92,
+        "SCHEDULING_ISSUES": 8.76,
+        "NEEDS_GUIDANCE": 6.68,
+        "EQUIPMENT_CONCERNS": 4.52,
+        "NOT_INTERESTED": 2.92,
+        "AI_QUESTION_RESPONSE": 2.08,
+        "TECHNICAL_ISSUES": 2.0,
+        "TRANSPORTATION_CONCERNS": 1.56,
+        "PAYMENT_QUESTIONS": 1.4,
+        "PERSONAL_CIRCUMSTANCES": 0.88,
+        "MARKET_CONCERNS": 0.84,
+        "BACKGROUND_CHECK": 0.8,
+        "ENCOURAGEMENT_MESSAGE": 0.76,
+        "URGENCY_MESSAGE": 0.36,
+        "AI_EMPATHY_RESPONSE": 0.24,
+        "SOCIAL_PROOF": 0.04
+      }
+    },
+    "UpF": {
+      "size": 2500,
+      "full_conversion_rate": 23.96,
+      "bgc_conversion_rate": 53.04,
+      "bucket_distribution": {
+        "INITIAL_OUTREACH": 29.96,
+        "GENERIC_OTHER": 16.8,
+        "READY_TO_START": 12.36,
+        "TECHNICAL_ISSUES": 11.88,
+        "NOT_INTERESTED": 6.44,
+        "SCHEDULING_ISSUES": 5.96,
+        "AI_QUESTION_RESPONSE": 4.2,
+        "NEEDS_GUIDANCE": 3.6,
+        "BACKGROUND_CHECK": 2.84,
+        "TRANSPORTATION_CONCERNS": 2.64,
+        "EQUIPMENT_CONCERNS": 1.8,
+        "PAYMENT_QUESTIONS": 0.64,
+        "ENCOURAGEMENT_MESSAGE": 0.44,
+        "URGENCY_MESSAGE": 0.16,
+        "MARKET_CONCERNS": 0.16,
+        "AI_EMPATHY_RESPONSE": 0.08,
+        "PERSONAL_CIRCUMSTANCES": 0.04
+      }
+    }
+  },
+  "summary_stats": {
+    "total_messages": 7500,
+    "unclassified_rate": 11.373333333333333,
+    "active_categories": 18
+  }
+}

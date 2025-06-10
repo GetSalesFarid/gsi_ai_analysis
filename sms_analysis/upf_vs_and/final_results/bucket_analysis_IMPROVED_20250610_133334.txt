@@ -1,0 +1,91 @@
+MESSAGE EFFECTIVENESS ANALYSIS - IMPROVED 74-BUCKET SYSTEM
+======================================================================
+Analysis Date: 2025-06-10 13:33:34
+Total Messages: 7,500
+Total Buckets: 74
+Tag Groups: AnD AI, AnD, UpF
+
+1. BUCKET DISTRIBUTION BY TAG GROUP
+----------------------------------------
+
+Top 20 Most Used Buckets:
+  TSI-WN-001: 7488 total conversations
+    AnD AI: 2492 (99.7%)
+    AnD: 2497 (99.9%)
+    UpF: 2499 (100.0%)
+
+  OBJ-CP-001: 5 total conversations
+    AnD AI: 4 (0.2%)
+    AnD: 1 (0.0%)
+
+  OBJ-SC-001: 3 total conversations
+    AnD AI: 2 (0.1%)
+    AnD: 1 (0.0%)
+
+  OBJ-BS-001: 3 total conversations
+    AnD AI: 2 (0.1%)
+    AnD: 1 (0.0%)
+
+  OBJ-SG-003: 1 total conversations
+    UpF: 1 (0.0%)
+
+2. CONVERSION RATES BY BUCKET (>10 conversations)
+--------------------------------------------------
+
+AnD AI Tag Group:
+  TSI-WN-001: 86.3% (n=2492)
+
+AnD Tag Group:
+  TSI-WN-001: 50.7% (n=2497)
+
+UpF Tag Group:
+  TSI-WN-001: 85.8% (n=2499)
+
+3. BUCKET CATEGORY PERFORMANCE SUMMARY
+------------------------------------------
+
+AnD AI Tag Group:
+  OBJ- prefix: 0.3% of conversations (8 msgs), 80.0% conversion, 3 buckets used
+  TSI- prefix: 99.7% of conversations (2492 msgs), 86.3% conversion, 1 buckets used
+
+AnD Tag Group:
+  OBJ- prefix: 0.1% of conversations (3 msgs), 0.0% conversion, 3 buckets used
+  TSI- prefix: 99.9% of conversations (2497 msgs), 50.7% conversion, 1 buckets used
+
+UpF Tag Group:
+  OBJ- prefix: 0.0% of conversations (1 msgs), nan% conversion, 1 buckets used
+  TSI- prefix: 100.0% of conversations (2499 msgs), 85.8% conversion, 1 buckets used
+
+4. TAG GROUP PERFORMANCE COMPARISON
+-----------------------------------
+
+AnD AI:
+  Total Conversations: 2,500
+  Overall Conversion Rate: 86.3%
+  Unique Buckets Used: 4/74
+  Unclassified Messages: 0.0%
+
+AnD:
+  Total Conversations: 2,500
+  Overall Conversion Rate: 50.7%
+  Unique Buckets Used: 4/74
+  Unclassified Messages: 0.0%
+
+UpF:
+  Total Conversations: 2,500
+  Overall Conversion Rate: 85.8%
+  Unique Buckets Used: 2/74
+  Unclassified Messages: 0.0%
+
+5. KEY INSIGHTS & RECOMMENDATIONS
+---------------------------------
+
+High-Performance Categories:
+  TSI- performs best in AnD AI group: 86.3% conversion
+  OBJ- performs best in AnD AI group: 80.0% conversion
+
+Recommendations:
+1. Focus on high-converting bucket categories (HCP-, AI-)
+2. Investigate underutilized buckets (<5% usage)
+3. Improve classification of unclassified messages
+4. Optimize messaging for low-performing but high-volume buckets

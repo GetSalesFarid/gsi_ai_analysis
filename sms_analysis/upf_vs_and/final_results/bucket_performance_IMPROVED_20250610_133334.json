@@ -1,0 +1,134 @@
+{
+  "bucket_distribution": {
+    "AnD AI": {
+      "TSI-WN-001": {
+        "count": 2492,
+        "percentage": 99.68
+      },
+      "OBJ-CP-001": {
+        "count": 4,
+        "percentage": 0.16
+      },
+      "OBJ-SC-001": {
+        "count": 2,
+        "percentage": 0.08
+      },
+      "OBJ-BS-001": {
+        "count": 2,
+        "percentage": 0.08
+      }
+    },
+    "AnD": {
+      "TSI-WN-001": {
+        "count": 2497,
+        "percentage": 99.88
+      },
+      "OBJ-SC-001": {
+        "count": 1,
+        "percentage": 0.04
+      },
+      "OBJ-BS-001": {
+        "count": 1,
+        "percentage": 0.04
+      },
+      "OBJ-CP-001": {
+        "count": 1,
+        "percentage": 0.04
+      }
+    },
+    "UpF": {
+      "TSI-WN-001": {
+        "count": 2499,
+        "percentage": 99.96000000000001
+      },
+      "OBJ-SG-003": {
+        "count": 1,
+        "percentage": 0.04
+      }
+    }
+  },
+  "conversion_rates": {
+    "AnD AI": {
+      "TSI-WN-001": {
+        "conversion_rate": 0.8630289532293987,
+        "sample_size": 2492
+      }
+    },
+    "AnD": {
+      "TSI-WN-001": {
+        "conversion_rate": 0.5070028011204482,
+        "sample_size": 2497
+      }
+    },
+    "UpF": {
+      "TSI-WN-001": {
+        "conversion_rate": 0.8581661891117478,
+        "sample_size": 2499
+      }
+    }
+  },
+  "category_performance": {
+    "AnD AI": {
+      "OBJ-": {
+        "count": 8,
+        "percentage": 0.32,
+        "avg_conversion": 0.8,
+        "buckets_used": 3
+      },
+      "TSI-": {
+        "count": 2492,
+        "percentage": 99.68,
+        "avg_conversion": 0.8630289532293987,
+        "buckets_used": 1
+      }
+    },
+    "AnD": {
+      "OBJ-": {
+        "count": 3,
+        "percentage": 0.12,
+        "avg_conversion": 0.0,
+        "buckets_used": 3
+      },
+      "TSI-": {
+        "count": 2497,
+        "percentage": 99.88,
+        "avg_conversion": 0.5070028011204482,
+        "buckets_used": 1
+      }
+    },
+    "UpF": {
+      "OBJ-": {
+        "count": 1,
+        "percentage": 0.04,
+        "avg_conversion": NaN,
+        "buckets_used": 1
+      },
+      "TSI-": {
+        "count": 2499,
+        "percentage": 99.96000000000001,
+        "avg_conversion": 0.8581661891117478,
+        "buckets_used": 1
+      }
+    }
+  },
+  "tag_group_summary": {
+    "AnD AI": {
+      "total_conversations": 2500,
+      "overall_conversion_rate": 0.8626799557032115,
+      "unique_buckets_used": 4,
+      "unclassified_percentage": 0.0
+    },
+    "AnD": {
+      "total_conversations": 2500,
+      "overall_conversion_rate": 0.5065298507462687,
+      "unique_buckets_used": 4,
+      "unclassified_percentage": 0.0
+    },
+    "UpF": {
+      "total_conversations": 2500,
+      "overall_conversion_rate": 0.8581661891117478,
+      "unique_buckets_used": 2,
+      "unclassified_percentage": 0.0
+    }
+  }
+}

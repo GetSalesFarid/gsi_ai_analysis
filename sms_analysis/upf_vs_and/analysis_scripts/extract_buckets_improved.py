@@ -5,7 +5,7 @@ def extract_improved_bucket_definitions():
     """Extract and organize bucket definitions from the improved JSON file"""
     
     # Read the improved JSON file
-    with open('/Users/MacFGS/Machine/gsi_ai_analysis/sms_analysis/upf_vs_and/response_instructions_data_improved.json', 'r') as f:
+    with open('/Users/MacFGS/Machine/gsi_ai_analysis/sms_analysis/upf_vs_and/bucket_definitions/response_instructions_data_improved.json', 'r') as f:
         data = json.load(f)
     
     # Create organized output

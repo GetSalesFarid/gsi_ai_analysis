@@ -1,57 +1,92 @@
+You are analyzing sales support chat messages sent to prospective Dashers in three groups: "UpF" (Upfunnel), "AnD" (Approved No Delivery), and "AnD AI" (AI-powered responses). Each unique dasher is identified by the field "opportunity_uuid".
 
-You are analyzing sales support chat messages sent to prospective Dashers in two different groups: "UpF" (Upfunnel) and "AnD" (Approved No Delivery). Each unique dasher is identified by the field "opportunity_uuid".
-
-You have two input files:
+You have the input file:
 1. "BGC_vs_AND_messages.csv" — contains chat messages, timestamps, direction, and conversion indicators such as "full_conversion".
-2. "response_instructions_data.json" — defines message categories (buckets) and instructions for how messages should be classified.
 
-Your goal is to produce a detailed written report that can be shared with a team.
+Your goal is to produce an executive summary report using a proven 20-category classification system.
 
 Your tasks:
 -----------------------------
-1. Determine Message Success
-- A message is considered successful if "full_conversion" is TRUE (meaning the dasher got on the road).
-- Report full conversion rates separately for AnD and UpF groups.
+1. Message Classification
+- Use the proven 20-category system for message classification (Equipment Concerns, Market Concerns, Personal Circumstances, Needs Guidance, Payment Questions, Scheduling Issues, Background Check, etc.)
+- This system has achieved 88.6% classification success rate with meaningful category distribution
+- Classify each message based on content patterns and themes
 
-2. Identify Root Cause Resolution
-- For each message, determine whether the response directly addresses the dasher’s underlying issue or question.
-- Use column ‘message’ content to make this determination.
-- Report the % of messages in each group that addressed the root issue.
+2. Tag Group Performance Analysis
+- For each tag group (UpF, AnD, AnD AI), calculate:
+  • Total number of leads/conversations
+  • Overall classification success rate (% of messages classified vs unclassified)
+  • Overall conversion rate (full_conversion = TRUE)
+  • BGC conversion rate if available
 
-3. Categorize Conversations
-- Group conversations into thematic buckets based on their content.
-- Start by identifying your own custom buckets that describe the actual topics (e.g. “Background check delay,” “Login issues,” “No interest”).
-- Report how many messages fell into each of your custom buckets, for both UpF and AnD.
+3. Category Performance by Tag Group
+- For each of the 20 categories, report by tag group:
+  • Number and % of conversations in this category
+  • Conversion rate for this category
+  • Which tag group performs best in this category
 
-4. Match Messages to Predefined Buckets
-- Use the rules in "response_instructions_data.json" to classify each message into a predefined bucket.
-- Report the % of messages from each group (UpF and AnD) that fall into each of these predefined buckets.
-- If fewer than 10% of messages fall into a bucket, note that the definitions may be too narrow.
-
-5. Provide Insights & Recommendations
-- Identify messaging patterns that appear to work well (e.g. empathy-forward responses, social proof, etc.)
-- Call out weaknesses (e.g. generic tone, missed objections, confusing instructions)
-- Offer 3–5 specific next steps for improving future outreach
+4. Executive Insights
+- Identify top-performing categories (>30% conversion)
+- Identify underperforming categories (<20% conversion)
+- Compare tag group effectiveness across categories
+- Provide actionable recommendations
 
 Output Format:
 -----------------------------
-Produce a detailed written report (.txt style) with the following sections:
+Produce an EXECUTIVE SUMMARY in .txt format with the following structure:
 
-1. % of messages in each predefined bucket from the JSON - most important! 
-2. List of custom conversation themes (your own buckets)
-3. Summary of success and root resolution rates
-4. Comparison of tone and content effectiveness between AnD and UpF
-5. Specific recommendations to improve response strategy
+EXECUTIVE SUMMARY - MESSAGE EFFECTIVENESS ANALYSIS
+=================================================
+Analysis Date: [DATE]
+Classification System: 20-Category Strategic System
 
-This report will be shared with a broader team, so write in natural language and include numeric insights and clear summaries. Your job is to produce a robust, insight-rich summary of message performance.
+TAG GROUP PERFORMANCE OVERVIEW
+==============================
+UpF Group:
+• Total Leads: [NUMBER]
+• Classification Success Rate: [%]
+• Conversion Rate: [%]
+• BGC Conversion Rate: [%]
 
+AnD Group:
+• Total Leads: [NUMBER]  
+• Classification Success Rate: [%]
+• Conversion Rate: [%]
+• BGC Conversion Rate: [%]
+
+AnD AI Group:
+• Total Leads: [NUMBER]
+• Classification Success Rate: [%]
+• Conversion Rate: [%] 
+• BGC Conversion Rate: [%]
+
+CATEGORY PERFORMANCE BREAKDOWN
+==============================
+[For each category, show:]
+[Category Name]:
+• Total Messages: [NUMBER] ([%] of all messages)
+• UpF: [COUNT] messages, [%] conversion
+• AnD: [COUNT] messages, [%] conversion  
+• AnD AI: [COUNT] messages, [%] conversion
+• Best Performing Group: [GROUP NAME]
+
+KEY INSIGHTS & RECOMMENDATIONS
+==============================
+High-Performance Categories (>30% conversion):
+• [List categories with conversion rates]
+
+Underperforming Categories (<20% conversion):
+• [List categories with conversion rates]
+
+Tag Group Analysis:
+• [Which group performs best overall]
+• [Key differences between groups]
+
+Recommendations:
+1. [Specific actionable recommendation]
+2. [Specific actionable recommendation]
+3. [Specific actionable recommendation]
 
 Special Instruction:
 -----------------------------
-If the dataset includes a bucket labeled "AnD AI", treat it as a sub-group within the AnD group.
-- Report its success rate and root issue resolution separately.
-- Compare its performance to both the broader AnD group and to UpF.
-- Determine whether its message strategy appears more effective than non-AI responses.
-- Provide targeted recommendations based on its strengths and weaknesses.
-
-
+The AnD AI group represents AI-powered messaging responses. Compare its performance to both the AnD and UpF groups to determine whether AI-powered responses are more effective than traditional approaches.
