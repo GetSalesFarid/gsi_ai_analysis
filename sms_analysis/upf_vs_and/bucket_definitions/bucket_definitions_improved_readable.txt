@@ -1,0 +1,1010 @@
+IMPROVED DASHER SCENARIO BUCKETS - CLASSIFICATION GUIDE
+======================================================================
+
+TYPE: DASHER_SCENARIO
+--------------------------------------------------
+
+BUCKET #1: OBJ-BK-001
+Title: Bike Dasher - No Bike
+Summary: Applicant wants to deliver on a bike but doesn't currently have one.
+
+IDENTIFICATION PHRASES:
+  - 'I signed up to be a bike dasher, but don't have a bike just yet.'
+  - 'I'm saving up to buy a bike.'
+  - 'I don't have my own transportation yet.'
+  - 'My bike is broken.'
+
+--------------------------------------------------
+
+BUCKET #2: OBJ-BK-002
+Title: Bike Dasher - Slow Areas
+Summary: The applicant is concerned about receiving few orders in a smaller or slower market.
+
+IDENTIFICATION PHRASES:
+  - 'I want to dash on my bike, but not getting any orders'
+  - 'My area is small.'
+  - 'My area is very slow.'
+  - 'I biked around my zone for 30 minutes with no orders.'
+  - 'My phone never pings here.'
+  - 'It's dead in my area, not many restaurants.'
+
+--------------------------------------------------
+
+BUCKET #3: OBJ-NO-002
+Title: No Orders, Area is Slow
+Summary: The applicant is concerned about receiving few orders in a smaller or slower market. The applicant does not see Dash Now option.
+
+IDENTIFICATION PHRASES:
+  - 'I drove for hours and did not get any orders'
+  - 'My area is small.'
+  - 'My area is very slow.'
+  - 'My phone never pings here.'
+  - 'It's dead in my area, not many restaurants.'
+  - 'no orders coming in'
+  - 'been waiting hours'
+  - 'market is dead'
+  - 'sitting in parking lot with no pings'
+  - 'only getting 1-2 orders per hour'
+
+--------------------------------------------------
+
+BUCKET #4: OBJ-NO-003
+Title: Dash Now Unavailable
+Summary: The applicant is unable to start dashing because the Dash Now option is unavailable in their area.
+
+IDENTIFICATION PHRASES:
+  - 'Dash Now is grayed out.'
+  - 'Why can't I start a dash?'
+  - 'The app won't let me dash.'
+  - 'I used to be able to dash any time but now I can't.'
+  - 'can't start dashing'
+  - 'button won't work'
+  - 'says try again later'
+  - 'no dash now option'
+  - 'app won't let me go online'
+
+--------------------------------------------------
+
+BUCKET #5: OBJ-BS-001
+Title: Busy
+Summary: The applicant feels they are too busy with other commitments and unsure if dashing is feasible.
+
+IDENTIFICATION PHRASES:
+  - 'I've been busy lately.'
+  - 'I'm juggling kids and can't find time to deliver. My schedule is packed; not sure if I can dash.'
+  - 'I have too many family commitments right now.'
+  - 'My daily schedule is packed with errands and responsibilities.'
+  - 'I'm busy with personal obligations and not sure if I can fit in deliveries.'
+  - 'I have limited free time because of other commitments.'
+  - 'don't have time'
+  - 'working two jobs'
+  - 'family obligations'
+  - 'too many commitments'
+  - 'schedule is packed'
+
+--------------------------------------------------
+
+BUCKET #6: OBJ-CP-001
+Title: Car Problems
+Summary: The applicant's car is unavailable or having issues, raising concerns about starting dashing.
+
+IDENTIFICATION PHRASES:
+  - 'My car is in the shop'
+  - 'Having car trouble'
+  - 'Car has been repoed'
+  - 'I need repairs before I can start driving.'
+
+--------------------------------------------------
+
+BUCKET #7: OBJ-GS-001
+Title: Gas
+Summary: The applicant is worried about fuel costs or not having gas money to start dashing.
+
+IDENTIFICATION PHRASES:
+  - 'I have no gas money'
+  - 'Gas is expensive.'
+  - 'I'm worried I'll spend more on gas than I earn.'
+  - 'I can't afford to fill my tank right now.'
+
+--------------------------------------------------
+
+BUCKET #8: OBJ-GJ-001
+Title: Got New Job / Not Dashing Anymore / Has another job / Recently Employed
+Summary: Applicant recently found a new full-time or part-time job and thinks they no longer need DoorDash and won't be dashing anymore.
+
+IDENTIFICATION PHRASES:
+  - 'I just got a new job, don't need DD anymore.'
+  - 'I'm starting a new position soon, so I won't have time.'
+  - 'I only needed DoorDash until I found a new job.'
+  - 'I have stable employment now, so I might not dash.'
+
+--------------------------------------------------
+
+BUCKET #9: OBJ-JC-001
+Title: Just in case Option
+Summary: Applicant only signed up to have DoorDash as a backup or safety net.
+
+IDENTIFICATION PHRASES:
+  - 'I signed up to have it as backup option just in case.'
+  - 'I don't plan on doing this regularly; just want it available.'
+  - 'I'm keeping it in my back pocket for emergencies.'
+  - 'I only want DD in case things go south at my current job.'
+
+--------------------------------------------------
+
+BUCKET #10: OBJ-WE-001
+Title: Concerned About Bad Weather
+Summary: The applicant is hesitant to dash due to current or upcoming bad weather conditions.
+
+IDENTIFICATION PHRASES:
+  - 'It's raining and I don't think it's safe to dash.'
+  - 'The weather has been bad lately.'
+  - 'I don't want to go out in the snow.'
+  - 'It's storming here and I'm not sure if I should deliver.'
+  - 'Will I even get orders in this weather?'
+
+--------------------------------------------------
+
+BUCKET #11: OBJ-WE-002
+Title: Extreme Weather or Natural Disaster Concern / Hurricane / Tornado / Earthquake
+Summary: The applicant expresses hesitation or inability to dash due to a natural disaster or extreme weather event in their area.
+
+IDENTIFICATION PHRASES:
+  - 'There's a hurricane coming, I can't go out right now.'
+  - 'We're under a tornado warning, it's not safe to drive.'
+  - 'An earthquake just happened here, everything's a mess.'
+  - 'The roads are shut down from flooding.'
+  - 'It's chaos here because of the typhoon.'
+
+--------------------------------------------------
+
+BUCKET #12: OBJ-JM-001
+Title: Just Moved / Moving
+Summary: Applicant recently moved or is in the process of moving and feels unsettled about dashing.
+
+IDENTIFICATION PHRASES:
+  - 'I just moved to the area, still getting settled.'
+  - 'I'm moving soon and don't want to start until then'
+  - 'I'm not familiar with the restaurants around here yet.'
+  - 'I'll start after I'm fully settled'
+
+--------------------------------------------------
+
+BUCKET #13: OBJ-MI-001
+Title: Military Schedule / Military Duties
+Summary: Applicant is in the military and worried about their strict schedule and obligations.
+
+IDENTIFICATION PHRASES:
+  - 'I'm in the military.'
+  - 'My schedule is determined by my service commitments.'
+  - 'I'm deployed often and not sure if I can dash.'
+  - 'I have to work around base duties.'
+
+--------------------------------------------------
+
+BUCKET #14: OBJ-NV-001
+Title: Nervous / Doesn't Know How to Use the App
+Summary: Applicant feels anxious or confused about using the DoorDash app.
+
+IDENTIFICATION PHRASES:
+  - 'I'm nervous, don't understand how to use the app.'
+  - 'I'm not tech-savvy.'
+  - 'I worry I'll mess up orders on the app.'
+  - 'I'm unsure about where to tap or how to accept deliveries.'
+
+--------------------------------------------------
+
+BUCKET #15: OBJ-OT-001
+Title: Out of Town / Vacation
+Summary: Applicant is away from their home city or on vacation and thinks they can't dash right now.
+
+IDENTIFICATION PHRASES:
+  - 'I'm currently out of town right now/on vacation.'
+  - 'I'm traveling and won't be back soon.'
+  - 'I'm not at home to start deliveries.'
+  - 'I need to wait until my vacation ends.'
+
+--------------------------------------------------
+
+BUCKET #16: OBJ-PD-001
+Title: Pay Down Debt
+Summary: Applicant wants to reduce debts or pay off bills or loans with DoorDash earnings.
+
+IDENTIFICATION PHRASES:
+  - 'I have things to pay off or credit card debt.'
+  - 'Bad spending habits are catching up to me.'
+  - 'I'm hoping to clear some overdue bills.'
+  - 'I need extra cash to pay down loans.'
+
+--------------------------------------------------
+
+BUCKET #17: OBJ-PG-001
+Title: Pregnant / Wife is Pregnant
+Summary: Applicant or their partner is pregnant, and they have concerns about timing and physical demands.
+
+IDENTIFICATION PHRASES:
+  - 'I'm pregnant, close to the end of my pregnancy.'
+  - 'My wife is pregnant.'
+  - 'I can't work regular jobs because I'm expecting.'
+
+--------------------------------------------------
+
+BUCKET #18: OBJ-SG-001
+Title: Scheduling
+Summary: Applicant is hesitant about or confused by the scheduling feature, or finds nothing on the schedule.
+
+IDENTIFICATION PHRASES:
+  - 'I don't want to schedule, or nothing on the schedule.'
+  - 'I don't see any open slots.'
+  - 'I only want to dash spontaneously.'
+  - 'I'm not sure how scheduling benefits me.'
+
+--------------------------------------------------
+
+BUCKET #19: OBJ-SG-002
+Title: Already Dashed/Dashing
+Summary: Applicant is currently dashing or has already dashed.
+
+IDENTIFICATION PHRASES:
+  - 'I am already dashing.'
+  - 'I'm dashing right now.'
+  - 'I dashed this morning.'
+  - 'I did it already.'
+
+--------------------------------------------------
+
+BUCKET #20: OBJ-SG-003
+Title: Starting/Wants to Dash
+Summary: Applicant wishes to start or applicant indicates that nothing is holding them back from starting.
+
+IDENTIFICATION PHRASES:
+  - 'I am ready to start.'
+  - 'I want to start now.'
+  - 'I will start today.'
+  - 'Nothing is holding me back'
+
+--------------------------------------------------
+
+BUCKET #21: OBJ-SG-004
+Title: Asking about Promotions
+Summary: Applicant indicates that they want an incentive to get started or is asking about any existing promotions or incentives.
+
+IDENTIFICATION PHRASES:
+  - 'Can you add the referral to my account?'
+  - 'I'm not seeing the promotion added to my account.'
+  - 'Is there a bonus or incentive for signing up?'
+  - 'Any promos if I start today?'
+
+--------------------------------------------------
+
+BUCKET #22: OBJ-SG-005
+Title: Accuses of Being a Scam or Scammer
+Summary: Applicant accuses the interaction or the onboarding process of being a scam or questions its legitimacy.
+
+IDENTIFICATION PHRASES:
+  - 'This sounds like a scam.'
+  - 'Are you even with DoorDash?'
+  - 'This feels sketchy.'
+  - 'I'm not giving you my info—it's probably fake.'
+  - 'You sound like a scammer'
+
+--------------------------------------------------
+
+BUCKET #23: OBJ-DL-001
+Title: No Driver's License
+Summary: Applicant is frustrated that they can't dash without a license, even though they have a car and insurance.
+
+IDENTIFICATION PHRASES:
+  - 'Y'all won't let me DoorDash without a license.'
+  - 'I have a car and insurance—why do I need a license?'
+  - 'I don't have a license right now but I'm still able to drive.'
+  - 'I'm trying to sign up but it says I need a valid license.'
+
+--------------------------------------------------
+
+BUCKET #24: OBJ-SC-001
+Title: Sick / COVID
+Summary: Applicant or someone in their household is ill, making them hesitant to dash.
+
+IDENTIFICATION PHRASES:
+  - 'I / someone in the house is sick or has COVID.'
+  - 'I'm worried about risking my health.'
+  - 'I'm sick'
+  - 'I'm not sure if it's safe for me to deliver food right now.'
+
+--------------------------------------------------
+
+BUCKET #25: OBJ-SE-001
+Title: Signed Up Early
+Summary: Applicant signed up before they were ready, planning to start dashing at a later date.
+
+IDENTIFICATION PHRASES:
+  - 'I signed up early, plan on starting later.'
+  - 'I'm not ready to dash yet.'
+  - 'I wanted to get onboarded but don't want to actually deliver yet.'
+  - 'I just wanted to see the sign-up process first.'
+
+--------------------------------------------------
+
+BUCKET #26: OBJ-SM-001
+Title: Single Mother / Father
+Summary: Applicant is a single parent balancing childcare responsibilities and seeking flexible income.
+
+IDENTIFICATION PHRASES:
+  - 'I am a single mother / father.'
+  - 'I have no one to watch my kids if I dash.'
+  - 'It's tough to juggle parenting alone.'
+  - 'I need income that fits around my kids' schedule since I don't have help.'
+
+--------------------------------------------------
+
+BUCKET #27: OBJ-SH-001
+Title: Stay-at-home Parent
+Summary: Applicant is a stay-at-home mom or dad seeking a way to earn money without rigid hours.
+
+IDENTIFICATION PHRASES:
+  - 'I am a stay-at-home mom/dad.'
+  - 'I care for my kids full-time.'
+  - 'I'm looking for a way to earn since I take care of my kids full time'
+
+--------------------------------------------------
+
+BUCKET #28: OBJ-ST-001
+Title: Student
+Summary: Applicant is a full-time or part-time student balancing classes and interested in dashing for the flexible income.
+
+IDENTIFICATION PHRASES:
+  - 'I am a full time student.'
+  - 'I'm a part time student.'
+  - 'My classes keep me busy.'
+  - 'I need extra money for tuition/books.'
+  - 'I'm not sure if I can dash between classes.'
+
+--------------------------------------------------
+
+BUCKET #29: OBJ-TX-001
+Title: Taxes
+Summary: Applicant is worried about the tax implications of DoorDash earnings.
+
+IDENTIFICATION PHRASES:
+  - 'I am concerned about taxes.'
+  - 'I don't want a complicated tax situation.'
+  - 'How will this affect my tax returns? '
+  - 'I'm scared of owing money at year-end.'
+  - 'I'm worried about complex tax paperwork.'
+  - 'I don't want to deal with tricky tax forms.'
+  - 'I'm concerned I won't understand the tax rules for dashing.'
+  - 'I prefer to avoid any tax complications.'
+
+--------------------------------------------------
+
+BUCKET #30: OBJ-UE-001
+Title: Unemployed
+Summary: Applicant is out of work, job hunting, or looking to cover bills until they find stable employment.
+
+IDENTIFICATION PHRASES:
+  - 'I am not working/ looking for work.'
+  - 'I lost my job recently.'
+  - 'I need something to pay bills while I job hunt.'
+  - 'I don't have any income right now.'
+
+--------------------------------------------------
+
+BUCKET #31: OBJ-WR-001
+Title: Waiting for the Right Time / Waiting for the ideal Moment
+Summary: Applicant wants to start dashing eventually but is waiting for a 'perfect' or 'ideal' moment.
+
+IDENTIFICATION PHRASES:
+  - 'I am waiting for the right time to start.'
+  - 'I'm just not sure it's the right moment now.'
+  - 'I want everything to be perfect before I begin.'
+  - 'I signed up but I'm not sure it makes sense to start yet.'
+
+--------------------------------------------------
+
+BUCKET #32: OBJ-WK-001
+Title: Waiting on the Welcome Kit
+Summary: Applicant thinks they must wait for the red card/hot bag/pizza bag/delivery bag before they can start delivering.
+
+IDENTIFICATION PHRASES:
+  - 'I'm waiting for the hot bag and red card.'
+  - 'I can't dash until my welcome kit arrives.'
+  - 'I'm stuck until DoorDash mails me everything.'
+  - 'I'll start once I have my official kit'
+  - 'How I can get pizza bag for free?'
+
+--------------------------------------------------
+
+BUCKET #33: OBJ-WL-001
+Title: Waitlisted
+Summary: Applicant logged into the app and discovered they're on a waitlist due to market capacity.
+
+IDENTIFICATION PHRASES:
+  - 'I logged into the app and it said I'm on a waitlist.'
+  - 'The app won't let me proceed and says I'm waitlisted'
+  - 'I can't get approved because there's no room.'
+  - 'I'm stuck until more spots open up.'
+
+--------------------------------------------------
+
+BUCKET #34: OBJ-WO-001
+Title: Already Working / Has full time job / Existing employment
+Summary: Applicant already has a full-time or part-time job (or multiple jobs) and is unsure how DoorDash fits.
+
+IDENTIFICATION PHRASES:
+  - 'I have a full time / part time job'
+  - 'I'm working 2 jobs.'
+  - 'I can't dash because I already have a job.'
+  - 'I might be too tired after my main job.'
+  - 'Not sure if I can do both my current job and dash..'
+
+--------------------------------------------------
+
+BUCKET #35: OBJ-SFT-001
+Title: Worried About Safety
+Summary: The Dasher is hesitant to begin or continue dashing due to safety concerns, such as neighborhood worries, dashing alone, delivery area anxiety, or general nervousness.
+
+IDENTIFICATION PHRASES:
+  - 'Is it safe to dash in my area?'
+  - 'I'm nervous about going out alone.'
+  - 'I'm not sure it's safe to deliver around here.'
+  - 'Are there any safety issues I should know about?'
+  - 'I'm scared to dash after dark.'
+  - 'I'm worried something might happen while I'm out.'
+
+--------------------------------------------------
+
+BUCKET #36: OBJ-LOC-001
+Title: App Shows Incorrect Location
+Summary: The Dasher app is displaying the wrong location, potentially preventing the applicant from receiving orders or dashing.
+
+IDENTIFICATION PHRASES:
+  - 'The app says I'm not in the right area.'
+  - 'It's not showing my real location.'
+  - 'My map is stuck in another city.'
+  - 'I can't dash because it thinks I'm somewhere else.'
+  - 'Why is my app showing a different zone?'
+
+--------------------------------------------------
+
+BUCKET #37: OBJ-PAY-001
+Title: Payment Issue / Payout Not Received / Pay Not Deposited / Payment Delayed
+Summary: The Dasher did not receive their payout as scheduled or expected, possibly due to a bank issue or a Crimson Card glitch.
+
+IDENTIFICATION PHRASES:
+  - 'I didn't get paid this week.'
+  - 'My deposit didn't go through.'
+  - 'My money isn't showing up in my account.'
+  - 'I completed deliveries but no payout.'
+  - 'It says I got paid but I don't see the money.'
+  - 'The payment didn't hit my bank.'
+
+--------------------------------------------------
+
+BUCKET #38: OBJ-PRO-001
+Title: Lower Promotions Than Before
+Summary: The Dasher is concerned that promotions or earning opportunities are worse than when they first joined the platform.
+
+IDENTIFICATION PHRASES:
+  - 'Promos were better when I first started.'
+  - 'I don't see the same bonuses anymore.'
+  - 'Peak Pay used to be higher.'
+  - 'I used to get better incentives.'
+  - 'There's not as much money in it now.'
+  - 'Why have the earnings dropped?'
+
+--------------------------------------------------
+
+BUCKET #39: OBJ-VL-001
+Title: Not Worth It / Low Pay Concern / Low Earnings
+Summary: The Dasher feels that dashing is not worth the effort—either because of low payouts, slow days, or general dissatisfaction with the time-to-earn ratio.
+
+IDENTIFICATION PHRASES:
+  - 'It's not worth my time.'
+  - 'The pay is too low.'
+  - 'Not enough money to make it worth it.'
+  - 'This just isn't worth it.'
+  - 'I feel like I'm wasting gas and time.'
+  - 'I'm not earning as much as I thought.'
+  - 'The money isn't good'
+  - 'Doesn't seem like the effort is worth the payout.'
+
+--------------------------------------------------
+
+BUCKET #40: OBJ-DEA-001
+Title: Deactivated on Dasher App / Appeal Deactivation
+Summary: The Dasher was deactivated from the platform and cannot log in or dash.
+
+IDENTIFICATION PHRASES:
+  - 'I got deactivated.'
+  - 'Why can't I log in?'
+  - 'It says I can't dash anymore.'
+  - 'My account was disabled.'
+  - 'The app says I've been removed.'
+
+--------------------------------------------------
+
+BUCKET #41: OBJ-DEA-002
+Title: Deactivated on Customer Account
+Summary: The Dasher's DoorDash customer account was deactivated, which also affects their ability to dash.
+
+IDENTIFICATION PHRASES:
+  - 'My customer account got deactivated.'
+  - 'I can't access my account anymore.'
+  - 'My dasher app isn't working after my customer account got removed.'
+  - 'I used to dash but now I'm locked out because of my DoorDash account.'
+
+--------------------------------------------------
+
+BUCKET #42: OBJ-IDV-001
+Title: Failed Identity Re-Verification
+Summary: The Dasher attempted to re-verify their identity but failed and is now locked out of the platform.
+
+IDENTIFICATION PHRASES:
+  - 'I failed my identity check.'
+  - 'The app is asking me to verify again and I can't get in.'
+  - 'It says my verification failed.'
+  - 'Why can't I log in after verifying?'
+  - 'The selfie check didn't go through.'
+
+--------------------------------------------------
+
+BUCKET #43: UNC-GE-001
+Title: Generic Encouragement/Check-ins
+Summary: Applicant sends generic messages seeking encouragement or checking in without specific concerns.
+
+IDENTIFICATION PHRASES:
+  - 'how are you doing today'
+  - 'hope you're having a good day'
+  - 'just checking in'
+  - 'wanted to say hi'
+  - 'thinking about dashing'
+  - 'how's everything going'
+  - 'any updates for me'
+  - 'just wanted to touch base'
+
+--------------------------------------------------
+
+BUCKET #44: UNC-SC-001
+Title: Scheduling Conflicts
+Summary: Applicant has scheduling conflicts or time management issues preventing them from dashing.
+
+IDENTIFICATION PHRASES:
+  - 'my schedule changed'
+  - 'can't work the hours I planned'
+  - 'have a conflict with my availability'
+  - 'my shifts at work changed'
+  - 'family schedule is different now'
+  - 'time doesn't work anymore'
+  - 'schedule got complicated'
+  - 'hours don't align'
+
+--------------------------------------------------
+
+BUCKET #45: UNC-AM-001
+Title: Area Market Questions
+Summary: Applicant has questions about their specific market area, demand, or local conditions.
+
+IDENTIFICATION PHRASES:
+  - 'is my area good for dashing'
+  - 'how busy is it here'
+  - 'do people order food in my city'
+  - 'is there demand in my market'
+  - 'wondering about my location'
+  - 'my area seems quiet'
+  - 'not sure about local market'
+  - 'is it worth it in my town'
+
+--------------------------------------------------
+
+BUCKET #46: UNC-PE-001
+Title: Payment/Earnings Concerns
+Summary: Applicant has questions or concerns about payment processing, earnings, or financial aspects.
+
+IDENTIFICATION PHRASES:
+  - 'how do I get paid'
+  - 'when will I see money'
+  - 'payment processing questions'
+  - 'earnings seem low'
+  - 'worried about pay'
+  - 'payment timing unclear'
+  - 'money concerns'
+  - 'financial questions'
+
+--------------------------------------------------
+
+BUCKET #47: UNC-ER-001
+Title: Equipment/Red Card Issues
+Summary: Applicant has problems with equipment, red card delivery, or activation issues.
+
+IDENTIFICATION PHRASES:
+  - 'haven't received my red card'
+  - 'red card not working'
+  - 'equipment problems'
+  - 'activation kit delayed'
+  - 'card won't activate'
+  - 'thermal bag issues'
+  - 'equipment not arrived'
+  - 'red card declined'
+
+--------------------------------------------------
+
+BUCKET #48: UNC-LA-001
+Title: Login/Account Access
+Summary: Applicant has issues accessing their account, logging in, or account-related problems.
+
+IDENTIFICATION PHRASES:
+  - 'can't log into my account'
+  - 'forgot my password'
+  - 'account locked'
+  - 'login not working'
+  - 'can't access the app'
+  - 'account issues'
+  - 'password reset problems'
+  - 'verification code not working'
+
+--------------------------------------------------
+
+BUCKET #49: UNC-DP-001
+Title: Delivery Process Questions
+Summary: Applicant has questions about how the actual delivery process works or what to expect.
+
+IDENTIFICATION PHRASES:
+  - 'how does delivery actually work'
+  - 'what do I do when I arrive'
+  - 'never delivered before'
+  - 'process seems confusing'
+  - 'what are the steps'
+  - 'how do I know where to go'
+  - 'delivery instructions unclear'
+  - 'first time delivering'
+
+--------------------------------------------------
+
+TYPE: TECH_SUPPORT_SCENARIO
+--------------------------------------------------
+
+BUCKET #50: TSI-2S-001
+Title: 2-Step Verification
+Summary: Dasher is having issues receiving the 2-step verification code (wrong email/phone).
+
+IDENTIFICATION PHRASES:
+  - 'Having issues with 2-step verification code.'
+  - 'It's sending the code to my old number.'
+  - 'I never get the text or email.'
+  - 'I can't log in because the code won't come through.'
+
+--------------------------------------------------
+
+BUCKET #51: TSI-AC-001
+Title: App Crashes
+Summary: Dasher experiences app crashes during or before deliveries, possibly due to connectivity or device issues.
+
+IDENTIFICATION PHRASES:
+  - 'The app crashes during a delivery.'
+  - 'It crashes every time I open it.'
+  - 'My phone freezes when using DoorDash.'
+  - 'I can't complete orders because the app keeps shutting down.'
+
+--------------------------------------------------
+
+BUCKET #52: TSI-CP-001
+Title: Apple CarPlay Compatibility
+Summary: Dasher believes DoorDash does not support Apple CarPlay and expresses frustration or concern about road safety.
+
+IDENTIFICATION PHRASES:
+  - 'No Apple CarPlay app.'
+  - 'Why doesn't DoorDash support CarPlay like Uber Eats?'
+  - 'It's 2025 and there's still no CarPlay app?'
+  - 'I don't want to look down at my phone while driving.'
+  - 'CarPlay should be a priority—this is a safety issue.'
+
+--------------------------------------------------
+
+BUCKET #53: TSI-CS-001
+Title: Can't Schedule a Dash
+Summary: Dasher is unable to select or view any scheduling slots in the app.
+
+IDENTIFICATION PHRASES:
+  - 'Dasher is unable to schedule a dash on the app.'
+  - 'No scheduling slots are open.'
+  - 'I can't book any time blocks.'
+  - 'The schedule button is greyed out.'
+
+--------------------------------------------------
+
+BUCKET #54: TSI-CB-001
+Title: Constant Buffering / App Stuck Buffering / Infinite Loading Ring
+Summary: The Dasher app is continually buffering or showing a loading ring, possibly due to connectivity or device memory.
+
+IDENTIFICATION PHRASES:
+  - 'Dasher App continues to buffer, loading ring.'
+  - 'It's stuck on loading forever.'
+  - 'The map won't load—just spinning.'
+  - 'I can't click anything because of the constant buffer.'
+
+--------------------------------------------------
+
+BUCKET #55: TSI-CV-001
+Title: Create Shift V2 Error
+Summary: Dasher sees a 'CreateShiftV2' error, often indicating missing vehicle details or system glitch.
+
+IDENTIFICATION PHRASES:
+  - 'Seeing an error message that says CreateShiftV2.'
+  - 'I can't proceed because of CreateShiftV2 error.'
+  - 'App won't let me schedule due to some shift error.'
+  - 'A weird error about vehicle info keeps popping up.'
+
+--------------------------------------------------
+
+BUCKET #56: TSI-EC-001
+Title: Error Code 400
+Summary: A generic app error often fixed by force closing the app or clearing cache, or trying another device.
+
+IDENTIFICATION PHRASES:
+  - 'After logging in, receiving Error Code 400.'
+  - 'The app shows 400 error on startup.'
+  - 'Error 400 keeps popping up on my screen.'
+
+--------------------------------------------------
+
+BUCKET #57: TSI-BI-001
+Title: Keeps Asking for Bank Info / App stuck asking for Direct Deposit 
+Summary: Dasher app repeatedly requests bank details or direct deposit info after they've already submitted them.
+
+IDENTIFICATION PHRASES:
+  - 'Dasher App requests bank info after I already submitted it.'
+  - 'I keep getting prompted for direct deposit info.'
+  - 'It won't recognize that I provided my bank details.'
+  - 'The app is stuck on verifying my payout method.'
+
+--------------------------------------------------
+
+BUCKET #58: TSI-LI-001
+Title: Login Issues
+Summary: Dasher can't log in due to using the wrong email, forgetting password, or having the wrong app.
+
+IDENTIFICATION PHRASES:
+  - 'Dasher is having issues logging into app.'
+  - 'I keep getting invalid credentials.'
+  - 'I might be using the customer app by mistake.'
+  - 'I forgot my password and can't reset.'
+
+--------------------------------------------------
+
+BUCKET #59: TSI-NR-001
+Title: No Red Zones / No Hot Zones / No Red Area
+Summary: Dasher sees no red or pink areas on the map, indicating a lack of immediate busy zones.
+
+IDENTIFICATION PHRASES:
+  - 'Not seeing any red zones on the map.'
+  - 'My map is always gray.'
+  - 'I'm not seeing any hot zones'
+  - 'There's never a busy area near me.'
+  - 'It's all gray colors—no hotspots.'
+  - 'I'm not seeing any hot spots or busy zones.'
+  - 'My map is gray and shows no active delivery areas.'
+  - 'No red zones or busy regions appear on my screen.'
+  - 'I think the app isn't showing me hot zones properly.'
+
+--------------------------------------------------
+
+BUCKET #60: TSI-NO-001
+Title: Unable to Accept Orders
+Summary: Dashers getting a text saying orders are available, but when they go in the app they don't see anything.
+
+IDENTIFICATION PHRASES:
+  - 'I cannot accept the orders.'
+  - 'The app tells me there are orders but I cannot see them.'
+
+--------------------------------------------------
+
+BUCKET #61: TSI-BC-001
+Title: Waiting on Background Check
+Summary: Dasher believes they are still stuck in the background check phase, though it may be completed.
+
+IDENTIFICATION PHRASES:
+  - 'Seen that I'm still waiting on my background check.'
+  - 'The app says my check is processing.'
+  - 'I haven't received a confirmation that I'm cleared.'
+
+--------------------------------------------------
+
+BUCKET #62: TSI-WL-001
+Title: Waitlist / System Capacity Waitlist
+Summary: Dasher is on a waitlist from a tech perspective, meaning the system won't activate them until capacity frees up.
+
+IDENTIFICATION PHRASES:
+  - 'Dasher is currently on the waitlist (tech side).'
+  - 'The app won't activate me because of waitlist.'
+  - 'I'm told there's no capacity in my market.'
+  - 'I can't finalize my profile due to waitlist status.'
+
+--------------------------------------------------
+
+BUCKET #63: TSI-WS-001
+Title: White Screen
+Summary: Dasher only sees a white screen upon launching the app, possibly due to loading issues or poor connectivity.
+
+IDENTIFICATION PHRASES:
+  - 'Seeing only a white screen.'
+  - 'The app never loads past a blank page.'
+  - 'Nothing appears except a white display.'
+  - 'I can't access any part of the app—it's all white.'
+
+--------------------------------------------------
+
+BUCKET #64: TSI-WR-001
+Title: Wrong Location
+Summary: The app is showing an incorrect location for the dasher, possibly due to location settings or old data.
+
+IDENTIFICATION PHRASES:
+  - 'Map showing different location.'
+  - 'My app places me in another city.'
+  - 'GPS is inaccurate I'm nowhere near the area it shows.'
+  - 'It's not reflecting my current address.'
+
+--------------------------------------------------
+
+BUCKET #65: TSI-WN-001
+Title: Wrong Name on Account
+Summary: Dasher sees a different name on their account, possibly due to a recycled phone number or linked customer profile.
+
+IDENTIFICATION PHRASES:
+  - 'Dasher seeing wrong name on Account when signing in.'
+  - 'My profile shows someone else's name.'
+  - 'It looks like this account belonged to another person.'
+  - ''
+  - 'I can't get rid of the wrong info.'
+
+--------------------------------------------------
+
+BUCKET #66: TSI-NC-001
+Title: Change Preferred Name in Dasher App / Fix Incorrect Name
+Summary: Dasher wants to change name in app, change preferred name, wants to be called different name, name in app is incorrect
+
+IDENTIFICATION PHRASES:
+  - 'My name in the app is Barbars I want to change it to Barbara'
+  - 'Help me update my name in the app'
+  - 'My name is wrong in the app I need to change it'
+  - 'My name is incorrect in the app I need to change it'
+  - 'How do I update my preferred name for deliveries'
+  - 'I want to change what customers see as my name'
+
+--------------------------------------------------
+
+BUCKET #67: TSI-AUTH-001
+Title: Login/Authentication Issues
+Summary: Specific technical problems with login, authentication, password reset, or account access.
+
+IDENTIFICATION PHRASES:
+  - 'password won't work'
+  - 'account locked out'
+  - 'verification code not coming'
+  - 'two-factor authentication problems'
+  - 'login credentials rejected'
+  - 'account access denied'
+  - 'authentication failed'
+  - 'security verification issues'
+
+--------------------------------------------------
+
+BUCKET #68: TSI-CRASH-001
+Title: App Crashes/Technical Bugs
+Summary: Issues with app stability, crashes, freezing, or other technical bugs.
+
+IDENTIFICATION PHRASES:
+  - 'app keeps crashing'
+  - 'app freezes up'
+  - 'won't load properly'
+  - 'technical glitches'
+  - 'app is buggy'
+  - 'keeps force closing'
+  - 'not responding'
+  - 'technical problems'
+
+--------------------------------------------------
+
+BUCKET #69: TSI-FEAT-001
+Title: Feature Unavailability
+Summary: Issues with specific app features being unavailable, not working, or missing.
+
+IDENTIFICATION PHRASES:
+  - 'feature not available'
+  - 'option missing from app'
+  - 'can't find this feature'
+  - 'functionality not working'
+  - 'missing app options'
+  - 'feature seems broken'
+  - 'can't access this'
+  - 'feature disappeared'
+
+--------------------------------------------------
+
+TYPE: AI_GENERATED_SCENARIO
+--------------------------------------------------
+
+BUCKET #70: AI-EMP-001
+Title: AI-Generated Empathy Responses
+Summary: AI-generated empathetic responses that acknowledge concerns and build emotional connection.
+
+IDENTIFICATION PHRASES:
+  - 'ai detected empathy needed'
+  - 'emotional response required'
+  - 'concern acknowledgment'
+  - 'rapport building needed'
+  - 'empathetic engagement'
+  - 'emotional intelligence response'
+  - 'supportive messaging'
+  - 'understanding required'
+
+--------------------------------------------------
+
+BUCKET #71: AI-QUE-001
+Title: AI Question-Based Engagement
+Summary: AI-generated question-focused responses designed to gather information and increase engagement.
+
+IDENTIFICATION PHRASES:
+  - 'needs information gathering'
+  - 'question-based engagement'
+  - 'discovery conversation'
+  - 'information collection needed'
+  - 'exploratory dialogue'
+  - 'fact-finding mission'
+  - 'detailed assessment required'
+  - 'comprehensive questioning'
+
+--------------------------------------------------
+
+BUCKET #72: AI-URG-001
+Title: AI Urgency with Support
+Summary: AI-generated responses that create urgency while offering comprehensive support.
+
+IDENTIFICATION PHRASES:
+  - 'urgency creation needed'
+  - 'time-sensitive opportunity'
+  - 'immediate action required'
+  - 'urgency with support'
+  - 'compelling call to action'
+  - 'time-sensitive messaging'
+  - 'urgent but supportive'
+  - 'action-oriented urgency'
+
+--------------------------------------------------
+
+TYPE: HIGH_CONVERTING_SCENARIO
+--------------------------------------------------
+
+BUCKET #73: HCP-WR-001
+Title: Weather-Responsive Messages
+Summary: Messages that acknowledge and leverage weather conditions for delivery opportunities.
+
+IDENTIFICATION PHRASES:
+  - 'it's raining today'
+  - 'bad weather outside'
+  - 'snowing heavily'
+  - 'storm coming'
+  - 'weather is terrible'
+  - 'don't want to drive in this'
+  - 'conditions are poor'
+  - 'weather concerns'
+
+--------------------------------------------------
+
+BUCKET #74: HCP-SP-001
+Title: Social Proof Messages
+Summary: Messages leveraging strong social proof and success stories to drive conversion.
+
+IDENTIFICATION PHRASES:
+  - 'do people actually make money'
+  - 'is this worth it'
+  - 'success stories'
+  - 'other people's experience'
+  - 'real earnings examples'
+  - 'proof it works'
+  - 'testimonials needed'
+  - 'validation required'
+
+--------------------------------------------------
+
+TOTAL BUCKETS: 74

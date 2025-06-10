@@ -1,0 +1,2288 @@
+[
+    {
+      "id": "OBJ-BK-001",
+      "type": "dasher_scenario",
+      "title": "Bike Dasher - No Bike",
+      "summary": "Applicant wants to deliver on a bike but doesn't currently have one.",
+      "identification_phrases": [
+        "I signed up to be a bike dasher, but don't have a bike just yet.",
+        "I'm saving up to buy a bike.",
+        "I don't have my own transportation yet.",
+        "My bike is broken."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge the immediate obstacle of lacking a bike and reassure the applicant they can still proceed.",
+        "2) Provide practical alternatives like borrowing or renting a bike, or dashing on an electric scooter (such as a Bird or Lime) if permitted.",
+        "3) Encourage them to begin delivering in any capacity while they secure a permanent bike."
+      ],
+      "social_proof_rapport": [
+        "Do you have the option of borrowing a bike from a friend?",
+        "Do you have the ability to be a walk dasher in your area?",
+        "When do you plan on getting your bike?",
+        "I know some dashers who didn't have a bike initially started by borrowing one from a friend.",
+        "One dasher I talked with was able to start by renting scooters or bikes and doing dashes before upgrading to their own bike in 2 weeks."
+      ],
+      "pain_mapping": [
+        "What originally brought you to DD?",
+        "What does your schedule typically look like?",
+        "How were you looking to fit this into your schedule?",
+        "How else are you getting around at the moment?",
+        "Where do you see yourself dashing once you have a bike? ",
+        "Are you open to renting or sharing a bike short-term?"
+      ],
+      "motivation_urgency": [
+        "If you start exploring bike options now, you could begin earning extra money by next week.",
+        "Even doing a few deliveries with a borrowed bike could help you start getting the hang of it."
+      ]
+    },
+    {
+      "id": "OBJ-BK-002",
+      "type": "dasher_scenario",
+      "title": "Bike Dasher - Slow Areas",
+      "summary": "The applicant is concerned about receiving few orders in a smaller or slower market.",
+      "identification_phrases": [
+        "I want to dash on my bike, but not getting any orders",
+        "My area is small.",
+        "My area is very slow.",
+        "I biked around my zone for 30 minutes with no orders.",
+        "My phone never pings here.",
+        "It's dead in my area, not many restaurants."
+      ],
+      "strategy_overview": [
+        "1) Identify nearby busier zones and explain how to navigate there, if possible.",
+        "2) Emphasize scheduling during peak times and using the red card for broader restaurant options.",
+        "3) Encourage them to experiment with weekends or evenings when order volume is higher."
+      ],
+      "social_proof_rapport": [
+        "I see that your area is small but still has activity, especially on weekends!",
+        "Once you receive your red card, you'll have access to more restaurants and even grocery store options in your area.",
+        "Some dashers in small markets travel to the nearest busy zone on weekends to maximize orders.",
+        "If you schedule your dashes around sporting events, you should see more orders"
+      ],
+      "pain_mapping": [
+        "What does your schedule typically look like?",
+        "How were you originally looking to fit this into your schedule?",
+        "How else are you getting around at the moment?",
+        "Is there a nearby busier city or neighborhood where you could dash occasionally? ",
+        "Have you tried checking during the lunch or dinner rush to see when it's busiest?"
+      ],
+      "motivation_urgency": [
+        "By dashing in busier zones during peak hours, you can quickly see extra earnings add up.",
+        "Even a few hours on weekends can cover some of your weekly expenses.",
+        "One dasher I talked with was able to start by renting scooters or bikes and doing dashes before upgrading to their own bike in 2 weeks."
+      ]
+    },
+    {
+      "id": "OBJ-NO-002",
+      "type": "dasher_scenario",
+      "title": "No Orders, Area is Slow",
+      "summary": "The applicant is concerned about receiving few orders in a smaller or slower market. The applicant does not see Dash Now option.",
+      "identification_phrases": [
+        "I drove for hours and did not get any orders",
+        "My area is small.",
+        "My area is very slow.",
+        "My phone never pings here.",
+        "It's dead in my area, not many restaurants.",
+        "no orders coming in",
+        "been waiting hours",
+        "market is dead",
+        "sitting in parking lot with no pings",
+        "only getting 1-2 orders per hour"
+      ],
+      "strategy_overview": [
+        "1) Identify nearby busier zones and explain how to navigate there, if possible.",
+        "2) Emphasize scheduling (scheduling shifts) during peak times and using the red card for both broader restaurant options and 'shop and deliver' options.",
+        "3) Encourage them to experiment with weekends or evenings when order volume is higher."
+      ],
+      "social_proof_rapport": [
+        "I see that your area is small but still has activity, especially on weekends!",
+        "Once you receive your red card, you'll have access to more restaurants in your area.",
+        "Some dashers in small markets travel to the nearest busy zone on weekends to maximize orders.",
+        "If you schedule your dashes around local events, you should see more orders"
+      ],
+      "pain_mapping": [
+        "What does your schedule typically look like?",
+        "How were you originally looking to fit this into your schedule?",
+        "How else are you getting around at the moment?",
+        "Is there a nearby busier city or neighborhood where you could dash occasionally? ",
+        "Have you tried checking during the lunch or dinner rush to see when it's busiest?"
+      ],
+      "motivation_urgency": [
+        "By dashing in busier zones during peak hours, you can quickly see extra earnings add up.",
+        "Even a few hours on weekends can cover some of your weekly expenses."
+      ]
+    },
+    {
+      "id": "OBJ-NO-003",
+      "type": "dasher_scenario",
+      "title": "Dash Now Unavailable",
+      "summary": "The applicant is unable to start dashing because the Dash Now option is unavailable in their area.",
+      "identification_phrases": [
+        "Dash Now is grayed out.",
+        "Why can't I start a dash?",
+        "The app won't let me dash.",
+        "I used to be able to dash any time but now I can't.",
+        "can't start dashing",
+        "button won't work",
+        "says try again later",
+        "no dash now option",
+        "app won't let me go online"
+      ],
+      "strategy_overview": [
+        "1) Explain that Dash Now is only available when demand is high. Explain that scheduling shifts can boost their stats and increase the likelihood that they will see the Dash Now option.",
+        "2) Show them how to check the schedule and reserve slots in advance.",
+        "3) Encourage them to monitor zones that turn red and Dash Now becomes available.",
+        "4) Recommend enabling notifications for zone openings."
+      ],
+      "social_proof_rapport": [
+        "Many new Dashers notice that Dash Now isn't always available—but it becomes easier once you start scheduling.",
+        "Dashers who check the app in the late morning often find spots open up before lunch and dinner.",
+        "Some of the most successful Dashers schedule a few hours ahead and then Dash Now when zones turn red.",
+        "Once you get the hang of scheduling, you'll rarely have to wait to dash."
+      ],
+      "pain_mapping": [
+        "Have you tried scheduling your dashes in advance?",
+        "What times of day are you usually free to dash?",
+        "Have you noticed what times your area tends to be red?",
+        "Do you get push notifications for when your zone gets busy?",
+        "Have you explored neighboring zones to see if they're more active?"
+      ],
+      "motivation_urgency": [
+        "Once you start scheduling shifts, you'll have a guaranteed window to dash—even if demand is low.",
+        "Learning the rhythm of your area helps you catch the busiest times and get back out there fast."
+      ]
+    },    
+    {
+      "id": "OBJ-BS-001",
+      "type": "dasher_scenario",
+      "title": "Busy",
+      "summary": "The applicant feels they are too busy with other commitments and unsure if dashing is feasible.",
+      "identification_phrases": [
+        "I've been busy lately.",
+        "I'm juggling kids and can't find time to deliver. My schedule is packed; not sure if I can dash.",
+        "I have too many family commitments right now.",
+        "My daily schedule is packed with errands and responsibilities.",
+        "I'm busy with personal obligations and not sure if I can fit in deliveries.",
+        "I have limited free time because of other commitments.",
+        "don't have time",
+        "working two jobs",
+        "family obligations",
+        "too many commitments",
+        "schedule is packed"
+      ],
+      "strategy_overview": [
+        "1) Reassure that DoorDash's flexible scheduling can work around even the busiest of routines.",
+        "2) Highlight that many busy people dash effectively by targeting peak hours or small time slots.",
+        "3) Offer tips on how to incorporate dashing into daily errands or commutes."
+      ],
+      "social_proof_rapport": [
+        "DoorDash is perfect for a busy schedule, giving you the flexibility to make extra money.",
+        "No worries, once you get started you'll see how easy it is to fit in, even around tight schedules.",
+        "One of the benefits of Dashing is the flexibility, I speak to lots of Dashers who juggle full-time jobs, family duties, and still manage to earn with DD."
+      ],
+      "pain_mapping": [
+        "What has been keeping you busy?",
+        "What does your schedule typically look like?",
+        "When were you planning on dashing originally?",
+        "How were you originally looking to fit this into your schedule?",
+        "When do you usually have free time?"
+      ],
+      "motivation_urgency": [
+        "Dashing for even a short period each day can lead to meaningful extra income.",
+        "Do you think you have 45 minutes to try it out and see how you could fit earning into your schedule?",
+        "If you start now you can get the hang of it and have it as a great option when you're more free."
+      ]
+    },
+    {
+      "id": "OBJ-CP-001",
+      "type": "dasher_scenario",
+      "title": "Car Problems",
+      "summary": "The applicant's car is unavailable or having issues, raising concerns about starting dashing.",
+      "identification_phrases": [
+        "My car is in the shop",
+        "Having car trouble",
+        "Car has been repoed",
+        "I need repairs before I can start driving."
+      ],
+      "strategy_overview": [
+        "1) Suggest dasher to borrow a car from a relative or a friend to get a head start on dashing.",
+        "2) Determine how long it will take the applicant to fix the car.",
+        "3) If the car repairs are short-term, congratulate the applicant on taking the steps to fix their car, and reassure them that they can borrow a car in the meantime to start earning money.",
+        "4) If the car repairs will take longer than 2 weeks, remind them DoorDash allows any car, including borrowed or rented vehicles.",
+        "5) Suggest short dashes or side gigs until the applicant's own car is fixed or replaced."
+      ],
+      "social_proof_rapport": [
+        "Great thing about DD is that you can use any car!",
+        "Understand car troubles can be frustrating, especially if you need extra money soon.",
+        "I know a dasher who borrowed a relative's car for a week, made enough to fix their own."
+      ],
+      "pain_mapping": [
+        "What's going on with your car?",
+        "Is the issue going to cost you a lot of money to fix?",
+        "When are you expected to have that car back?",
+        "How are you getting around now?",
+        "Are you able to borrow a car from a friend or family member?",
+        "Could you consider a short-term rental or ride-share partnership?"
+      ],
+      "motivation_urgency": [
+        "I'd love for you to try it out today or tomorrow so you can be ready to start earning when you get your car back!",
+        "Even a couple of deliveries a day can add up quickly toward repair costs."
+      ]
+    },
+    {
+      "id": "OBJ-GS-001",
+      "type": "dasher_scenario",
+      "title": "Gas",
+      "summary": "The applicant is worried about fuel costs or not having gas money to start dashing.",
+      "identification_phrases": [
+        "I have no gas money",
+        "Gas is expensive.",
+        "I'm worried I'll spend more on gas than I earn.",
+        "I can't afford to fill my tank right now."
+      ],
+      "strategy_overview": [
+        "1) Provide strategies to minimize fuel expense (e.g., apps, planning routes).",
+        "2) Illustrate how earnings can quickly offset gas costs when dashing in busy areas.",
+        "3) Encourage them to start small, earn a bit of money, and reinvest in fuel."
+      ],
+      "social_proof_rapport": [
+        "Gas prices are high, but dashers find they can still come out ahead after filling up.",
+        "A lot of Dashers I know use cashback fuel apps that help offset some of those costs.",
+        "It usually costs me $70 to fill up my gas tank, and I can make over $300 per week, which leaves me with over $200, would you like that?",
+        "I usually accept orders that payout $2-$3 per mile which easily offsets the fuel costs."
+      ],
+      "pain_mapping": [
+        "When are you expecting to have gas money?",
+        "What else are you doing for income right now?",
+        "Was this extra money going towards anything special?",
+        "How much money a week would help cover these expenses?"
+      ],
+      "motivation_urgency": [
+        "I speak to a lot of Dashers who are still finding a lot of success even with gas prices",
+        "Even Dashing for 45 minutes today could be enough to try it out and see if it's worth it for you",
+        "If you dash during peak hours, you'll earn enough to cover gas for the week.",
+        "Giving it a try today or tomorrow means you can take advantage of busy times and quickly recoup fuel costs."
+      ]
+    },
+    {
+      "id": "OBJ-GJ-001",
+      "type": "dasher_scenario",
+      "title": "Got New Job / Not Dashing Anymore / Has another job / Recently Employed",
+      "summary": "Applicant recently found a new full-time or part-time job and thinks they no longer need DoorDash and won't be dashing anymore.",
+      "identification_phrases": [
+        "I just got a new job, don't need DD anymore.",
+        "I'm starting a new position soon, so I won't have time.",
+        "I only needed DoorDash until I found a new job.",
+        "I have stable employment now, so I might not dash."
+      ],
+      "strategy_overview": [
+        "1) Congratulate them on the new job and highlight how dashing can still supplement income and help them reach their financial goals.",
+        "2) Emphasize that many dashers keep DoorDash for additional cash flow around their new schedule.",
+        "3) Suggest starting with minimal hours to see if the extra money fits their new situation."
+      ],
+      "social_proof_rapport": [
+        "Congratulations, that's exciting! Many dashers I know supplement their primary job with DD.",
+        "A lot of new hires keep dashing on weekends for extra income.",
+        "Have you considered using DD as a safety net in case your new job's pay cycles take time?"
+      ],
+      "pain_mapping": [
+        "What kind of job are we doing now?",
+        "When do you start your new job?",
+        "How do you like your new job?",
+        "What's your new schedule like?",
+        "How long have you been at your new job? Have you been paid yet?",
+        "Do you foresee any gaps between paychecks that DD could help cover?"
+      ],
+      "motivation_urgency": [
+        "Even a few extra hours each week can give you more financial cushion, would you like to give it a try this weekend?",
+        "Starting now ensures you'll have funds before your first paycheck arrives."
+      ]
+    },
+    {
+      "id": "OBJ-JC-001",
+      "type": "dasher_scenario",
+      "title": "Just in case Option",
+      "summary": "Applicant only signed up to have DoorDash as a backup or safety net.",
+      "identification_phrases": [
+        "I signed up to have it as backup option just in case.",
+        "I don't plan on doing this regularly; just want it available.",
+        "I'm keeping it in my back pocket for emergencies.",
+        "I only want DD in case things go south at my current job."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge that using DD as a backup is valid.",
+        "2) Show how easy it can be to try a few shifts to understand the earnings potential.",
+        "3) Encourage them to give it a test run so they're comfortable if they need it later."
+      ],
+      "social_proof_rapport": [
+        "Completely understand! A lot of dashers use it for a safety net.",
+        "You're not alone. Many sign up for that same reason and love the flexibility.",
+        "I know people who dash a few times a month just to keep the option open and make some extra cash. "
+      ],
+      "pain_mapping": [
+        "What are you currently doing for work?",
+        "What got you interested in DoorDash?",
+        "What have you heard about DoorDash that attracted you?",
+        "Are there any specific times you think you'd dash in an emergency?",
+        "What would success with DoorDash look like for you if you needed it?"
+      ],
+      "motivation_urgency": [
+        "Trying a few short dashes now will ensure you know how it works when you need it.",
+        "By getting out there for a few hours you can see exactly how easy it is to jump in whenever you want."
+      ]
+    },
+    {
+      "id": "OBJ-WE-001",
+      "type": "dasher_scenario",
+      "title": "Concerned About Bad Weather",
+      "summary": "The applicant is hesitant to dash due to current or upcoming bad weather conditions.",
+      "identification_phrases": [
+        "It's raining and I don't think it's safe to dash.",
+        "The weather has been bad lately.",
+        "I don't want to go out in the snow.",
+        "It's storming here and I'm not sure if I should deliver.",
+        "Will I even get orders in this weather?"
+      ],
+      "strategy_overview": [
+        "1) Empathize and encourage them, letting them know that inclement weather can actually be a positive if they're able to dash safely.",
+        "2) Offer guidance by checking the weekly weather forecast in their area, and help them pick the best day(s) to go out.",
+        "3) Emphasize safety first, but also highlight that higher demand and larger tips are common during poor weather."
+      ],
+      "social_proof_rapport": [
+        "I felt this way when I first started driving, but after a few deliveries during rainy days, I realized it was the best time to earn.",
+        "Many Dashers find that bad weather is when the biggest tips and highest order volumes come in.",
+        "I know Dashers who plan their week around rainy days because of how profitable it can be.",
+        "I totally get it—weather can be a concern. But once it's safe, it's actually a golden opportunity to make some solid income."
+      ],
+      "pain_mapping": [
+        "How has the weather been in your area lately?",
+        "Do you feel comfortable dashing in light rain or would you prefer to wait for clearer skies?",
+        "Have you ever tried dashing right after a storm passes?",
+        "Are you concerned about safety, low order volume, or both?",
+        "Would it help if we looked at the best times in your forecast this week?"
+      ],
+      "motivation_urgency": [
+        "Bad weather often leads to more orders and bigger tips—if you can dash safely, it's one of the best times to earn.",
+        "Once the severe part of the weather clears, there's often a big spike in demand and very few Dashers out. That's your moment.",
+        "Even one solid shift during inclement weather can bring in what might normally take several hours.",
+        "The sooner you're ready to dash post-storm, the better your chances of catching those high-paying orders."
+      ]
+    },   
+    {
+      "id": "OBJ-WE-002",
+      "type": "dasher_scenario",
+      "title": "Extreme Weather or Natural Disaster Concern / Hurricane / Tornado / Earthquake",
+      "summary": "The applicant expresses hesitation or inability to dash due to a natural disaster or extreme weather event in their area.",
+      "identification_phrases": [
+        "There's a hurricane coming, I can't go out right now.",
+        "We're under a tornado warning, it's not safe to drive.",
+        "An earthquake just happened here, everything's a mess.",
+        "The roads are shut down from flooding.",
+        "It's chaos here because of the typhoon."
+      ],
+      "strategy_overview": [
+        "1) Prioritize empathy and reinforce that safety comes first—dashing is never worth risking personal well-being.",
+        "2) Avoid suggesting they dash at all until the situation is fully safe and cleared by local authorities.",
+        "3) Offer support by encouraging them to focus on staying safe and checking in with local emergency alerts.",
+        "4) Let them know there will always be future opportunities to dash once conditions return to normal."
+      ],
+      "social_proof_rapport": [
+        "Safety always comes first.",
+        "I've seen other Dashers take a break during natural disasters and come back strong once things settled down.",
+        "No delivery is worth putting yourself in danger. It's good you're thinking about safety first."
+      ],
+      "pain_mapping": [
+        "Are you and your family safe right now?",
+        "Have local authorities issued any shelter-in-place or evacuation notices?",
+        "Do you have what you need to stay safe through the storm or aftermath?"
+      ],
+      "motivation_urgency": [
+        "Right now, your safety is the most important thing. Dashing can wait until everything is safe and stable.",
+        "Once conditions improve, demand often spikes from people who are just getting back on their feet, and that's a good time to earn.",
+        "When you're ready and the roads are safe again, I'll be here to help you get back on track.",
+        "There will be plenty of chances to dash after this passes—right now, just focus on staying safe."
+      ]
+    },     
+    {
+      "id": "OBJ-JM-001",
+      "type": "dasher_scenario",
+      "title": "Just Moved / Moving",
+      "summary": "Applicant recently moved or is in the process of moving and feels unsettled about dashing.",
+      "identification_phrases": [
+        "I just moved to the area, still getting settled.",
+        "I'm moving soon and don't want to start until then",
+        "I'm not familiar with the restaurants around here yet.",
+        "I'll start after I'm fully settled"
+      ],
+      "strategy_overview": [
+        "1) Congratulate them on their move and acknowledge the stress and expense of relocating.",
+        "2) Emphasize how dashing can help them learn the new area and earn money simultaneously.",
+        "3) Encourage them to begin with short dashes to get used to local routes and restaurants."
+      ],
+      "social_proof_rapport": [
+        "I know a lot of dashers who used DD to cover moving costs.",
+        "DD is a perfect opportunity to make extra money and learn the area.",
+        "Many dashers find it helpful to explore new neighborhoods while earning."
+      ],
+      "pain_mapping": [
+        "When are you moving?",
+        "Where are you moving to?",
+        "Are you familiar with your new area?",
+        "Are you going to be working in the new area?"
+      ],
+      "motivation_urgency": [
+        "A few dashes can quickly offset moving expenses.",
+        "Starting now helps you learn your surroundings faster and put extra cash in your pocket."
+      ]
+    },
+    {
+      "id": "OBJ-MI-001",
+      "type": "dasher_scenario",
+      "title": "Military Schedule / Military Duties",
+      "summary": "Applicant is in the military and worried about their strict schedule and obligations.",
+      "identification_phrases": [
+        "I'm in the military.",
+        "My schedule is determined by my service commitments.",
+        "I'm deployed often and not sure if I can dash.",
+        "I have to work around base duties."
+      ],
+      "strategy_overview": [
+        "1) Thank them for their service and acknowledge their unique scheduling challenges.",
+        "2) Highlight DD's flexibility and how it can adapt to irregular schedules.",
+        "3) Suggest dashing during off-duty or weekend hours to test out earnings potential."
+      ],
+      "social_proof_rapport": [
+        "Thank you for your service! My brother is in the military too and he just signed up for DD.",
+        "I know that my friend in the service usually works only during weekdays, so she dashes weekends.",
+        "Many service members dash to earn extra while they're off duty."
+      ],
+      "pain_mapping": [
+        "What brought you to DD?",
+        "I know being in the service your schedule can be strict. What does it typically look like?",
+        "How do you see DoorDash fitting with your military responsibilities?"
+      ],
+      "motivation_urgency": [
+        "By starting now, you can test how easily DD slots into your off-duty hours.",
+        "Even a few sessions on weekends can add up fast, giving you extra funds for your goals."
+      ]
+    },
+    {
+      "id": "OBJ-NV-001",
+      "type": "dasher_scenario",
+      "title": "Nervous / Doesn't Know How to Use the App",
+      "summary": "Applicant feels anxious or confused about using the DoorDash app.",
+      "identification_phrases": [
+        "I'm nervous, don't understand how to use the app.",
+        "I'm not tech-savvy.",
+        "I worry I'll mess up orders on the app.",
+        "I'm unsure about where to tap or how to accept deliveries."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge their nerves and reassure them that the app is straightforward.",
+        "2) Offer a quick walkthrough or suggest resources to learn the interface.",
+        "3) Encourage them to do a practice dash or two for hands-on familiarity."
+      ],
+      "social_proof_rapport": [
+        "No worries! I'm here to help you get up and running with the app.",
+        "I understand it can be nerve-wracking, especially getting into something new.",
+        "A lot of new dashers feet the same until they try out a few deliveries and realize the app guides them step by step!"
+      ],
+      "pain_mapping": [
+        "What made you want to sign up for DoorDash?",
+        "Do you mind opening the app right now?",
+        "What has you nervous/confused about dashing?",
+        "What questions do you have about DoorDash?",
+        "What concerns do you have about DoorDash?",
+        "Have you tried a quick test run, even if you don't complete an order, just to explore?"
+      ],
+      "motivation_urgency": [
+        "I'd love to help you get out there this week to give it a try and see how intuitive it is!",
+        "It should be really busy during the lunch and dinner rush, do you have some time today or tomorrow to try it out and shake off the nerves?"
+      ]
+    },
+    {
+      "id": "OBJ-OT-001",
+      "type": "dasher_scenario",
+      "title": "Out of Town / Vacation",
+      "summary": "Applicant is away from their home city or on vacation and thinks they can't dash right now.",
+      "identification_phrases": [
+        "I'm currently out of town right now/on vacation.",
+        "I'm traveling and won't be back soon.",
+        "I'm not at home to start deliveries.",
+        "I need to wait until my vacation ends."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge they are traveling and show them dashing is possible in multiple locations (as long as they are not traveling internationally).",
+        "2) Emphasize the flexibility of earning on the go if they wish, or simply waiting until they return.",
+        "3) Encourage them to explore dashing in new cities if it's convenient and allowed."
+      ],
+      "social_proof_rapport": [
+        "That's awesome! Many dashers dash while out of town for spending money.",
+        "Travel can be expensive, luckily with DD you can dash anywhere!",
+        "I know dashers who dash in multiple states whenever they visit family."
+      ],
+      "pain_mapping": [
+        "Are you out of town for work?",
+        "What originally made you sign up for DD?",
+        "When do you get back into town?",
+        "Are you able to dash while out of town? "
+      ],
+      "motivation_urgency": [
+        "I'd love to help you get out there when you're back to give it a try and see how intuitive it is to start earning!",
+        "It should be really busy during the lunch and dinner rush, do you think you have some time when you're back to try it out?"
+      ]
+    },
+    {
+      "id": "OBJ-PD-001",
+      "type": "dasher_scenario",
+      "title": "Pay Down Debt",
+      "summary": "Applicant wants to reduce debts or pay off bills or loans with DoorDash earnings.",
+      "identification_phrases": [
+        "I have things to pay off or credit card debt.",
+        "Bad spending habits are catching up to me.",
+        "I'm hoping to clear some overdue bills.",
+        "I need extra cash to pay down loans."
+      ],
+      "strategy_overview": [
+        "1) Recognize that extra income can be a strong motivator for paying off debts.",
+        "2) Suggest setting specific financial goals and using DD earnings to meet them.",
+        "3) Encourage consistent dashing to chip away at debts steadily."
+      ],
+      "social_proof_rapport": [
+        "I actually have some debt myself, and DD helped me bring in extra income to cover it.",
+        "I know some dashers who use the money they make with DD to tackle debt while saving primary earnings for bills.",
+        "I talk to a lot of people who dash part-time to pay down high-interest debt."
+      ],
+      "pain_mapping": [
+        "How quickly do you need to pay your debt/bills?",
+        "How much time were you planning on using DD?",
+        "How much are you trying to earn with DoorDash?"
+      ],
+      "motivation_urgency": [
+        "The faster you start, the sooner you can shrink those balances! Why not give it a try today?",
+        "Dashing even a few extra hours a week could speed up your debt payoff time significantly!"
+      ]
+    },
+    {
+      "id": "OBJ-PG-001",
+      "type": "dasher_scenario",
+      "title": "Pregnant / Wife is Pregnant",
+      "summary": "Applicant or their partner is pregnant, and they have concerns about timing and physical demands.",
+      "identification_phrases": [
+        "I'm pregnant, close to the end of my pregnancy.",
+        "My wife is pregnant.",
+        "I can't work regular jobs because I'm expecting."
+      ],
+      "strategy_overview": [
+        "1) Congratulate them and empathize with the financial stress of pregnancy.",
+        "2) Emphasize DD's flexibility: they can dash when feeling comfortable.",
+        "3) Suggest short or lower-volume shifts that match their physical capacity."
+      ],
+      "social_proof_rapport": [
+        "I know many dashers who are pregnant and use DD for easy money since they aren't working full-time.",
+        "Congratulations, that's exciting! DD gives you the flexibility you need with your current situation.",
+        "My sister had unpaid maternity leave and used DD to offset expenses."
+      ],
+      "pain_mapping": [
+        " What originally brought you to DD?",
+        "Are you currently on paid parental leave?"
+      ],
+      "motivation_urgency": [
+        "Starting now means you can build up savings before the baby arrives",
+        "Even a few short dashes per week can help cover new baby expenses!"
+      ]
+    },
+    {
+      "id": "OBJ-SG-001",
+      "type": "dasher_scenario",
+      "title": "Scheduling",
+      "summary": "Applicant is hesitant about or confused by the scheduling feature, or finds nothing on the schedule.",
+      "identification_phrases": [
+        "I don't want to schedule, or nothing on the schedule.",
+        "I don't see any open slots.",
+        "I only want to dash spontaneously.",
+        "I'm not sure how scheduling benefits me."
+      ],
+      "strategy_overview": [
+        "1) Explain how scheduling guarantees a slot in busy times.",
+        "2) Emphasize that scheduling is optional, but it helps in areas with high demand.",
+        "3) Encourage them to try scheduling for peak hours first, then dash spontaneously otherwise."
+      ],
+      "social_proof_rapport": [
+        "The schedule saves you a spot in case it gets busy, with no commitment.",
+        "Scheduling during peak hours helps you see the Dash Now button when it's busy.",
+        "Lots of dashers schedule ahead for lunch or dinner rush and earn more."
+      ],
+      "pain_mapping": [
+        "What do you do currently for work?",
+        "How were you originally planning to add DD into your schedule?",
+        "How often were you hoping to dash?",
+        "Have you tried checking the schedule during peak lunch or dinner times?"
+      ],
+      "motivation_urgency": [
+        "When you book prime slots early, you can secure higher-earning times.",
+        "Starting soon lets you experiment with different schedules to find your best earning window!"
+      ]
+    },
+    {
+      "id": "OBJ-SG-002",
+      "type": "dasher_scenario",
+      "title": "Already Dashed/Dashing",
+      "summary": "Applicant is currently dashing or has already dashed.",
+      "identification_phrases": [
+        "I am already dashing.",
+        "I'm dashing right now.",
+        "I dashed this morning.",
+        "I did it already."
+      ],
+      "strategy_overview": [
+        "1) Congratulate them on their choice to dash and encourage them to continue dashing.",
+        "2) Ask if they need any tips.",
+        "3) Let them know you are here to support them should they need any assistance."
+      ],
+      "social_proof_rapport": [
+        "That's awesome! Congratulations on getting out there!",
+        "I'm really excited for you to keep earning with DoorDash!",
+        "Great to hear! Dashing can be rewarding both personally and financially."
+      ],
+      "pain_mapping": [
+        "How do you see the income from DoorDash helping out?"
+      ],
+      "motivation_urgency": [
+        "Great work so far! You're crushing it. Keep working those busy lunch and dinner rushes and working towards those goals!"
+      ]
+    },
+    {
+      "id": "OBJ-SG-003",
+      "type": "dasher_scenario",
+      "title": "Starting/Wants to Dash",
+      "summary": "Applicant wishes to start or applicant indicates that nothing is holding them back from starting.",
+      "identification_phrases": [
+        "I am ready to start.",
+        "I want to start now.",
+        "I will start today.",
+        "Nothing is holding me back"
+      ],
+      "strategy_overview": [
+        "1) Congratulate the user for their decision to get started and motivate them to start today.",
+        "2) Encourage them to 'Dash Now' if it is available in their area. Otherwise encourage them to try scheduling for peak hours.",
+        "3) Ask if they need any tips and let them know you are here to support them should they need any assistance."
+      ],
+      "social_proof_rapport": [
+        "That's awesome! Many Dashers in your shoes took the plunge and never looked back!",
+        "I'm really excited for you to start earning with DoorDash!",
+        "Great to hear! Dashing can be rewarding both personally and financially."
+      ],
+      "pain_mapping": [
+        "How do you see the income from DoorDash helping out?"
+      ],
+      "motivation_urgency": [
+        "Sounds great! Remember, working those busy lunch and dinner rushes will get you more orders and higher earnings!",
+        "Awesome! Now would be great time to get out there and get started!",
+        "A few hours of dashing each week can really add up and lead to some big earnings. Do you have 15 minutes to get started right now?"
+      ]
+    },
+    {
+      "id": "OBJ-SG-004",
+      "type": "dasher_scenario",
+      "title": "Asking about Promotions",
+      "summary": "Applicant indicates that they want an incentive to get started or is asking about any existing promotions or incentives.",
+      "identification_phrases": [
+        "Can you add the referral to my account?",
+        "I'm not seeing the promotion added to my account.",
+        "Is there a bonus or incentive for signing up?",
+        "Any promos if I start today?"
+      ],
+      "strategy_overview": [
+        "1) Gently let the user know that we are not able to add any referral bonuses, promotions, or incentives after they sign up.",
+        "2) Encourage them to start dashing now with minimal commitment—just try it and see the earnings firsthand.",
+        "3) Remind them that driving during peak times (lunch/dinner) can lead to higher pay, and that's often the best incentive!"
+      ],
+      "social_proof_rapport": [
+        "Honestly, most Dashers start without promos and are surprised at how much they earn right away.",
+        "Even without a promo, lunch and dinner rushes can be super rewarding.",
+        "Most new Dashers start without a bonus and hit their financial goals quickly just by working peak times!"
+      ],
+      "pain_mapping": [
+        "Are you mainly looking to earn extra cash quickly?",
+        "What kind of goal would you need to hit to feel like it's worth it for you to try?",
+        "Have you heard about Peak Pay or Challenges in your area?"
+      ],
+      "motivation_urgency": [
+        "Even without a bonus, dashing during peak hours today could put solid money in your pocket.",
+        "There's no better way to test it than giving it a try—it could pay off big right away.",
+        "If you start today, you might catch the evening rush and see how fast it adds up!"
+      ]
+    },
+    {
+      "id": "OBJ-SG-005",
+      "type": "dasher_scenario",
+      "title": "Accuses of Being a Scam or Scammer",
+      "summary": "Applicant accuses the interaction or the onboarding process of being a scam or questions its legitimacy.",
+      "identification_phrases": [
+        "This sounds like a scam.",
+        "Are you even with DoorDash?",
+        "This feels sketchy.",
+        "I'm not giving you my info—it's probably fake.",
+        "You sound like a scammer"
+      ],
+      "strategy_overview": [
+        "1) Reassure the user that you are working directly with DoorDash to help walk them through getting started and answer any questions they have.",
+        "2) Let them know you're not asking for anything private or sensitive—just helping them understand how to get started.",
+        "3) Encourage them to take 15 minutes today to try out dashing and see how it goes firsthand."
+      ],
+      "social_proof_rapport": [
+        "Totally understand the hesitation—there's a lot of spam out there. I'm here on behalf of DoorDash to help you walk through the steps and answer any questions.",
+        "It's smart to be cautious! I work with DoorDash and my whole job is just to help people like you get set up and feel confident before starting.",
+        "Lots of Dashers have had the same concern at first—then they got on the road and saw it's legit and pays well.",
+        "For your peace of mind, I will never ask for any personal information over the phone or by text, I'm simply here to answer any questions you might have about dashing and help you with your goals!"
+      ],
+      "pain_mapping": [
+        "What motivated you to sign up with DoorDash?",
+        "Have you tried taking any Dashes yet or are you still exploring the app?",
+        "Would it help if I walk you through exactly what to expect in the app?"
+      ],
+      "motivation_urgency": [
+        "You don't need to commit to anything long-term, try out earning with DD today and you can see for yourself how well it works!",
+        "Taking 30 minutes today could turn into a steady side income if it ends up working for you.",
+        "Nothing beats trying it out yourself—give it a spin and see how much you can earn during peak times like the lunch and dinner rush!"
+      ]
+    },
+    {
+      "id": "OBJ-DL-001",
+      "type": "dasher_scenario",
+      "title": "No Driver's License",
+      "summary": "Applicant is frustrated that they can't dash without a license, even though they have a car and insurance.",
+      "identification_phrases": [
+        "Y'all won't let me DoorDash without a license.",
+        "I have a car and insurance—why do I need a license?",
+        "I don't have a license right now but I'm still able to drive.",
+        "I'm trying to sign up but it says I need a valid license."
+      ],
+      "strategy_overview": [
+        "1) Gently affirm that a valid driver's license is required to get started.",
+        "2) Ask if they're just waiting on a replacement or if it's a different situation, to see how to best support or advise.",
+        "3) If it's not a temporary issue, let them know they may not qualify at this time but can return once they do.",
+        "4) Confirm with the dasher if they’re in a biking market, and if so, encourage them to dash via biking if possible to get a head start on earning."
+      ],
+      "social_proof_rapport": [
+        "Totally hear you—if you've got the car and insurance, it's frustrating to feel like you're ready but stuck.",
+        "A lot of folks hit this snag while waiting for a renewed or updated license—it's a common pause but usually temporary.",
+        "Good on you for getting everything else lined up! That license is just the final piece to unlock the platform.",
+        "If you’re in a market where biking is available, you could rent a bike to get a head start on making money!"
+      ],
+      "pain_mapping": [
+        "Are you currently waiting on a replacement license to arrive?",
+        "Was your license recently expired or revoked?",
+        "Is this a learner's or provisional license, or are you in between renewals?"
+      ],
+      "motivation_urgency": [
+        "If you're just waiting on a new license to arrive, you'll be ready to go as soon as it's in your hands!",
+        "Once that license is valid, you'll be all set to jump in and start earning—just a quick final step.",
+        "This is one of the last checks—once you're cleared, you could be dashing in under 15 minutes!"
+      ]
+    },
+    {
+      "id": "OBJ-SC-001",
+      "type": "dasher_scenario",
+      "title": "Sick / COVID",
+      "summary": "Applicant or someone in their household is ill, making them hesitant to dash.",
+      "identification_phrases": [
+        "I / someone in the house is sick or has COVID.",
+        "I'm worried about risking my health.",
+        "I'm sick",
+        "I'm not sure if it's safe for me to deliver food right now."
+      ],
+      "strategy_overview": [
+        "1) Express concern and empathy for their health situation.",
+        "2) Reassure them about no-contact deliveries and DoorDash's safety measures.",
+        "3) Encourage them to dash only when cleared / safe or to use protective measures if partially able."
+      ],
+      "social_proof_rapport": [
+        "Oh I'm so sorry to hear that! How are you feeling?",
+        "Most deliveries can be no-contact, meaning you just drop off at the doorstep.",
+        "Many dashers prefer no-contact to protect both themselves and customers."
+      ],
+      "pain_mapping": [
+        "What originally brought you to DD?",
+        "How long have you/they been sick?",
+        "How long have you been quarantining?",
+        "Did you have a day in mind you were hoping to get started?",
+        "What safety concerns do you have about dashing?"
+      ],
+      "motivation_urgency": [
+        "Once you're cleared or feeling better, you can jump in and start earning right away!"
+      ]
+    },
+    {
+      "id": "OBJ-SE-001",
+      "type": "dasher_scenario",
+      "title": "Signed Up Early",
+      "summary": "Applicant signed up before they were ready, planning to start dashing at a later date.",
+      "identification_phrases": [
+        "I signed up early, plan on starting later.",
+        "I'm not ready to dash yet.",
+        "I wanted to get onboarded but don't want to actually deliver yet.",
+        "I just wanted to see the sign-up process first."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge their forward planning and appreciate their proactiveness.",
+        "2) Inform them of the advantages of getting started sooner rather than later.",
+        "3) Encourage trying it out to become familiar with the process to see how much they can earn."
+      ],
+      "social_proof_rapport": [
+        "Many dashers find they earn the most during the lunch and dinner rushes.",
+        "That's great to hear! I personally love dashing on the weekends during the lunch rush and making enough money to go out that night."
+      ],
+      "pain_mapping": [
+        "What was your reason for signing up?",
+        "What originally brought you to DoorDash?",
+        "What does your schedule look like nowadays?",
+        "What was your ideal timeline to get started with DoorDash?",
+        "Are there any specific reasons you're waiting?"
+      ],
+      "motivation_urgency": [
+        "DoorDash is ready when you are, but your area has been busy recently, you should get out there! Do you want to go give it a try today?",
+        "Starting today can help earn toward those expenses!",
+        "Can't wait for you to get started earning with DoorDash!"
+      ]
+    },
+    {
+      "id": "OBJ-SM-001",
+      "type": "dasher_scenario",
+      "title": "Single Mother / Father",
+      "summary": "Applicant is a single parent balancing childcare responsibilities and seeking flexible income.",
+      "identification_phrases": [
+        "I am a single mother / father.",
+        "I have no one to watch my kids if I dash.",
+        "It's tough to juggle parenting alone.",
+        "I need income that fits around my kids' schedule since I don't have help."
+      ],
+      "strategy_overview": [
+        "1) Empathize with the challenge of single parenting and highlight flexible hours.",
+        "2) Suggest dashing during times when childcare is covered or kids are in school.",
+        "3) Encourage small, consistent shifts that can fit around family obligations."
+      ],
+      "social_proof_rapport": [
+        "I speak to a lot of dashers who are single moms/dads, and they find DD gives them the flexibility they need.",
+        "Understandable—raising children is like a full-time job in itself!",
+        "Some parents dash early mornings or late evenings, whichever suits their kids' schedule."
+      ],
+      "pain_mapping": [
+        "How many kids do you have?",
+        "What else are you doing for income right now?",
+        "Is there a specific time of day your kids are at school or with a sitter?"
+      ],
+      "motivation_urgency": [
+        "You can work in short bursts and still see a meaningful financial boost.",
+        "Starting soon can help earn toward those expenses that always seem to pop up with kids!"
+      ]
+    },
+    {
+      "id": "OBJ-SH-001",
+      "type": "dasher_scenario",
+      "title": "Stay-at-home Parent",
+      "summary": "Applicant is a stay-at-home mom or dad seeking a way to earn money without rigid hours.",
+      "identification_phrases": [
+        "I am a stay-at-home mom/dad.",
+        "I care for my kids full-time.",
+        "I'm looking for a way to earn since I take care of my kids full time"
+      ],
+      "strategy_overview": [
+        "1) Reinforce that DoorDash's flexibility is ideal for balancing parenting duties.",
+        "2) Suggest using brief windows of free time—where children are with other guardians—to dash.",
+        "3) Encourage them to try delivering in short increments to see what works best."
+      ],
+      "social_proof_rapport": [
+        "I know working around your kids' schedule can be tough. Thankfully, DD is extremely flexible.",
+        "Many stay-at-home parents dash while kids are at preschool or extracurriculars.",
+        "You can pause or stop anytime if you need to tend to your children."
+      ],
+      "pain_mapping": [
+        "How many kids do you have?",
+        "How are you looking to fit DD into your schedule?",
+        "Would you be comfortable bringing your kids along?",
+        "What does a typical day look like for you with the kids?",
+        "What made you decide to add DD into your schedule?"
+      ],
+      "motivation_urgency": [
+        "Dashing even a few hours a week can provide extra support for household expenses.",
+        "Starting sooner lets you experiment with small shifts and see if it suits your routine."
+      ]
+    },
+    {
+      "id": "OBJ-ST-001",
+      "type": "dasher_scenario",
+      "title": "Student",
+      "summary": "Applicant is a full-time or part-time student balancing classes and interested in dashing for the flexible income.",
+      "identification_phrases": [
+        "I am a full time student.",
+        "I'm a part time student.",
+        "My classes keep me busy.",
+        "I need extra money for tuition/books.",
+        "I'm not sure if I can dash between classes."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge student demands and how DoorDash can fit around class schedules.",
+        "2) Suggest dashing during breaks, weekends, or free evenings.",
+        "3) Highlight that many students dash to offset education-related costs."
+      ],
+      "social_proof_rapport": [
+        "I talk to a lot of dashers who go to school! The flexibility allows them to focus on classes while making extra money for expenses and trips.",
+        "DD can accommodate your class schedule with its flexibility.",
+        "Many students dash after classes or on weekends to avoid interfering with school and earn to support themselves."
+      ],
+      "pain_mapping": [
+        "What's your class schedule typically like?",
+        "Where did you see DoorDash fitting into your schedule?",
+        "What are you doing for income right now?",
+        "Are you going to school in person or online?",
+        "How are you covering your expenses currently?"
+      ],
+      "motivation_urgency": [
+        "A few hours of dashing each week can really ease financial stress during the semester.",
+        "Starting now helps you build a savings buffer while continuing your studies."
+      ]
+    },
+    {
+      "id": "OBJ-TX-001",
+      "type": "dasher_scenario",
+      "title": "Taxes",
+      "summary": "Applicant is worried about the tax implications of DoorDash earnings.",
+      "identification_phrases": [
+        "I am concerned about taxes.",
+        "I don't want a complicated tax situation.",
+        "How will this affect my tax returns? ",
+        "I'm scared of owing money at year-end.",
+        "I'm worried about complex tax paperwork.",
+        "I don't want to deal with tricky tax forms.",
+        "I'm concerned I won't understand the tax rules for dashing.",
+        "I prefer to avoid any tax complications."
+      ],
+      "strategy_overview": [
+        "1) Acknowledge that taxes can be confusing for independent contractors.",
+        "2) Direct them to DoorDash's online resources about taxes. Send them this link in plain text: https://help.doordash.com/dashers/s/article/Common-Dasher-Tax-Questions?language=en_US",
+        "3) Suggest they keep track of mileage and expenses to maximize deductions."
+      ],
+      "social_proof_rapport": [
+        "Completely understand, taxes can be complicated. I'm not a tax expert, but DoorDash's website offers detailed info on what you need to know! Here's the link: https://help.doordash.com/dashers/s/article/Common-Dasher-Tax-Questions?language=en_US"
+      ],
+      "pain_mapping": [
+        "What made you sign up for DD in the first place?",
+        "Was DD going to be a full-time or part-time income?"
+      ],
+      "motivation_urgency": [
+        "Many dashers find it easier than they expect once they get going!"
+      ]
+    },
+    {
+      "id": "OBJ-UE-001",
+      "type": "dasher_scenario",
+      "title": "Unemployed",
+      "summary": "Applicant is out of work, job hunting, or looking to cover bills until they find stable employment.",
+      "identification_phrases": [
+        "I am not working/ looking for work.",
+        "I lost my job recently.",
+        "I need something to pay bills while I job hunt.",
+        "I don't have any income right now."
+      ],
+      "strategy_overview": [
+        "1) Recognize the urgency of needing income while unemployed.",
+        "2) Emphasize that dashing can offer immediate, flexible earnings.",
+        "3) Suggest balancing job searching with short dash sessions to cover basic expenses."
+      ],
+      "social_proof_rapport": [
+        "My uncle was out of work and used DD to help with bills until he found a new job.",
+        "I know the job market can be tough; DoorDash is a solid interim option.",
+        "Many job seekers dash around interviews to keep money flowing."
+      ],
+      "pain_mapping": [
+        "How long have you been out of work?",
+        "What was your previous job?",
+        "How is the job hunt going these days?",
+        "What are you currently doing for income right now?",
+        "Do you have any immediate bills or expenses you need help covering?"
+      ],
+      "motivation_urgency": [
+        "Getting started now means quick access to funds, even if it's short-term.",
+        "Every delivery you make can bridge the gap until you land your next job!"
+      ]
+    },
+    {
+      "id": "OBJ-WR-001",
+      "type": "dasher_scenario",
+      "title": "Waiting for the Right Time / Waiting for the ideal Moment",
+      "summary": "Applicant wants to start dashing eventually but is waiting for a 'perfect' or 'ideal' moment.",
+      "identification_phrases": [
+        "I am waiting for the right time to start.",
+        "I'm just not sure it's the right moment now.",
+        "I want everything to be perfect before I begin.",
+        "I signed up but I'm not sure it makes sense to start yet."
+      ],
+      "strategy_overview": [
+        "1) Validate that they want the best timing, but clarify that perfect conditions rarely exist.",
+        "2) Encourage them to start with minimal commitment to see how it feels.",
+        "3) Highlight the benefits of getting a head start and adapting as they go."
+      ],
+      "social_proof_rapport": [
+        "You signed up at the perfect time! Many dashers say it's busy right now.",
+        "No worries! Some dashers wait a bit, but most find it's easier to just jump in and learn.",
+        "It's common to feel uncertain—starting small can help you get comfortable."
+      ],
+      "pain_mapping": [
+        "What made you sign up for DD in the first place?",
+        "What does the ideal time look like for you?",
+        "Are we waiting for a specific time in particular?",
+        "Were we saving up for something special?",
+        "Where did you see DoorDash fitting into your schedule originally?"
+      ],
+      "motivation_urgency": [
+        "Beginning now lets you capitalize on current busy periods and gain experience!",
+        "You can always dial back if life gets hectic, but at least you'll have started earning!"
+      ]
+    },
+    {
+      "id": "OBJ-WK-001",
+      "type": "dasher_scenario",
+      "title": "Waiting on the Welcome Kit",
+      "summary": "Applicant thinks they must wait for the red card/hot bag/pizza bag/delivery bag before they can start delivering.",
+      "identification_phrases": [
+        "I'm waiting for the hot bag and red card.",
+        "I can't dash until my welcome kit arrives.",
+        "I'm stuck until DoorDash mails me everything.",
+        "I'll start once I have my official kit",
+        "How I can get pizza bag for free?"
+      ],
+      "strategy_overview": [
+        "1) Reassure them that the welcome kit is not mandatory to begin dashing.",
+        "2) Show them how the red card and bag can be helpful but are not strict prerequisites.",
+        "3) Encourage them to start right away for orders that don't require red card payment."
+      ],
+      "social_proof_rapport": [
+        "You actually don't need the hot bag/red card to start; you're 100% ready to go!",
+        "It's typically mailed out after you begin dashing, so no need to delay."
+      ],
+      "pain_mapping": [
+        "Just out of curiosity, what made you sign up in the first place?",
+        "Seems like you're eager to get started—what brought you to DD?",
+        "What are you hoping to use the money for?",
+        "Have you tried logging on to see if you can accept any orders yet?"
+      ],
+      "motivation_urgency": [
+        "If you start now, you'll already be familiar with the app by the time your kit arrives.",
+        "You don't want to miss out on potential earnings while waiting for the mail!"
+      ]
+    },
+    {
+      "id": "OBJ-WL-001",
+      "type": "dasher_scenario",
+      "title": "Waitlisted",
+      "summary": "Applicant logged into the app and discovered they're on a waitlist due to market capacity.",
+      "identification_phrases": [
+        "I logged into the app and it said I'm on a waitlist.",
+        "The app won't let me proceed and says I'm waitlisted",
+        "I can't get approved because there's no room.",
+        "I'm stuck until more spots open up."
+      ],
+      "strategy_overview": [
+        "1) Explain that high demand in their area can temporarily cause waitlisting.",
+        "2) Suggest checking back frequently, as slots often open up on specific days.",
+        "3) Encourage them to complete any pending steps so they're ready to dash once waitlist clears."
+      ],
+      "social_proof_rapport": [
+        "Good news is it's been super busy in your area; that's why so many people want to dash!",
+        "DD wants to ensure all dashers can succeed, so they limit new sign-ups temporarily."
+      ],
+      "pain_mapping": [
+        "What made you sign up in the first place?",
+        "How were you looking to fit DD into your schedule originally?",
+        "What are you hoping to use the money for?"
+      ],
+      "motivation_urgency": [
+        "Check back often as being ready to dash the moment you're off the waitlist ensures you can maximize earnings!"
+      ]
+    },
+    {
+      "id": "OBJ-WO-001",
+      "type": "dasher_scenario",
+      "title": "Already Working / Has full time job / Existing employment",
+      "summary": "Applicant already has a full-time or part-time job (or multiple jobs) and is unsure how DoorDash fits.",
+      "identification_phrases": [
+        "I have a full time / part time job",
+        "I'm working 2 jobs.",
+        "I can't dash because I already have a job.",
+        "I might be too tired after my main job.",
+        "Not sure if I can do both my current job and dash.."
+      ],
+      "strategy_overview": [
+        "1) Empathize with the challenge of juggling multiple jobs.",
+        "2) Highlight the flexible nature of DD—no set hours, purely on their terms.",
+        "3) Suggest dashing on off-days or short windows between shifts to gauge feasibility."
+      ],
+      "social_proof_rapport": [
+        "Same here! I use DD on the way home and on my days off to help pay credit card debt.",
+        "DD gives you the flexibility to work around your schedule.",
+        "Many dashers with FT jobs do short bursts on weekends for extra cash."
+      ],
+      "pain_mapping": [
+        "What does your schedule typically look like?",
+        "How were you originally looking to fit this into your schedule?",
+        "What do you do for work?",
+        "What made you decide to add DD into your schedule?",
+        "How do you like your current job?"
+      ],
+      "motivation_urgency": [
+        "Even a couple of hours a week can add up significantly over the month. Do you think you could try it out today or tomorrow to see if it could be a new way to earn?",
+        "If you start now, you'll quickly see how it can fit into your existing routine!"
+      ]
+    },
+    {
+      "id": "OBJ-SFT-001",
+      "type": "dasher_scenario",
+      "title": "Worried About Safety",
+      "summary": "The Dasher is hesitant to begin or continue dashing due to safety concerns, such as neighborhood worries, dashing alone, delivery area anxiety, or general nervousness.",
+      "identification_phrases": [
+        "Is it safe to dash in my area?",
+        "I'm nervous about going out alone.",
+        "I'm not sure it's safe to deliver around here.",
+        "Are there any safety issues I should know about?",
+        "I'm scared to dash after dark.",
+        "I'm worried something might happen while I'm out."
+      ],
+      "strategy_overview": [
+        "1) Empathize with the Dasher and acknowledge that safety concerns are valid and completely understandable.",
+        "2) Ask the Dasher to describe what specifically makes them feel unsafe—time of day, location, past experiences, etc.",
+        "3) Share that many Dashers feel this way when starting out, but find confidence grows with experience.",
+        "4) Reassure them that they can choose the times and places where they feel most secure, and still earn effectively.",
+        "5) Encourage them to try dashing during the day, in familiar neighborhoods, or with a friend if needed to start off."
+      ],
+      "social_proof_rapport": [
+        "I also get nervous in new roles, especially when starting something new like dashing.",
+        "Many Dashers have shared similar concerns but found that after a few trips, they felt way more confident.",
+        "One Dasher told me she started with daytime deliveries in her own neighborhood—now she dashes full time comfortably.",
+        "You're not alone—this is a common feeling, and it usually fades after a few successful experiences."
+      ],
+      "pain_mapping": [
+        "What specifically are you concerned about from a safety perspective?",
+        "Have you tried dashing during the daytime in a neighborhood you know?",
+        "Are there specific zones or times you'd feel more comfortable trying out first?",
+        "What are your goals in dashing, and how do you think fear is holding you back?",
+        "Would it help if we picked a shift time together when it's typically more active and well-lit?"
+      ],
+      "motivation_urgency": [
+        "You've got this—just give it one shot in a time and area you're comfortable with!",
+        "Your area is busy right now—don't miss out on orders and give it another try.",
+        "Once you push through the first dash or two, it gets way easier and way more rewarding.",
+        "Every extra dollar earned gets you one step closer to your financial goals—don't let fear slow you down.",
+        "Confidence grows with action. If you go out once and complete a delivery safely, you'll feel 10x more ready next time."
+      ]
+    },    
+    {
+      "id": "TSI-2S-001",
+      "type": "tech_support_scenario",
+      "title": "2-Step Verification",
+      "summary": "Dasher is having issues receiving the 2-step verification code (wrong email/phone).",
+      "identification_phrases": [
+        "Having issues with 2-step verification code.",
+        "It's sending the code to my old number.",
+        "I never get the text or email.",
+        "I can't log in because the code won't come through."
+      ],
+      "strategy_overview": "1. Recommend general troubleshooting steps\n2. Determine if issue is still occurring + try to identify a specific root cause in detailed_troubleshooting based on the Dasher feedback\n3. Recommend next troubleshooting steps for specific root cause determined\n4. When Dasher has resolved the issue pivot to motivate them to commit to when they are planning on starting",
+      "potential_root_causes": [
+        "Code is sending to an old phone number",
+        "Trying to log in with an incorrect or old email",
+        "Connection issues or attempting to use app on WiFi"
+      ],
+      "general_troubleshooting": "1. Have Dasher clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Confirm the email that they are trying to login with is the one we have on file\n3. If you are unable to resolve escalate_to_support pathway in the workflow"
+    },
+    {
+      "id": "TSI-AC-001",
+      "type": "tech_support_scenario",
+      "title": "App Crashes",
+      "summary": "Dasher experiences app crashes during or before deliveries, possibly due to connectivity or device issues.",
+      "identification_phrases": [
+        "The app crashes during a delivery.",
+        "It crashes every time I open it.",
+        "My phone freezes when using DoorDash.",
+        "I can't complete orders because the app keeps shutting down."
+      ],
+      "strategy_overview": "1. Recommend general troubleshooting steps\n2. Determine if issue is still occurring + try to identify a specific root cause in detailed_troubleshooting based on the Dasher feedback\n3. Recommend next troubleshooting steps for specific root cause determined\n4. When Dasher has resolved the issue pivot to motivate them to commit to when they are planning on starting",
+      "potential_root_causes": [
+        "Possible cellular data connection issues",
+        "Attempting to Dash or use the app while on WiFi is not recommended",
+        "Has WiFi and Cellular data on at the same time",
+        "Cache needs to be cleared",
+        "Too many apps running on phone"
+      ],
+      "general_troubleshooting": "1. Have Dasher clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher hard close all unused apps\n3. Have Dasher disconnect from WiFi > hard close Dasher app > Reopen app using cellular data"
+    },
+    {
+      "id": "TSI-CP-001",
+      "type": "tech_support_scenario",
+      "title": "Apple CarPlay Compatibility",
+      "summary": "Dasher believes DoorDash does not support Apple CarPlay and expresses frustration or concern about road safety.",
+      "identification_phrases": [
+        "No Apple CarPlay app.",
+        "Why doesn't DoorDash support CarPlay like Uber Eats?",
+        "It's 2025 and there's still no CarPlay app?",
+        "I don't want to look down at my phone while driving.",
+        "CarPlay should be a priority—this is a safety issue."
+      ],
+      "strategy_overview": "1. Let Dasher know that DoorDash *does* support Apple CarPlay and link to the official guide\n2. Encourage them to ensure their app is fully updated and installed correctly\n3. If they're still having trouble, escalate to human support and affirm that their feedback is valid and appreciated",
+      "potential_root_causes": [
+        "Dasher is unaware that CarPlay is supported",
+        "Dasher's DoorDash Driver app is out of date",
+        "App permissions or phone OS settings may be limiting CarPlay access"
+      ],
+      "general_troubleshooting": "1. Let Dasher know that DoorDash now supports Apple CarPlay — they can learn how to set it up here: https://help.doordash.com/consumers/s/article/Dashing-with-CarPlay?language=en_US\n2. Ensure their app is updated to the latest version via the App Store\n3. Recommend restarting the phone after updating the app to refresh system permissions\n4. If CarPlay still doesn't appear when plugging in, suggest checking phone Settings > General > CarPlay > [Vehicle] > ensure DoorDash app is enabled\n5. If none of the above resolve the issue, escalate_to_human and let them know we'll look into it further"
+    },    
+    {
+      "id": "TSI-CS-001",
+      "type": "tech_support_scenario",
+      "title": "Can't Schedule a Dash",
+      "summary": "Dasher is unable to select or view any scheduling slots in the app.",
+      "identification_phrases": [
+        "Dasher is unable to schedule a dash on the app.",
+        "No scheduling slots are open.",
+        "I can't book any time blocks.",
+        "The schedule button is greyed out."
+      ],
+      "strategy_overview": "1. Recommend general troubleshooting steps + remind them that in most areas scheduling is not needed and to see if they can see the Dash Now option\n2. Determine if issue is still occurring + try to identify a specific root cause in detailed_troubleshooting based on the Dasher responses\n3. Recommend next troubleshooting steps for specific root cause determined\n4. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "No slots available when they are trying to schedule.",
+        "Phone cache needs to be cleared.",
+        "Dasher needs instruction on how to schedule in the app"
+      ],
+      "general_troubleshooting": "1. Have Dasher clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher hard close all unused apps.\n3. Share instructions on how to schedule: \"Here is a walkthrough on how to schedule a dash https://help.doordash.com/dashers/s/article/How-to-schedule-a-dash?language=en_US\"\n4. Recommend checking the app during peak busy days/times and they should see the Dash Now button"
+    },
+    {
+      "id": "TSI-CB-001",
+      "type": "tech_support_scenario",
+      "title": "Constant Buffering / App Stuck Buffering / Infinite Loading Ring",
+      "summary": "The Dasher app is continually buffering or showing a loading ring, possibly due to connectivity or device memory.",
+      "identification_phrases": [
+        "Dasher App continues to buffer, loading ring.",
+        "It's stuck on loading forever.",
+        "The map won't load—just spinning.",
+        "I can't click anything because of the constant buffer."
+      ],
+      "strategy_overview": "1. Recommend general troubleshooting steps\n2. Determine if issue is still occurring + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Possible internet connection issues",
+        "Has poor WiFi connection",
+        "Cache needs to be cleared",
+        "Has many apps running on phone"
+      ],
+      "general_troubleshooting": "1. Have Dasher clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher hard close all unused apps.\n3. Have Dasher try to connect via WiFi if possible"
+    },
+    {
+      "id": "TSI-CV-001",
+      "type": "tech_support_scenario",
+      "title": "Create Shift V2 Error",
+      "summary": "Dasher sees a 'CreateShiftV2' error, often indicating missing vehicle details or system glitch.",
+      "identification_phrases": [
+        "Seeing an error message that says CreateShiftV2.",
+        "I can't proceed because of CreateShiftV2 error.",
+        "App won't let me schedule due to some shift error.",
+        "A weird error about vehicle info keeps popping up."
+      ],
+      "strategy_overview": "1. Recommend general troubleshooting steps\n2. Determine if issue is still occurring + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Dasher doesn't have vehicle details in their account"
+      ],
+      "general_troubleshooting": "1. Have Dasher clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher review Vehicle details in the Dasher app: Dasher App > Account Tab > Vehicles Tab\n2.a. No Vehicle Listed in App: Ask for make, model, and year of car > escalate_to_human to submit as support case\n2.b. Vehicle Listed in App: escalate_to_human to submit a support case"
+    },
+    {
+      "id": "TSI-EC-001",
+      "type": "tech_support_scenario",
+      "title": "Error Code 400",
+      "summary": "A generic app error often fixed by force closing the app or clearing cache, or trying another device.",
+      "identification_phrases": [
+        "After logging in, receiving Error Code 400.",
+        "The app shows 400 error on startup.",
+        "Error 400 keeps popping up on my screen."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Common application error"
+      ],
+      "general_troubleshooting": "1. Have Dasher force close app > clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher try a different device if possible to see if issue persists\n3. escalate_to_human to submit a case in Salesforce"
+    },
+    {
+      "id": "TSI-BI-001",
+      "type": "tech_support_scenario",
+      "title": "Keeps Asking for Bank Info / App stuck asking for Direct Deposit ",
+      "summary": "Dasher app repeatedly requests bank details or direct deposit info after they've already submitted them.",
+      "identification_phrases": [
+        "Dasher App requests bank info after I already submitted it.",
+        "I keep getting prompted for direct deposit info.",
+        "It won't recognize that I provided my bank details.",
+        "The app is stuck on verifying my payout method."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "There are not any Dashing slots available",
+        "Cache needs to be cleared"
+      ],
+      "general_troubleshooting": "1. Have Dasher force close app > clear cache\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have dasher select ‘SKIP or INPUT LATER' > Continue next steps in the app until sees the map > Instruct dasher to go to ‘Earnings Tab' > Click on bank icon in top right corner > Should see bank details\n3. Have Dasher complete their first delivery and it should not be an issue anymore"
+    },
+    {
+      "id": "TSI-LI-001",
+      "type": "tech_support_scenario",
+      "title": "Login Issues",
+      "summary": "Dasher can't log in due to using the wrong email, forgetting password, or having the wrong app.",
+      "identification_phrases": [
+        "Dasher is having issues logging into app.",
+        "I keep getting invalid credentials.",
+        "I might be using the customer app by mistake.",
+        "I forgot my password and can't reset."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Dasher has wrong app",
+        "Using incorrect email",
+        "Forgot password",
+        "Cache needs to be cleared"
+      ],
+      "general_troubleshooting": "1. Confirm Dasher is trying to login with Dasher app vs Delivery app\n2. Have Dasher force close app > clear cache\n2.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n2.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n3. Have dasher confirm what email they are trying to login with > escalate_to_human to confirm email\n4. Send password reset link to reset their password: https://identity.doordash.com/auth/user/password/reset?client_id=1666519390426295040&layout=consumer_web&prompt=none&redirect_uri=https%3A%2F%2Fwww.doordash.com%2F&response_type=code&scope=%2A&state=none"
+    },
+    {
+      "id": "TSI-NR-001",
+      "type": "tech_support_scenario",
+      "title": "No Red Zones / No Hot Zones / No Red Area",
+      "summary": "Dasher sees no red or pink areas on the map, indicating a lack of immediate busy zones.",
+      "identification_phrases": [
+        "Not seeing any red zones on the map.",
+        "My map is always gray.",
+        "I'm not seeing any hot zones",
+        "There's never a busy area near me.",
+        "It's all gray colors—no hotspots.",
+        "I'm not seeing any hot spots or busy zones.",
+        "My map is gray and shows no active delivery areas.",
+        "No red zones or busy regions appear on my screen.",
+        "I think the app isn't showing me hot zones properly."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Area is not busy",
+        "Not checking the app during peak hours or days",
+        "Lives in a small town without much business in the area"
+      ],
+      "general_troubleshooting": "1. Recommend checking the app during peak hours / busy days and should see a Dash Now button\n2. Recommend trying to schedule a shift + send instructions on scheduling: https://help.doordash.com/dashers/s/article/How-to-schedule-a-dash?language=en_US\n3. Inquire whether they would be willing to try Dashing in another bigger town close to them"
+    },
+    {
+      "id": "TSI-NO-001",
+      "type": "tech_support_scenario",
+      "title": "Unable to Accept Orders",
+      "summary": "Dashers getting a text saying orders are available, but when they go in the app they don't see anything.",
+      "identification_phrases": [
+        "I cannot accept the orders.",
+        "The app tells me there are orders but I cannot see them."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "App may need to be updated"
+      ],
+      "general_troubleshooting": "1. Delete and re-download the Dasher application."
+    },
+    {
+      "id": "TSI-BC-001",
+      "type": "tech_support_scenario",
+      "title": "Waiting on Background Check",
+      "summary": "Dasher believes they are still stuck in the background check phase, though it may be completed.",
+      "identification_phrases": [
+        "Seen that I'm still waiting on my background check.",
+        "The app says my check is processing.",
+        "I haven't received a confirmation that I'm cleared."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "They last checked the app a few days ago",
+        "Signed in with a different email"
+      ],
+      "general_troubleshooting": "1. Let them know usually by the time we text they should be good to go > have them open the app to check again > most of the time they are good to go\n2. Ask for email they are using to sign in + screenshot of their screen if they are still seeing after checking > escalate_to_human for review"
+    },
+    {
+      "id": "TSI-WL-001",
+      "type": "tech_support_scenario",
+      "title": "Waitlist / System Capacity Waitlist",
+      "summary": "Dasher is on a waitlist from a tech perspective, meaning the system won't activate them until capacity frees up.",
+      "identification_phrases": [
+        "Dasher is currently on the waitlist (tech side).",
+        "The app won't activate me because of waitlist.",
+        "I'm told there's no capacity in my market.",
+        "I can't finalize my profile due to waitlist status."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Too many applicants in their market."
+      ],
+      "general_troubleshooting": "1. The waitlist refreshes on Monday's & Wednesday's, have dasher check the app throughout the week\n2. Recommend that if they see themselves off the waitlist try to complete the first delivery as soon as possible as completing the first delivery will prevent them from going on the waitlist in the future"
+    },
+    {
+      "id": "TSI-WS-001",
+      "type": "tech_support_scenario",
+      "title": "White Screen",
+      "summary": "Dasher only sees a white screen upon launching the app, possibly due to loading issues or poor connectivity.",
+      "identification_phrases": [
+        "Seeing only a white screen.",
+        "The app never loads past a blank page.",
+        "Nothing appears except a white display.",
+        "I can't access any part of the app—it's all white."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "App can take a while to load",
+        "Cache needs to be cleared",
+        "Possible internet connectivity issues",
+        "Has poor cellular data connection"
+      ],
+      "general_troubleshooting": "1. Have Dasher force close app and clear cache then open app and wait 10 minutes for it to load as it can take a while on first try sometimes\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher connect to WiFi and check for software updates\n3. Inquire whether Dasher can try on another device\n4. escalate_to_human to submit a Salesforce case"
+    },
+    {
+      "id": "TSI-WR-001",
+      "type": "tech_support_scenario",
+      "title": "Wrong Location",
+      "summary": "The app is showing an incorrect location for the dasher, possibly due to location settings or old data.",
+      "identification_phrases": [
+        "Map showing different location.",
+        "My app places me in another city.",
+        "GPS is inaccurate I'm nowhere near the area it shows.",
+        "It's not reflecting my current address."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Location settings are off",
+        "When they first sign up the app will often show major city",
+        "Moved to a different city"
+      ],
+      "general_troubleshooting": "1. Have Dasher force close app and clear cache then open app and wait 10 minutes for it to load as it can take a while on first try sometimes\n1.a. iPhone Instructions: Open Settings > Go to General > Go to iPhone Storage > Select Driver App > Tap Delete App > Reinstall DoorDash Driver App\n1.b. Android Instructions: Tap Settings > Go to Apps > Select Driver App > Tap Storage > Clear Cache > Clear Data > Restart your phone\n2. Have Dasher confirm location services are turned on for Dasher app\n3. escalate_to_human to submit a Salesforce case"
+    },
+    {
+      "id": "TSI-WN-001",
+      "type": "tech_support_scenario",
+      "title": "Wrong Name on Account",
+      "summary": "Dasher sees a different name on their account, possibly due to a recycled phone number or linked customer profile.",
+      "identification_phrases": [
+        "Dasher seeing wrong name on Account when signing in.",
+        "My profile shows someone else's name.",
+        "It looks like this account belonged to another person.",
+        "",
+        "I can't get rid of the wrong info."
+      ],
+      "strategy_overview": "1. Follow general troubleshooting steps\n2. Determine if issue is still occurring after each step + try to identify a specific root cause\n3. If Dasher has resolved the issue pivot to motivate them to start dashing today or tomorrow.",
+      "potential_root_causes": [
+        "Another dasher or DoorDash customer had the applicants phone number in the past (recycled number) on their account"
+      ],
+      "general_troubleshooting": "1. Have Dasher log into their Doordash food app > update name on that account – customer account info is connected to the Dasher Profile, it should then update on the lead's Dasher profile.\n2. escalate_to_human to submit a support ticket"
+    },
+    {
+      "id": "OBJ-LOC-001",
+      "type": "dasher_scenario",
+      "title": "App Shows Incorrect Location",
+      "summary": "The Dasher app is displaying the wrong location, potentially preventing the applicant from receiving orders or dashing.",
+      "identification_phrases": [
+        "The app says I'm not in the right area.",
+        "It's not showing my real location.",
+        "My map is stuck in another city.",
+        "I can't dash because it thinks I'm somewhere else.",
+        "Why is my app showing a different zone?"
+      ],
+      "strategy_overview": [
+        "1) Have the Dasher send a screenshot of the map they see in the Dasher App. This helps narrow down the root cause.",
+        "   1a) If the Dasher is clearly outside of a busy region, instruct them to either move into a busy zone or use 'Dash Along the Way' if available.",
+        "   1b) Follow General Troubleshooting steps based on device (iPhone vs Android)",
+        "2) If this doesn't appear to be the issue, apologize and empathize with the Dasher. Let them know this is a rare situation often caused by third-party mapping tools.",
+        "   2a) Suggest they try: Delete the app > Restart phone > Turn off Wi-Fi > Reinstall app > Sign in using email."
+      ],
+      "social_proof_rapport": [
+        "Other Dashers who follow those troubleshooting steps usually see the issue resolve quickly and get back to dashing without a problem.",
+        "This has happened to a few people before and it typically clears up with a quick reset of location settings or app reinstall.",
+        "I know someone who had this issue, but after using Dash Along the Way, the app caught up and orders started coming in immediately."
+      ],
+      "pain_mapping": [
+        "Have you tried restarting the app or phone recently?",
+        "Are you connected to strong mobile data or Wi-Fi right now?",
+        "Are you seeing your location pinned correctly on the in-app map?",
+        "What zone is showing for you currently?",
+        "Are you currently inside the red area, or outside of it?"
+      ],
+      "motivation_urgency": [
+        "Busy areas definitely exist around you — go out as soon as you can to test your location and start earning!",
+        "Once you get the location issue fixed, you'll be back to receiving orders like normal. Try it out now and get ahead of the dinner rush.",
+        "Dashing now will also help verify the fix worked and get you in line for peak-hour bonuses.",
+        "These kinds of tech hiccups usually clear up fast — if you're nearby a red zone, heading there now might even trigger orders despite the glitch."
+      ]
+    },
+    {
+      "id": "OBJ-PAY-001",
+      "type": "dasher_scenario",
+      "title": "Payment Issue / Payout Not Received / Pay Not Deposited / Payment Delayed",
+      "summary": "The Dasher did not receive their payout as scheduled or expected, possibly due to a bank issue or a Crimson Card glitch.",
+      "identification_phrases": [
+        "I didn't get paid this week.",
+        "My deposit didn't go through.",
+        "My money isn't showing up in my account.",
+        "I completed deliveries but no payout.",
+        "It says I got paid but I don't see the money.",
+        "The payment didn't hit my bank."
+      ],
+      "strategy_overview": [
+        "1) Empathize with the Dasher and validate their frustration about not getting paid. Ask them to send a screenshot of what they see in the earnings tab—this often reveals the root issue.",
+        "2) There are two common causes to check:",
+        "   - **Direct Deposit Issue:** Confirm that the Dasher has a *checking account* (not savings) linked in the app. Instruct them to call their bank, as some banks block first-time deposits until authorized.",
+        "   - **Crimson Card Glitch:** If the Dasher uses a Crimson Card, this may be caused by a payout processing glitch. Recommend starting and ending a dash (no delivery needed). This usually triggers the transfer within 1–2 minutes.",
+        "3) Once the issue is resolved or workaround is in place, encourage the Dasher to resume dashing to stay on track with earnings."
+      ],
+      "social_proof_rapport": [
+        "A lot of Dashers have run into this at first—it's almost always resolved by adjusting the payment method or giving the bank a quick call.",
+        "I've seen this exact issue fixed right away by starting and ending a dash when the Crimson Card was stuck.",
+        "Once the direct deposit is authorized or the dash is completed, the funds typically show up right away.",
+        "Totally get how frustrating this is—but this is something we've helped resolve quickly many times before."
+      ],
+      "pain_mapping": [
+        "Have you been able to confirm your payment deposit account is a checking account, and that the routing and account numbers are correct?",
+        "Have you tried contacting your bank to ask if they've received or blocked the deposit?",
+        "Are you currently using a Crimson Card or a regular bank account for payouts?",
+        "Have you tried starting and ending a dash to refresh the payment flow?",
+        "When did you last see a successful payout in your app?"
+      ],
+      "motivation_urgency": [
+        "Once you complete the steps, you should be able to receive your payouts ASAP!",
+        "Starting a quick dash—even without orders—could trigger the payout within a couple of minutes.",
+        "Let's get this resolved so you can get back on the road and keep earning.",
+        "Feel free to get back out there and start dashing now—you'll be ready to receive earnings as soon as it updates."
+      ]
+    },
+    {
+      "id": "OBJ-PRO-001",
+      "type": "dasher_scenario",
+      "title": "Lower Promotions Than Before",
+      "summary": "The Dasher is concerned that promotions or earning opportunities are worse than when they first joined the platform.",
+      "identification_phrases": [
+        "Promos were better when I first started.",
+        "I don't see the same bonuses anymore.",
+        "Peak Pay used to be higher.",
+        "I used to get better incentives.",
+        "There's not as much money in it now.",
+        "Why have the earnings dropped?"
+      ],
+      "strategy_overview": [
+        "1) Empathize with the Dasher's frustration and validate their experience—fluctuating promotions are normal and often tied to local demand shifts.",
+        "2) Identify nearby busier zones and explain how they can dash there to take advantage of stronger earnings and higher tips.",
+        "3) Emphasize the importance of dashing during peak hours (e.g., lunch/dinner), weekends, and around local events like sports games.",
+        "4) Guide the Dasher to experiment with scheduling during periods known for surges and Peak Pay.",
+        "5) If available in the area, suggest use of a red card for expanded delivery options that can also boost order volume."
+      ],
+      "social_proof_rapport": [
+        "Some Dashers travel to the nearest busy zone on weekends to maximize orders.",
+        "Dashers who plan around big sports events usually see spikes in promos and tip amounts.",
+        "A lot of Dashers notice that promotions change from week to week—it's all about catching the right windows.",
+        "It's totally normal to see changes in Peak Pay. The key is to know when and where the heat is happening."
+      ],
+      "pain_mapping": [
+        "What red zone have you noticed tends to be the busiest in your area?",
+        "What days and times have you been dashing most recently?",
+        "Have you tried checking the app around local events like games or concerts?",
+        "Have you received your red card yet to access more restaurant options?",
+        "Are you able to travel 5-10 minutes to a neighboring zone if it has higher bonuses?"
+      ],
+      "motivation_urgency": [
+        "What day this week can you give it another try? I want to make sure I'll be available to help guide you.",
+        "By dashing in busier zones during peak hours, you can quickly see extra earnings add up.",
+        "People are ordering, and tipping, massively during sporting events. It's one of the fastest ways to earn flexibly.",
+        "Even one or two peak shifts this weekend could help you stack up bonuses and get that high-earning momentum back.",
+        "Promos always cycle—being active during key windows helps you catch the highs."
+      ]
+    },
+    {
+      "id": "OBJ-VL-001",
+      "type": "dasher_scenario",
+      "title": "Not Worth It / Low Pay Concern / Low Earnings",
+      "summary": "The Dasher feels that dashing is not worth the effort—either because of low payouts, slow days, or general dissatisfaction with the time-to-earn ratio.",
+      "identification_phrases": [
+        "It's not worth my time.",
+        "The pay is too low.",
+        "Not enough money to make it worth it.",
+        "This just isn't worth it.",
+        "I feel like I'm wasting gas and time.",
+        "I'm not earning as much as I thought.",
+        "The money isn't good",
+        "Doesn't seem like the effort is worth the payout."
+      ],
+      "strategy_overview": [
+        "1) Empathize with their concern and validate that earnings can vary day-to-day, depending on timing and location.",
+        "2) Reassure them that other Dashers have felt the same way early on but found higher-value shifts by adjusting when and where they dash.",
+        "3) Recommend testing key earning periods like lunch/dinner rush or weekends before deciding to quit entirely.",
+        "4) Suggest checking for peak pay, scheduling shifts in busy zones, or using the red card for broader order access if available.",
+        "5) If they've only dashed once or twice, encourage giving it another try with a smarter strategy to really see the potential."
+      ],
+      "social_proof_rapport": [
+        "I've talked to Dashers who felt the same at first, but started making solid money once they focused on weekend evenings.",
+        "A lot of Dashers figure out what works in their area after a few attempts—it gets better with strategy.",
+        "It makes sense to feel that way, especially on a slow day. But catching the right timing can change everything.",
+        "I've seen Dashers cover their weekly expenses in just a few solid dashes by planning around peak times."
+      ],
+      "pain_mapping": [
+        "When have you typically been dashing?",
+        "Have you been using the app's peak pay indicators?",
+        "What's been your biggest frustration—orders being too far? Too small?",
+        "Are you mainly trying to dash during the week or on weekends?",
+        "Have you ever tried dashing right after a local event or game?"
+      ],
+      "motivation_urgency": [
+        "Before you rule it out, it might be worth trying one or two peak-time shifts—just to see the difference.",
+        "You might be surprised how fast earnings can add up during the lunch or dinner rush.",
+        "Even one or two well-timed shifts can help make it feel worthwhile again.",
+        "What day this week do you think could be a good time to test a higher-paying window? I'm happy to help you plan it out."
+      ]
+    },    
+    {
+      "id": "OBJ-DEA-001",
+      "type": "dasher_scenario",
+      "title": "Deactivated on Dasher App / Appeal Deactivation",
+      "summary": "The Dasher was deactivated from the platform and cannot log in or dash.",
+      "identification_phrases": [
+        "I got deactivated.",
+        "Why can't I log in?",
+        "It says I can't dash anymore.",
+        "My account was disabled.",
+        "The app says I've been removed."
+      ],
+      "strategy_overview": [
+        "Guide the Dasher to this appeal form: https://doordash-920643.workflowcloud.com/forms/2636137a-cef0-4fcf-8341-5a85bce04e43",
+        "Let them know we unfortunately cannot assist beyond that and they'll need to contact Dasher Support directly."
+      ],
+      "social_proof_rapport": [],
+      "pain_mapping": [],
+      "motivation_urgency": []
+    },
+    {
+      "id": "OBJ-DEA-002",
+      "type": "dasher_scenario",
+      "title": "Deactivated on Customer Account",
+      "summary": "The Dasher's DoorDash customer account was deactivated, which also affects their ability to dash.",
+      "identification_phrases": [
+        "My customer account got deactivated.",
+        "I can't access my account anymore.",
+        "My dasher app isn't working after my customer account got removed.",
+        "I used to dash but now I'm locked out because of my DoorDash account."
+      ],
+      "strategy_overview": [
+        "Empathize with the Dasher and let them know we understand how frustrating this is.",
+        "Explain that we are not able to assist with account deactivation issues and they will need to call Dasher Support for help."
+      ],
+      "social_proof_rapport": [],
+      "pain_mapping": [],
+      "motivation_urgency": []
+    },
+    {
+      "id": "OBJ-IDV-001",
+      "type": "dasher_scenario",
+      "title": "Failed Identity Re-Verification",
+      "summary": "The Dasher attempted to re-verify their identity but failed and is now locked out of the platform.",
+      "identification_phrases": [
+        "I failed my identity check.",
+        "The app is asking me to verify again and I can't get in.",
+        "It says my verification failed.",
+        "Why can't I log in after verifying?",
+        "The selfie check didn't go through."
+      ],
+      "strategy_overview": [
+        "Empathize with the Dasher and acknowledge how frustrating that must be.",
+        "Let them know we can't fix verification issues on our end.",
+        "Direct them to contact Dasher Support for further assistance."
+      ],
+      "social_proof_rapport": [],
+      "pain_mapping": [],
+      "motivation_urgency": []
+    },
+    {
+      "id": "TSI-NC-001",
+      "type": "tech_support_scenario",
+      "title": "Change Preferred Name in Dasher App / Fix Incorrect Name",
+      "summary": "Dasher wants to change name in app, change preferred name, wants to be called different name, name in app is incorrect",
+      "identification_phrases": [
+        "My name in the app is Barbars I want to change it to Barbara",
+        "Help me update my name in the app",
+        "My name is wrong in the app I need to change it",
+        "My name is incorrect in the app I need to change it",
+        "How do I update my preferred name for deliveries",
+        "I want to change what customers see as my name"
+      ],
+      "strategy_overview": "1. Send the dasher to this link https://help.doordash.com/dashers/s/article/How-do-I-update-my-Dasher-Profile-Account-Information \n 2. You are unable to help with this request, refer them to DoorDash support: 855-431-0459.",
+      "potential_root_causes": [
+        ""
+      ],
+      "general_troubleshooting": ""
+    },
+    {
+      "id": "UNC-GE-001",
+      "type": "dasher_scenario",
+      "title": "Generic Encouragement/Check-ins",
+      "summary": "Applicant sends generic messages seeking encouragement or checking in without specific concerns.",
+      "identification_phrases": [
+        "how are you doing today",
+        "hope you're having a good day",
+        "just checking in",
+        "wanted to say hi",
+        "thinking about dashing",
+        "how's everything going",
+        "any updates for me",
+        "just wanted to touch base"
+      ],
+      "strategy_overview": [
+        "1) Respond warmly and personally to build rapport and connection.",
+        "2) Use the opening to assess their current situation and identify potential barriers.",
+        "3) Transition into actionable next steps based on their readiness level."
+      ],
+      "social_proof_rapport": [
+        "I'm doing great, thanks for asking! I love connecting with potential dashers.",
+        "It's wonderful to hear from you - many dashers start with just a friendly check-in like this.",
+        "I appreciate you reaching out - shows you're serious about getting started!",
+        "Your thoughtfulness reminds me of some of our most successful dashers."
+      ],
+      "pain_mapping": [
+        "How have you been feeling about getting started with dashing?",
+        "What's been on your mind lately regarding DoorDash?",
+        "Have you had any concerns come up since we last spoke?",
+        "What would make this week a good time to try your first dash?",
+        "Is there anything specific you'd like to know about?"
+      ],
+      "motivation_urgency": [
+        "Since you're thinking about it, this could be the perfect time to take that first step.",
+        "Your positive energy tells me you'd do great out there - many dashers start just like this!"
+      ]
+    },
+    {
+      "id": "UNC-SC-001",
+      "type": "dasher_scenario",
+      "title": "Scheduling Conflicts",
+      "summary": "Applicant has scheduling conflicts or time management issues preventing them from dashing.",
+      "identification_phrases": [
+        "my schedule changed",
+        "can't work the hours I planned",
+        "have a conflict with my availability",
+        "my shifts at work changed",
+        "family schedule is different now",
+        "time doesn't work anymore",
+        "schedule got complicated",
+        "hours don't align"
+      ],
+      "strategy_overview": [
+        "1) Acknowledge the challenge and reassure them about DoorDash's flexibility.",
+        "2) Help them identify new windows of opportunity in their revised schedule.",
+        "3) Suggest starting with shorter time blocks to test what works."
+      ],
+      "social_proof_rapport": [
+        "Schedule changes happen to everyone - that's exactly why DoorDash's flexibility is so valuable.",
+        "Many dashers I know have had to adjust their plans and found even better times to dash.",
+        "The beauty of DD is you can work around any schedule, even when it changes.",
+        "I've helped lots of people find new pockets of time they didn't realize they had."
+      ],
+      "pain_mapping": [
+        "What changed in your schedule?",
+        "When do you typically have free time now?",
+        "Are there any small windows during the day you could try?",
+        "What days of the week work better for you now?",
+        "Would evenings or weekends be more realistic?"
+      ],
+      "motivation_urgency": [
+        "Even 30 minutes during a busy time can show you the potential.",
+        "Finding a new schedule that works could be exactly what you need right now."
+      ]
+    },
+    {
+      "id": "UNC-AM-001",
+      "type": "dasher_scenario",
+      "title": "Area Market Questions",
+      "summary": "Applicant has questions about their specific market area, demand, or local conditions.",
+      "identification_phrases": [
+        "is my area good for dashing",
+        "how busy is it here",
+        "do people order food in my city",
+        "is there demand in my market",
+        "wondering about my location",
+        "my area seems quiet",
+        "not sure about local market",
+        "is it worth it in my town"
+      ],
+      "strategy_overview": [
+        "1) Research their specific area and provide relevant insights about local demand.",
+        "2) Identify nearby busy zones and peak times for their market.",
+        "3) Encourage them to test during optimal times to see actual results."
+      ],
+      "social_proof_rapport": [
+        "Great question! Understanding your local market is smart planning.",
+        "Most areas have more opportunity than people realize, especially during peak times.",
+        "I've helped dashers in similar markets find the best times and zones to maximize earnings.",
+        "Your market research shows you're approaching this the right way."
+      ],
+      "pain_mapping": [
+        "What specifically concerns you about your area?",
+        "Have you noticed when restaurants seem busiest in your town?",
+        "Are there nearby cities or zones you could also dash in?",
+        "What times of day do you see the most food delivery activity?",
+        "Have you checked if your area has red zones during meal times?"
+      ],
+      "motivation_urgency": [
+        "The only way to know for sure is to try during peak dinner hours this week.",
+        "Many markets surprise people with how busy they actually are once you start."
+      ]
+    },
+    {
+      "id": "UNC-PE-001",
+      "type": "dasher_scenario",
+      "title": "Payment/Earnings Concerns",
+      "summary": "Applicant has questions or concerns about payment processing, earnings, or financial aspects.",
+      "identification_phrases": [
+        "how do I get paid",
+        "when will I see money",
+        "payment processing questions",
+        "earnings seem low",
+        "worried about pay",
+        "payment timing unclear",
+        "money concerns",
+        "financial questions"
+      ],
+      "strategy_overview": [
+        "1) Clearly explain payment timing, methods, and what to expect for earnings.",
+        "2) Address specific concerns about payment security and reliability.",
+        "3) Set realistic expectations while highlighting earning potential."
+      ],
+      "social_proof_rapport": [
+        "Payment questions are totally normal - it's important to understand how you'll get paid.",
+        "DoorDash has a reliable payment system that thousands of dashers use successfully.",
+        "I can walk you through exactly how payments work so you feel confident.",
+        "Many dashers were initially concerned about payments but found the system very reliable."
+      ],
+      "pain_mapping": [
+        "What specific payment concerns do you have?",
+        "How quickly do you need to see earnings?",
+        "Have you set up your payment method in the app?",
+        "What would help you feel more confident about the payment process?",
+        "Are you looking for daily pay or is weekly payment okay?"
+      ],
+      "motivation_urgency": [
+        "Once you complete your first dash, you'll see exactly how the payment process works.",
+        "Starting this week means you could see your first payment by next week."
+      ]
+    },
+    {
+      "id": "UNC-ER-001",
+      "type": "dasher_scenario",
+      "title": "Equipment/Red Card Issues",
+      "summary": "Applicant has problems with equipment, red card delivery, or activation issues.",
+      "identification_phrases": [
+        "haven't received my red card",
+        "red card not working",
+        "equipment problems",
+        "activation kit delayed",
+        "card won't activate",
+        "thermal bag issues",
+        "equipment not arrived",
+        "red card declined"
+      ],
+      "strategy_overview": [
+        "1) Address immediate equipment concerns and provide solutions or alternatives.",
+        "2) Explain which orders can be completed without red card while waiting.",
+        "3) Help them get started with available equipment while resolving issues."
+      ],
+      "social_proof_rapport": [
+        "Equipment issues can be frustrating, but we can get you started while resolving this.",
+        "Many dashers begin with just their phone and work around equipment delays.",
+        "Red card issues are usually quick to resolve once we identify the problem.",
+        "I've helped lots of dashers navigate equipment challenges successfully."
+      ],
+      "pain_mapping": [
+        "What specific equipment issue are you experiencing?",
+        "How long have you been waiting for your red card?",
+        "Have you tried activating the card through the app?",
+        "Do you have an insulated bag you could use temporarily?",
+        "Are you able to accept non-red card orders while we solve this?"
+      ],
+      "motivation_urgency": [
+        "You can start earning with many orders that don't require the red card.",
+        "Getting this resolved quickly means you won't miss out on busy weekend earnings."
+      ]
+    },
+    {
+      "id": "UNC-LA-001",
+      "type": "dasher_scenario",
+      "title": "Login/Account Access",
+      "summary": "Applicant has issues accessing their account, logging in, or account-related problems.",
+      "identification_phrases": [
+        "can't log into my account",
+        "forgot my password",
+        "account locked",
+        "login not working",
+        "can't access the app",
+        "account issues",
+        "password reset problems",
+        "verification code not working"
+      ],
+      "strategy_overview": [
+        "1) Quickly diagnose the login issue and provide step-by-step resolution.",
+        "2) Guide them through password reset or account recovery process.",
+        "3) Ensure they can access their account and are ready to start dashing."
+      ],
+      "social_proof_rapport": [
+        "Login issues are more common than you'd think - let's get this sorted quickly.",
+        "Account access problems are usually straightforward to fix.",
+        "I've helped many dashers resolve similar login challenges.",
+        "Once we get you logged in, you'll be all set to start earning."
+      ],
+      "pain_mapping": [
+        "What exactly happens when you try to log in?",
+        "Do you remember the email address you used to sign up?",
+        "Have you tried the password reset option?",
+        "Are you getting any specific error messages?",
+        "Is this a new account or one you've used before?"
+      ],
+      "motivation_urgency": [
+        "Getting your login working means you could start dashing as early as today.",
+        "Account issues are usually resolved quickly, so you won't lose much time."
+      ]
+    },
+    {
+      "id": "UNC-DP-001",
+      "type": "dasher_scenario",
+      "title": "Delivery Process Questions",
+      "summary": "Applicant has questions about how the actual delivery process works or what to expect.",
+      "identification_phrases": [
+        "how does delivery actually work",
+        "what do I do when I arrive",
+        "never delivered before",
+        "process seems confusing",
+        "what are the steps",
+        "how do I know where to go",
+        "delivery instructions unclear",
+        "first time delivering"
+      ],
+      "strategy_overview": [
+        "1) Walk through the delivery process step-by-step to build confidence.",
+        "2) Address specific concerns about customer interaction and navigation.",
+        "3) Encourage them to start with a simple first delivery to see how easy it is."
+      ],
+      "social_proof_rapport": [
+        "The delivery process is much simpler than it seems - the app guides you through everything.",
+        "Every dasher felt uncertain about their first delivery, but it becomes second nature quickly.",
+        "I can walk you through exactly what happens from accepting an order to completion.",
+        "Most new dashers are surprised by how straightforward and intuitive the process is."
+      ],
+      "pain_mapping": [
+        "What part of the delivery process concerns you most?",
+        "Have you had experience with other delivery services?",
+        "Are you worried about finding addresses or customer interaction?",
+        "What would help you feel more confident about your first delivery?",
+        "Do you have any specific questions about the app interface?"
+      ],
+      "motivation_urgency": [
+        "Your first delivery will show you how simple the process really is.",
+        "Starting with an easy nearby delivery can build your confidence quickly."
+      ]
+    },
+    {
+      "id": "AI-EMP-001",
+      "type": "ai_generated_scenario",
+      "title": "AI-Generated Empathy Responses",
+      "summary": "AI-generated empathetic responses that acknowledge concerns and build emotional connection.",
+      "identification_phrases": [
+        "ai detected empathy needed",
+        "emotional response required",
+        "concern acknowledgment",
+        "rapport building needed",
+        "empathetic engagement",
+        "emotional intelligence response",
+        "supportive messaging",
+        "understanding required"
+      ],
+      "strategy_overview": [
+        "1) Lead with genuine empathy and acknowledgment of their specific situation.",
+        "2) Use emotional intelligence to match their tone and concern level.",
+        "3) Transition from empathy to actionable solutions and support."
+      ],
+      "social_proof_rapport": [
+        "I completely understand how you're feeling - many people have similar concerns.",
+        "Your feelings about this are totally valid and I'm here to help work through them.",
+        "I can hear that this situation is important to you, and I want to make sure we address it properly.",
+        "Thank you for sharing this with me - it helps me understand how to best support you."
+      ],
+      "pain_mapping": [
+        "Help me understand what's most concerning to you about this situation?",
+        "What would need to happen for you to feel more comfortable moving forward?",
+        "How has this been affecting your plans or expectations?",
+        "What kind of support would be most helpful right now?",
+        "Is there a particular aspect of this that's been weighing on you?"
+      ],
+      "motivation_urgency": [
+        "I'm committed to helping you work through this so you can move forward confidently.",
+        "Together, we can find a solution that works for your specific situation."
+      ]
+    },
+    {
+      "id": "AI-QUE-001",
+      "type": "ai_generated_scenario",
+      "title": "AI Question-Based Engagement",
+      "summary": "AI-generated question-focused responses designed to gather information and increase engagement.",
+      "identification_phrases": [
+        "needs information gathering",
+        "question-based engagement",
+        "discovery conversation",
+        "information collection needed",
+        "exploratory dialogue",
+        "fact-finding mission",
+        "detailed assessment required",
+        "comprehensive questioning"
+      ],
+      "strategy_overview": [
+        "1) Use strategic questioning to uncover underlying motivations and barriers.",
+        "2) Build engagement through curiosity and genuine interest in their situation.",
+        "3) Use gathered information to personalize solutions and next steps."
+      ],
+      "social_proof_rapport": [
+        "I'd love to learn more about your situation so I can give you the best guidance.",
+        "Understanding your specific needs helps me tailor my recommendations perfectly.",
+        "The more I know about your goals, the better I can help you achieve them.",
+        "Your answers will help me identify the best path forward for your unique situation."
+      ],
+      "pain_mapping": [
+        "What originally motivated you to consider DoorDash?",
+        "How does this fit into your current life situation?",
+        "What would success look like for you with dashing?",
+        "What concerns, if any, do you have about getting started?",
+        "How do you typically like to approach new opportunities?"
+      ],
+      "motivation_urgency": [
+        "Based on what you've shared, I think we can create a plan that works perfectly for you.",
+        "Your answers show me you're ready to take the next step - let's make it happen."
+      ]
+    },
+    {
+      "id": "AI-URG-001",
+      "type": "ai_generated_scenario",
+      "title": "AI Urgency with Support",
+      "summary": "AI-generated responses that create urgency while offering comprehensive support.",
+      "identification_phrases": [
+        "urgency creation needed",
+        "time-sensitive opportunity",
+        "immediate action required",
+        "urgency with support",
+        "compelling call to action",
+        "time-sensitive messaging",
+        "urgent but supportive",
+        "action-oriented urgency"
+      ],
+      "strategy_overview": [
+        "1) Create compelling urgency based on real opportunities or time-sensitive factors.",
+        "2) Couple urgency with strong support and assistance offers.",
+        "3) Make taking action feel both important and fully supported."
+      ],
+      "social_proof_rapport": [
+        "I want to make sure you don't miss out on this opportunity - let me help you seize it.",
+        "This timing could be perfect for you, and I'm here to make sure everything goes smoothly.",
+        "I've seen people in similar situations really benefit from acting quickly on this.",
+        "With the right support, you could be earning as early as this weekend."
+      ],
+      "pain_mapping": [
+        "What would need to happen for you to feel ready to start this week?",
+        "Is there anything preventing you from taking advantage of this opportunity?",
+        "What kind of support would help you move forward confidently?",
+        "How important is it for you to start earning extra income soon?",
+        "What questions can I answer to help you feel confident about starting?"
+      ],
+      "motivation_urgency": [
+        "With busy season approaching, starting now positions you perfectly for maximum earnings.",
+        "I'm here to support you every step of the way - you don't have to figure this out alone."
+      ]
+    },
+    {
+      "id": "HCP-WR-001",
+      "type": "high_converting_scenario",
+      "title": "Weather-Responsive Messages",
+      "summary": "Messages that acknowledge and leverage weather conditions for delivery opportunities.",
+      "identification_phrases": [
+        "it's raining today",
+        "bad weather outside",
+        "snowing heavily",
+        "storm coming",
+        "weather is terrible",
+        "don't want to drive in this",
+        "conditions are poor",
+        "weather concerns"
+      ],
+      "strategy_overview": [
+        "1) Acknowledge weather concerns while highlighting the earning opportunity bad weather creates.",
+        "2) Provide safety tips and reassurance about weather-related dashing.",
+        "3) Frame weather as a competitive advantage for increased demand and earnings."
+      ],
+      "social_proof_rapport": [
+        "Bad weather actually creates some of the best earning opportunities for dashers!",
+        "When it's raining, people order more delivery and tip better - it's peak earning time.",
+        "Smart dashers love rainy days because there's less competition and higher demand.",
+        "Weather like this can easily double your normal hourly earnings if you're prepared."
+      ],
+      "pain_mapping": [
+        "What specific weather concerns do you have about dashing?",
+        "Do you have appropriate gear for driving in these conditions?",
+        "Have you noticed how many more delivery drivers are out during bad weather?",
+        "Would higher earnings make dealing with weather worth it?",
+        "What would help you feel safer about dashing in these conditions?"
+      ],
+      "motivation_urgency": [
+        "Days like today are when dashers make their best money - the demand is through the roof.",
+        "If you start now, you could take advantage of premium weather pay before conditions improve."
+      ]
+    },
+    {
+      "id": "HCP-SP-001",
+      "type": "high_converting_scenario",
+      "title": "Social Proof Messages",
+      "summary": "Messages leveraging strong social proof and success stories to drive conversion.",
+      "identification_phrases": [
+        "do people actually make money",
+        "is this worth it",
+        "success stories",
+        "other people's experience",
+        "real earnings examples",
+        "proof it works",
+        "testimonials needed",
+        "validation required"
+      ],
+      "strategy_overview": [
+        "1) Share specific, credible success stories and earnings examples.",
+        "2) Use social proof that matches their situation and concerns.",
+        "3) Create confidence through documented success of similar dashers."
+      ],
+      "social_proof_rapport": [
+        "I just spoke with Sarah yesterday - she started last month and made $847 in her first 3 weeks.",
+        "Mike from your area told me he consistently makes $25-30 per hour during dinner rush.",
+        "Just last week, a new dasher shared she made $156 in her first weekend of dashing.",
+        "Over 80% of dashers I work with exceed their initial earning expectations within the first month."
+      ],
+      "pain_mapping": [
+        "What kind of earnings would make this worthwhile for you?",
+        "How much time were you hoping to invest in dashing each week?",
+        "What would convince you that this opportunity is legitimate?",
+        "Are there specific concerns about earnings you'd like me to address?",
+        "What success metrics matter most to you?"
+      ],
+      "motivation_urgency": [
+        "These success stories show what's possible when you start taking action this week.",
+        "The sooner you begin, the sooner you can start building your own success story."
+      ]
+    },
+    {
+      "id": "TSI-AUTH-001",
+      "type": "tech_support_scenario",
+      "title": "Login/Authentication Issues",
+      "summary": "Specific technical problems with login, authentication, password reset, or account access.",
+      "identification_phrases": [
+        "password won't work",
+        "account locked out",
+        "verification code not coming",
+        "two-factor authentication problems",
+        "login credentials rejected",
+        "account access denied",
+        "authentication failed",
+        "security verification issues"
+      ],
+      "strategy_overview": [
+        "1) Quickly diagnose the specific authentication issue.",
+        "2) Provide step-by-step technical resolution.",
+        "3) Ensure account security while restoring access."
+      ],
+      "social_proof_rapport": [
+        "Authentication issues are common and usually resolve quickly with the right steps.",
+        "I've helped many dashers get back into their accounts successfully.",
+        "These security features are there to protect you, and we can work through them together."
+      ],
+      "pain_mapping": [
+        "What specific error message are you seeing?",
+        "When did you last successfully log in?",
+        "Have you recently changed your password or phone number?",
+        "Are you receiving verification codes on your phone?",
+        "Is this happening on the app or website?"
+      ],
+      "motivation_urgency": [
+        "Getting your access restored means you can start earning again right away.",
+        "We can usually resolve authentication issues within minutes."
+      ]
+    },
+    {
+      "id": "TSI-CRASH-001",
+      "type": "tech_support_scenario",
+      "title": "App Crashes/Technical Bugs",
+      "summary": "Issues with app stability, crashes, freezing, or other technical bugs.",
+      "identification_phrases": [
+        "app keeps crashing",
+        "app freezes up",
+        "won't load properly",
+        "technical glitches",
+        "app is buggy",
+        "keeps force closing",
+        "not responding",
+        "technical problems"
+      ],
+      "strategy_overview": [
+        "1) Identify specific crash patterns and triggers.",
+        "2) Provide troubleshooting steps for app stability.",
+        "3) Ensure they can dash reliably without technical interruptions."
+      ],
+      "social_proof_rapport": [
+        "App crashes can be really frustrating, especially when you're trying to work.",
+        "Technical issues are usually fixable with some basic troubleshooting steps.",
+        "Many dashers have experienced similar issues and we've found effective solutions."
+      ],
+      "pain_mapping": [
+        "When does the app typically crash for you?",
+        "How often are you experiencing these technical issues?",
+        "What device and operating system are you using?",
+        "Have you tried updating the app recently?",
+        "Does this happen during specific actions or randomly?"
+      ],
+      "motivation_urgency": [
+        "Fixing these technical issues will make your dashing experience much smoother.",
+        "Once we resolve this, you'll be able to focus on earning instead of troubleshooting."
+      ]
+    },
+    {
+      "id": "TSI-FEAT-001",
+      "type": "tech_support_scenario",
+      "title": "Feature Unavailability",
+      "summary": "Issues with specific app features being unavailable, not working, or missing.",
+      "identification_phrases": [
+        "feature not available",
+        "option missing from app",
+        "can't find this feature",
+        "functionality not working",
+        "missing app options",
+        "feature seems broken",
+        "can't access this",
+        "feature disappeared"
+      ],
+      "strategy_overview": [
+        "1) Identify which specific feature is unavailable and why.",
+        "2) Provide workarounds or alternative methods.",
+        "3) Set expectations for feature availability and updates."
+      ],
+      "social_proof_rapport": [
+        "Feature availability can vary by market and dasher status - let me check what's available for you.",
+        "Some features roll out gradually, so you might not have access yet.",
+        "I can help you understand which features you should have access to."
+      ],
+      "pain_mapping": [
+        "Which specific feature are you trying to access?",
+        "How important is this feature for your dashing goals?",
+        "Have you seen this feature before or is this your first time looking for it?",
+        "Are there alternative ways to accomplish what you're trying to do?",
+        "What would having this feature change for your dashing experience?"
+      ],
+      "motivation_urgency": [
+        "Even without this specific feature, you can still start earning effectively.",
+        "I can show you workarounds that many successful dashers use."
+      ]
+    }
+  ]
+  

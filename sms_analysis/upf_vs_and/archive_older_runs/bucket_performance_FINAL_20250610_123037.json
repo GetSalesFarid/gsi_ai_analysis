@@ -1,0 +1,386 @@
+{
+  "OBJ-BS-001": {
+    "title": "Busy",
+    "total_messages": 547,
+    "full_conversions": 67,
+    "bgc_conversions": 273,
+    "full_conversion_rate": 12.248628884826324,
+    "bgc_conversion_rate": 49.90859232175503,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 307,
+        "full_conversion_rate": 14.332247557003258
+      },
+      "AnD": {
+        "count": 227,
+        "full_conversion_rate": 9.691629955947137
+      },
+      "UpF": {
+        "count": 13,
+        "full_conversion_rate": 7.6923076923076925
+      }
+    }
+  },
+  "OBJ-WK-001": {
+    "title": "Waiting on the Welcome Kit",
+    "total_messages": 66,
+    "full_conversions": 26,
+    "bgc_conversions": 39,
+    "full_conversion_rate": 39.39393939393939,
+    "bgc_conversion_rate": 59.09090909090909,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 10,
+        "full_conversion_rate": 60.0
+      },
+      "AnD": {
+        "count": 40,
+        "full_conversion_rate": 25.0
+      },
+      "UpF": {
+        "count": 16,
+        "full_conversion_rate": 62.5
+      }
+    }
+  },
+  "OBJ-NV-001": {
+    "title": "Nervous / Doesn't Know How to Use the App",
+    "total_messages": 28,
+    "full_conversions": 11,
+    "bgc_conversions": 18,
+    "full_conversion_rate": 39.285714285714285,
+    "bgc_conversion_rate": 64.28571428571429,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 14,
+        "full_conversion_rate": 35.714285714285715
+      },
+      "AnD": {
+        "count": 11,
+        "full_conversion_rate": 36.36363636363637
+      },
+      "UpF": {
+        "count": 3,
+        "full_conversion_rate": 66.66666666666666
+      }
+    }
+  },
+  "AI-EMP-001": {
+    "title": "AI-Generated Empathy Responses",
+    "total_messages": 15,
+    "full_conversions": 6,
+    "bgc_conversions": 9,
+    "full_conversion_rate": 40.0,
+    "bgc_conversion_rate": 60.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 12,
+        "full_conversion_rate": 41.66666666666667
+      },
+      "AnD": {
+        "count": 2,
+        "full_conversion_rate": 0.0
+      },
+      "UpF": {
+        "count": 1,
+        "full_conversion_rate": 100.0
+      }
+    }
+  },
+  "OBJ-SG-003": {
+    "title": "Starting/Wants to Dash",
+    "total_messages": 144,
+    "full_conversions": 52,
+    "bgc_conversions": 65,
+    "full_conversion_rate": 36.11111111111111,
+    "bgc_conversion_rate": 45.13888888888889,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 75,
+        "full_conversion_rate": 48.0
+      },
+      "AnD": {
+        "count": 23,
+        "full_conversion_rate": 30.434782608695656
+      },
+      "UpF": {
+        "count": 46,
+        "full_conversion_rate": 19.565217391304348
+      }
+    }
+  },
+  "OBJ-OT-001": {
+    "title": "Out of Town / Vacation",
+    "total_messages": 45,
+    "full_conversions": 10,
+    "bgc_conversions": 24,
+    "full_conversion_rate": 22.22222222222222,
+    "bgc_conversion_rate": 53.333333333333336,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 27,
+        "full_conversion_rate": 22.22222222222222
+      },
+      "AnD": {
+        "count": 15,
+        "full_conversion_rate": 20.0
+      },
+      "UpF": {
+        "count": 3,
+        "full_conversion_rate": 33.33333333333333
+      }
+    }
+  },
+  "HCP-SP-001": {
+    "title": "Social Proof Messages",
+    "total_messages": 6,
+    "full_conversions": 2,
+    "bgc_conversions": 4,
+    "full_conversion_rate": 33.33333333333333,
+    "bgc_conversion_rate": 66.66666666666666,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 5,
+        "full_conversion_rate": 20.0
+      },
+      "UpF": {
+        "count": 1,
+        "full_conversion_rate": 100.0
+      }
+    }
+  },
+  "AI-URG-001": {
+    "title": "AI Urgency with Support",
+    "total_messages": 13,
+    "full_conversions": 5,
+    "bgc_conversions": 7,
+    "full_conversion_rate": 38.46153846153847,
+    "bgc_conversion_rate": 53.84615384615385,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 9,
+        "full_conversion_rate": 44.44444444444444
+      },
+      "AnD": {
+        "count": 3,
+        "full_conversion_rate": 33.33333333333333
+      },
+      "UpF": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "OBJ-BC-001": {
+    "title": "OBJ-BC-001",
+    "total_messages": 206,
+    "full_conversions": 48,
+    "bgc_conversions": 119,
+    "full_conversion_rate": 23.300970873786408,
+    "bgc_conversion_rate": 57.76699029126213,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 5,
+        "full_conversion_rate": 60.0
+      },
+      "AnD": {
+        "count": 3,
+        "full_conversion_rate": 0.0
+      },
+      "UpF": {
+        "count": 198,
+        "full_conversion_rate": 22.727272727272727
+      }
+    }
+  },
+  "OBJ-NO-002": {
+    "title": "No Orders, Area is Slow",
+    "total_messages": 5,
+    "full_conversions": 0,
+    "bgc_conversions": 3,
+    "full_conversion_rate": 0.0,
+    "bgc_conversion_rate": 60.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 4,
+        "full_conversion_rate": 0.0
+      },
+      "AnD": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "AI-QUE-001": {
+    "title": "AI Question-Based Engagement",
+    "total_messages": 95,
+    "full_conversions": 15,
+    "bgc_conversions": 40,
+    "full_conversion_rate": 15.789473684210526,
+    "bgc_conversion_rate": 42.10526315789473,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 5,
+        "full_conversion_rate": 20.0
+      },
+      "AnD": {
+        "count": 2,
+        "full_conversion_rate": 0.0
+      },
+      "UpF": {
+        "count": 88,
+        "full_conversion_rate": 15.909090909090908
+      }
+    }
+  },
+  "HCP-WR-001": {
+    "title": "Weather-Responsive Messages",
+    "total_messages": 2,
+    "full_conversions": 2,
+    "bgc_conversions": 1,
+    "full_conversion_rate": 100.0,
+    "bgc_conversion_rate": 50.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2,
+        "full_conversion_rate": 100.0
+      }
+    }
+  },
+  "UNC-DP-001": {
+    "title": "Delivery Process Questions",
+    "total_messages": 1,
+    "full_conversions": 1,
+    "bgc_conversions": 1,
+    "full_conversion_rate": 100.0,
+    "bgc_conversion_rate": 100.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 1,
+        "full_conversion_rate": 100.0
+      }
+    }
+  },
+  "OBJ-SG-001": {
+    "title": "Scheduling",
+    "total_messages": 1,
+    "full_conversions": 0,
+    "bgc_conversions": 0,
+    "full_conversion_rate": 0.0,
+    "bgc_conversion_rate": 0.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "OBJ-SG-002": {
+    "title": "Already Dashed/Dashing",
+    "total_messages": 10,
+    "full_conversions": 7,
+    "bgc_conversions": 3,
+    "full_conversion_rate": 70.0,
+    "bgc_conversion_rate": 30.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 4,
+        "full_conversion_rate": 100.0
+      },
+      "AnD": {
+        "count": 5,
+        "full_conversion_rate": 40.0
+      },
+      "UpF": {
+        "count": 1,
+        "full_conversion_rate": 100.0
+      }
+    }
+  },
+  "OBJ-CP-001": {
+    "title": "Car Problems",
+    "total_messages": 5,
+    "full_conversions": 1,
+    "bgc_conversions": 4,
+    "full_conversion_rate": 20.0,
+    "bgc_conversion_rate": 80.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 4,
+        "full_conversion_rate": 25.0
+      },
+      "AnD": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "OBJ-SC-001": {
+    "title": "Sick / COVID",
+    "total_messages": 5,
+    "full_conversions": 3,
+    "bgc_conversions": 3,
+    "full_conversion_rate": 60.0,
+    "bgc_conversion_rate": 60.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2,
+        "full_conversion_rate": 50.0
+      },
+      "AnD": {
+        "count": 3,
+        "full_conversion_rate": 66.66666666666666
+      }
+    }
+  },
+  "OBJ-GS-001": {
+    "title": "Gas",
+    "total_messages": 2,
+    "full_conversions": 2,
+    "bgc_conversions": 2,
+    "full_conversion_rate": 100.0,
+    "bgc_conversion_rate": 100.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2,
+        "full_conversion_rate": 100.0
+      }
+    }
+  },
+  "UNC-GE-001": {
+    "title": "Generic Encouragement/Check-ins",
+    "total_messages": 118,
+    "full_conversions": 29,
+    "bgc_conversions": 61,
+    "full_conversion_rate": 24.576271186440678,
+    "bgc_conversion_rate": 51.69491525423729,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2,
+        "full_conversion_rate": 100.0
+      },
+      "AnD": {
+        "count": 44,
+        "full_conversion_rate": 22.727272727272727
+      },
+      "UpF": {
+        "count": 72,
+        "full_conversion_rate": 23.61111111111111
+      }
+    }
+  },
+  "UNC-LA-001": {
+    "title": "Login/Account Access",
+    "total_messages": 4,
+    "full_conversions": 1,
+    "bgc_conversions": 2,
+    "full_conversion_rate": 25.0,
+    "bgc_conversion_rate": 50.0,
+    "group_breakdown": {
+      "UpF": {
+        "count": 4,
+        "full_conversion_rate": 25.0
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+
+You are analyzing sales support chat messages sent to prospective Dashers in two different groups: "UpF" (Upfunnel) and "AnD" (Approved No Delivery). Each unique dasher is identified by the field "opportunity_uuid".
+
+You have two input files:
+1. "BGC_vs_AND_messages.csv" — contains chat messages, timestamps, direction, and conversion indicators such as "full_conversion".
+2. "response_instructions_data.json" — defines message categories (buckets) and instructions for how messages should be classified.
+
+Your goal is to produce a detailed written report that can be shared with a team.
+
+Your tasks:
+-----------------------------
+1. Determine Message Success
+- A message is considered successful if "full_conversion" is TRUE (meaning the dasher got on the road).
+- Report full conversion rates separately for AnD and UpF groups.
+
+2. Identify Root Cause Resolution
+- For each message, determine whether the response directly addresses the dasher’s underlying issue or question.
+- Use column ‘message’ content to make this determination.
+- Report the % of messages in each group that addressed the root issue.
+
+3. Categorize Conversations
+- Group conversations into thematic buckets based on their content.
+- Start by identifying your own custom buckets that describe the actual topics (e.g. “Background check delay,” “Login issues,” “No interest”).
+- Report how many messages fell into each of your custom buckets, for both UpF and AnD.
+
+4. Match Messages to Predefined Buckets
+- Use the rules in "response_instructions_data.json" to classify each message into a predefined bucket.
+- Report the % of messages from each group (UpF and AnD) that fall into each of these predefined buckets.
+- If fewer than 10% of messages fall into a bucket, note that the definitions may be too narrow.
+
+5. Provide Insights & Recommendations
+- Identify messaging patterns that appear to work well (e.g. empathy-forward responses, social proof, etc.)
+- Call out weaknesses (e.g. generic tone, missed objections, confusing instructions)
+- Offer 3–5 specific next steps for improving future outreach
+
+Output Format:
+-----------------------------
+Produce a detailed written report (.txt style) with the following sections:
+
+1. % of messages in each predefined bucket from the JSON - most important! 
+2. List of custom conversation themes (your own buckets)
+3. Summary of success and root resolution rates
+4. Comparison of tone and content effectiveness between AnD and UpF
+5. Specific recommendations to improve response strategy
+
+This report will be shared with a broader team, so write in natural language and include numeric insights and clear summaries. Your job is to produce a robust, insight-rich summary of message performance.
+
+
+Special Instruction:
+-----------------------------
+If the dataset includes a bucket labeled "AnD AI", treat it as a sub-group within the AnD group.
+- Report its success rate and root issue resolution separately.
+- Compare its performance to both the broader AnD group and to UpF.
+- Determine whether its message strategy appears more effective than non-AI responses.
+- Provide targeted recommendations based on its strengths and weaknesses.
+
+

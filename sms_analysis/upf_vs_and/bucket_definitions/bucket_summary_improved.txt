@@ -1,0 +1,112 @@
+IMPROVED DASHER MESSAGE CLASSIFICATION BUCKETS - QUICK REFERENCE
+================================================================
+
+This file contains 74 predefined buckets for classifying dasher messages based on identification phrases.
+NEW: Added 15 buckets based on analysis findings to capture 28.7% previously unclassified messages.
+
+MAJOR BUCKET CATEGORIES (UPDATED):
+----------------------------------
+
+BIKE DELIVERY ISSUES:
+- OBJ-BK-001: No Bike ("I don't have a bike", "saving up to buy a bike")
+- OBJ-BK-002: Bike Area Slow ("no orders on bike", "biked around with no orders")
+
+NO ORDERS / MARKET ISSUES (EXPANDED):
+- OBJ-NO-002: Area Slow ("drove for hours, no orders", "area is small/slow", "no orders coming in", "been waiting hours", "market is dead")
+- OBJ-NO-003: Dash Now Unavailable ("Dash Now grayed out", "app won't let me dash", "can't start dashing", "button won't work")
+
+PERSONAL CONSTRAINTS (EXPANDED):
+- OBJ-BS-001: Too Busy ("been busy lately", "juggling kids", "schedule packed", "don't have time", "working two jobs", "family obligations")
+- OBJ-CP-001: Car Problems ("car in shop", "having car trouble", "need repairs")
+- OBJ-GS-001: Gas Concerns ("no gas money", "gas expensive", "worried about fuel costs")
+
+EMPLOYMENT SITUATIONS:
+- OBJ-GJ-001: Got New Job ("found full-time job", "don't need DoorDash anymore")
+- OBJ-HS-001: Hours/Schedule ("what are the hours", "when can I work")
+- OBJ-MS-001: Money/Slow ("not making enough", "earnings too low")
+
+TECHNICAL/APP ISSUES (SPLIT INTO SPECIFIC CATEGORIES):
+- OBJ-AP-001: App Problems (general app issues)
+- TSI-AUTH-001: Login/Authentication Issues ("can't log in", "password problems", "2FA issues")
+- TSI-CRASH-001: App Crashes/Technical Bugs ("app keeps crashing", "freezing up", "won't load")
+- TSI-FEAT-001: Feature Unavailability ("feature not working", "option missing", "can't access")
+- OBJ-AL-001: Account Locked ("account suspended", "can't access account")
+
+BACKGROUND CHECK:
+- OBJ-BC-001: Background Check Delay ("background check taking long", "still pending")
+- OBJ-BC-002: Background Check Failed ("background check denied", "failed check")
+
+EQUIPMENT/DELIVERY (EXPANDED):
+- OBJ-EQ-001: Equipment Issues ("need hot bag", "missing red card", "equipment problems")
+- UNC-ER-001: Equipment/Red Card Issues ("red card declined", "hot bag not delivered", "when will I get equipment")
+- OBJ-DL-001: Delivery Concerns ("don't know how to deliver", "confused about process")
+- UNC-DP-001: Delivery Process Questions ("how do I complete delivery", "what if customer not home", "delivery instructions unclear")
+
+MARKET/AREA CONCERNS (EXPANDED):
+- OBJ-AR-001: Area Questions ("is my area good", "market concerns")
+- UNC-AM-001: Area Market Questions ("which zones are best", "busiest times in my area", "market analysis questions")
+- OBJ-ZO-001: Zone Issues ("wrong zone", "can't dash in my area")
+
+MOTIVATION/INTEREST:
+- OBJ-LI-001: Low Interest ("not interested anymore", "changed mind")
+- OBJ-NG-001: Not Getting Started ("haven't started yet", "procrastinating")
+
+SCHEDULING/AVAILABILITY (EXPANDED):
+- OBJ-SC-001: Scheduling Issues ("can't schedule", "no available slots")
+- UNC-SC-001: Scheduling Conflicts ("conflicting with work", "family schedule issues", "time management problems")
+- OBJ-AV-001: Availability ("when am I available", "time constraints")
+
+FINANCIAL CONCERNS (EXPANDED):
+- OBJ-FN-001: Financial Worries ("worried about expenses", "cost concerns")
+- UNC-PE-001: Payment/Earnings Concerns ("when do I get paid", "how much can I earn", "payment method questions")
+- OBJ-TX-001: Tax Questions ("tax implications", "1099 concerns")
+
+VEHICLE REQUIREMENTS:
+- OBJ-VH-001: Vehicle Issues ("don't have car", "vehicle requirements")
+- OBJ-IN-001: Insurance ("insurance questions", "coverage concerns")
+
+ACCESS/LOGIN ISSUES (NEW CATEGORY):
+- UNC-LA-001: Login/Account Access ("forgot password", "account locked out", "can't access dashboard")
+
+GENERIC COMMUNICATION (NEW CATEGORY):
+- UNC-GE-001: Generic Encouragement/Check-ins ("just checking in", "how's dashing going", "any questions")
+
+=== HIGH-PERFORMANCE MESSAGE TYPES (NEW) ===
+
+WEATHER-RESPONSIVE MESSAGES (52.1% conversion rate):
+- HCP-WR-001: Weather-Responsive Messages ("great weather for dashing", "rainy day means more orders", "weather-based encouragement")
+
+SOCIAL PROOF MESSAGES (100% conversion rate when used):
+- HCP-SP-001: Social Proof Messages ("other dashers in your area", "success stories", "peer examples")
+
+=== AnD AI SPECIFIC BUCKETS (58.1% conversion rate) ===
+
+AI-GENERATED RESPONSES:
+- AI-EMP-001: AI-Generated Empathy Responses ("I understand your situation", "that must be frustrating", "empathetic acknowledgment")
+- AI-QUE-001: AI Question-Based Engagement ("what's holding you back", "how can I help", "discovery questions")
+- AI-URG-001: AI Urgency with Support ("time-sensitive opportunity", "urgent but supportive", "deadline with help offered")
+
+CLASSIFICATION INSTRUCTIONS (UPDATED):
+-------------------------------------
+1. Match message content to identification phrases in each bucket
+2. Look for key words and phrases that indicate the dasher's concern
+3. Consider context - one message may fit multiple buckets, choose most specific
+4. NEW: Prioritize high-performance buckets (HCP, AI prefixes) when applicable
+5. NEW: Use expanded technical categories (TSI prefix) for better issue resolution
+6. If no clear match, classify as "OTHER" or "UNCLASSIFIED"
+7. Inbound vs Outbound messages may require different classification approaches
+
+EXPECTED DISTRIBUTION (UPDATED):
+-------------------------------
+Based on analysis findings, expect:
+- 15-20% in various NO ORDERS/MARKET buckets (expanded phrases should capture more)
+- 12-18% in PERSONAL CONSTRAINTS buckets (expanded identification)
+- 10-15% in TECHNICAL/APP issues (now split into specific categories)
+- 8-12% in BACKGROUND CHECK buckets
+- 8-12% in EQUIPMENT/DELIVERY buckets (now includes new UNC buckets)
+- 6-10% in NEW UNCLASSIFIED CAPTURE buckets (UNC prefix)
+- 3-8% in HIGH-PERFORMANCE buckets (HCP prefix)
+- 2-5% in AnD AI specific buckets (AI prefix)
+- <10% remaining unclassified (down from 28.7%)
+
+Total: 74 distinct buckets covering comprehensive dasher scenarios with improved granularity

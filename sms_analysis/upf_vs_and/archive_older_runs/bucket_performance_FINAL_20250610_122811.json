@@ -1,0 +1,92 @@
+{
+  "TSI-WN-001": {
+    "title": "Wrong Name on Account",
+    "total_messages": 7488,
+    "full_conversions": 1917,
+    "bgc_conversions": 3915,
+    "full_conversion_rate": 25.600961538461537,
+    "bgc_conversion_rate": 52.28365384615385,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2492,
+        "full_conversion_rate": 31.09951845906902
+      },
+      "AnD": {
+        "count": 2497,
+        "full_conversion_rate": 21.746095314377254
+      },
+      "UpF": {
+        "count": 2499,
+        "full_conversion_rate": 23.969587835134053
+      }
+    }
+  },
+  "OBJ-CP-001": {
+    "title": "Car Problems",
+    "total_messages": 5,
+    "full_conversions": 2,
+    "bgc_conversions": 3,
+    "full_conversion_rate": 40.0,
+    "bgc_conversion_rate": 60.0,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 4,
+        "full_conversion_rate": 50.0
+      },
+      "AnD": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "OBJ-SC-001": {
+    "title": "Sick / COVID",
+    "total_messages": 3,
+    "full_conversions": 1,
+    "bgc_conversions": 1,
+    "full_conversion_rate": 33.33333333333333,
+    "bgc_conversion_rate": 33.33333333333333,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2,
+        "full_conversion_rate": 50.0
+      },
+      "AnD": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "OBJ-BS-001": {
+    "title": "Busy",
+    "total_messages": 3,
+    "full_conversions": 1,
+    "bgc_conversions": 2,
+    "full_conversion_rate": 33.33333333333333,
+    "bgc_conversion_rate": 66.66666666666666,
+    "group_breakdown": {
+      "AnD AI": {
+        "count": 2,
+        "full_conversion_rate": 50.0
+      },
+      "AnD": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  },
+  "OBJ-SG-003": {
+    "title": "Starting/Wants to Dash",
+    "total_messages": 1,
+    "full_conversions": 0,
+    "bgc_conversions": 1,
+    "full_conversion_rate": 0.0,
+    "bgc_conversion_rate": 100.0,
+    "group_breakdown": {
+      "UpF": {
+        "count": 1,
+        "full_conversion_rate": 0.0
+      }
+    }
+  }
+}
