@@ -1,0 +1,1014 @@
+min_timestamp,tag_grouping,opportunity_uuid,message,direction,application_date_c,bgc_conversion_7d,full_conversion,task_row_count,total_task_count,bucket_production
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,I can text my license to you,Inbound,2025-03-20,True,True,3,17,OBJ-DL-001
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,I used 724.309.7372 for picture of license and photo. 724.309.2737 will be the number  I use,Inbound,2025-03-20,True,True,4,17,OBJ-DL-001
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,Tomorrow,Inbound,2025-03-20,True,True,5,17,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,Any chance to get the address offline,Inbound,2025-03-20,True,True,8,17,OBJ-LOC-001
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,I think I did,Inbound,2025-03-20,True,True,10,17,OBJ-DL-001
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,"No problem,  so far so good",Inbound,2025-03-20,True,True,11,17,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,"Should I throw the food away, it has been 20 minutes",Inbound,2025-03-20,True,True,13,17,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,Thank you,Inbound,2025-03-20,True,True,16,17,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,009f5a49-cc41-4a83-93c3-38e3d6b0931e,"Security on my phone, will not allow Google read and write access, .y other job insist I keep it that way",Inbound,2025-03-20,True,True,17,17,OBJ-GJ-001
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,Yes,Inbound,2025-02-05,,,1,21,UNCLASSIFIED
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,It won't let me,Inbound,2025-02-05,,,3,21,UNCLASSIFIED
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,The background check is saying my driver's license is invalid when it's not,Inbound,2025-02-05,,,5,21,OBJ-CP-001
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,It didn't work,Inbound,2025-02-05,,,6,21,OBJ-GJ-001
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,It didn't work,Inbound,2025-02-05,,,7,21,OBJ-GJ-001
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,I tried both,Inbound,2025-02-05,,,10,21,UNCLASSIFIED
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,Iphone,Inbound,2025-02-05,,,16,21,UNCLASSIFIED
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,It didn't work,Inbound,2025-02-05,,,17,21,OBJ-GJ-001
+2025-02-10 17:36:04.000000 UTC,UpF,00ae62c9-3f92-447f-87b4-4cd3dd3ed2b6,Yes,Inbound,2025-02-05,,,20,21,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,0127df2a-2126-46a5-915c-f3fb4d58f6d2,I'm just waiting to hear back,Inbound,2025-01-01,True,,2,8,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,0127df2a-2126-46a5-915c-f3fb4d58f6d2,I'm ready t9 finish the application,Inbound,2025-01-01,True,,4,8,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,0127df2a-2126-46a5-915c-f3fb4d58f6d2,I'm ready to doordash,Inbound,2025-01-01,True,,5,8,OBJ-NO-003
+2025-01-06 17:29:05.000000 UTC,UpF,01887753-74c5-4e92-bbca-c5909bf6ad2b,Yeah I have a copy of my license but not hard copy so can't take pic like app asks,Inbound,2025-01-02,,,3,7,OBJ-DL-001
+2025-01-06 17:29:05.000000 UTC,UpF,01887753-74c5-4e92-bbca-c5909bf6ad2b,Got license today now what,Inbound,2025-01-02,,,4,7,OBJ-DL-001
+2025-01-21 17:38:53.000000 UTC,UpF,01a7ae2e-f5ac-48c0-a491-a5abb2386d6d,nothing,Inbound,2025-01-15,True,True,1,7,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,01a7ae2e-f5ac-48c0-a491-a5abb2386d6d,No,Inbound,2025-01-15,True,True,4,7,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,01a7ae2e-f5ac-48c0-a491-a5abb2386d6d,I'll finish it,Inbound,2025-01-15,True,True,5,7,UNCLASSIFIED
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,how long does this take? it's been almost a week,Inbound,2025-01-24,True,True,1,20,UNCLASSIFIED
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,I'm just waiting for my identity to be verified,Inbound,2025-01-24,True,True,2,20,OBJ-DL-001
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,"i've tried looking at the app multiple times today and it still shows the same ""we're verifying your identity"" page",Inbound,2025-01-24,True,True,4,20,OBJ-BS-001
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,when will I be receiving that?,Inbound,2025-01-24,True,True,7,20,OBJ-SC-001
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,nothing was ever sent to me in my email and the app still says the same thing about verification,Inbound,2025-01-24,True,True,9,20,OBJ-SC-001
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,"I submitted it this weekend, how long does it take?",Inbound,2025-01-24,True,True,13,20,UNCLASSIFIED
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,okay thanks,Inbound,2025-01-24,True,True,18,20,UNCLASSIFIED
+2025-01-28 17:31:46.000000 UTC,UpF,01b3a6f7-7f1b-48fd-8053-f69e9e044906,im just confused by it saying 48 hours when its been days,Inbound,2025-01-24,True,True,19,20,UNCLASSIFIED
+2025-01-13 17:30:25.000000 UTC,UpF,01ba03fc-4bf2-42ef-b93a-cb306697f87c,I don't have an ID,Inbound,2025-01-08,True,False,3,3,OBJ-DL-001
+2025-05-09 16:28:02.000000 UTC,UpF,01bd567a-acea-494c-ac58-389166a7c330,I'm waiting on my id to come in the mail,Inbound,2025-04-29,,,3,3,OBJ-DL-001
+2025-04-18 16:40:29.000000 UTC,UpF,022cf740-cb1c-46ee-849a-11a252bbcf59,or what is it that i'm missing?,Inbound,2025-04-14,True,True,1,6,UNCLASSIFIED
+2025-04-18 16:40:29.000000 UTC,UpF,022cf740-cb1c-46ee-849a-11a252bbcf59,did i finish the application completely?,Inbound,2025-04-14,True,True,4,6,OBJ-DL-001
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,"Removed ‌👍‌ from "" Fields just keep disappearing
+I wanna go to a T-Mobile. """,Inbound,2025-03-14,True,False,1,17,UNCLASSIFIED
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,It's not recognizing my state or my driver's license number,Inbound,2025-03-14,True,False,4,17,OBJ-CP-001
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,Not yet,Inbound,2025-03-14,True,False,5,17,UNCLASSIFIED
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,Going to take my phone to T mobile store,Inbound,2025-03-14,True,False,7,17,UNCLASSIFIED
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,"Yes, I did",Inbound,2025-03-14,True,False,8,17,OBJ-DL-001
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,Okay 👍,Inbound,2025-03-14,True,False,9,17,UNCLASSIFIED
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,The fields I fill out keep disappearing,Inbound,2025-03-14,True,False,12,17,OBJ-SC-001
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,Yes 👍,Inbound,2025-03-14,True,False,13,17,UNCLASSIFIED
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,"Fields just keep disappearing
+I wanna go to a T-Mobile.",Inbound,2025-03-14,True,False,14,17,UNCLASSIFIED
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,"The fields I fill out, keep disappearing. When I put my birthdate in 02-09-1954
+It says i'm not over eighteen",Inbound,2025-03-14,True,False,15,17,OBJ-SC-001
+2025-03-17 16:38:23.000000 UTC,UpF,027ada29-5109-4aef-9158-3181675ec50d,"👍 to "" Fields just keep disappearing
+I wanna go to a T-Mobile. """,Inbound,2025-03-14,True,False,17,17,UNCLASSIFIED
+2025-01-21 17:36:11.000000 UTC,UpF,02ac9a6f-17c9-4d4d-887c-a501c954fcaf,"It keeps saying that I need to wait for verification of my identity. But with the endless emails about me completing my application and then me logging in every time just to be told to wait, not gonna lie, that's lame. So I went with uber instead.",Inbound,2025-01-18,,,4,5,OBJ-BS-001
+2025-01-07 17:36:42.000000 UTC,UpF,02ad9240-1a1c-4c6e-a8b4-73f5db34d592,With wi-fi,Inbound,2025-01-02,,,4,14,UNCLASSIFIED
+2025-01-07 17:36:42.000000 UTC,UpF,02ad9240-1a1c-4c6e-a8b4-73f5db34d592,iphone,Inbound,2025-01-02,,,6,14,UNCLASSIFIED
+2025-01-07 17:36:42.000000 UTC,UpF,02ad9240-1a1c-4c6e-a8b4-73f5db34d592,It's having problems verifying my identity for some reason,Inbound,2025-01-02,,,8,14,OBJ-DL-001
+2025-01-07 17:36:42.000000 UTC,UpF,02ad9240-1a1c-4c6e-a8b4-73f5db34d592,oh okay,Inbound,2025-01-02,,,9,14,UNCLASSIFIED
+2025-01-07 17:36:42.000000 UTC,UpF,02ad9240-1a1c-4c6e-a8b4-73f5db34d592,do i need to keep the app open while it verifies my identity? it's still taking a while,Inbound,2025-01-02,,,10,14,OBJ-DL-001
+2025-01-07 17:36:42.000000 UTC,UpF,02ad9240-1a1c-4c6e-a8b4-73f5db34d592,okay,Inbound,2025-01-02,,,12,14,UNCLASSIFIED
+2025-03-21 17:06:58.000000 UTC,UpF,02d0a751-24c4-4900-b72e-5362df5b27e1,My background still hasn't came back yet,Inbound,2025-03-17,True,True,2,8,OBJ-SC-001
+2025-03-21 17:06:58.000000 UTC,UpF,02d0a751-24c4-4900-b72e-5362df5b27e1,Yes I'm waiting on you guys now,Inbound,2025-03-17,True,True,3,8,UNCLASSIFIED
+2025-03-21 17:06:58.000000 UTC,UpF,02d0a751-24c4-4900-b72e-5362df5b27e1,The app is not letting me verify my self,Inbound,2025-03-17,True,True,5,8,TSI-2S-001
+2025-01-13 17:30:25.000000 UTC,UpF,02f1b191-2858-4940-ab61-f0336cdfb58f,Hello,Inbound,2025-01-08,,,3,6,UNCLASSIFIED
+2025-01-13 17:30:25.000000 UTC,UpF,02f1b191-2858-4940-ab61-f0336cdfb58f,I can do the id verification to prove it's me,Inbound,2025-01-08,,,5,6,OBJ-DL-001
+2025-01-13 17:30:25.000000 UTC,UpF,02f1b191-2858-4940-ab61-f0336cdfb58f,I did have a DoorDash with another email but it was a friends email until I fixed mine it ended up suspending my account the other day though,Inbound,2025-01-08,,,6,6,OBJ-NO-003
+2025-02-07 17:31:09.000000 UTC,UpF,02fb29de-d07e-4357-8a1e-ae9ec813d495,Pueden llamarme y ayudarme,Inbound,2025-02-04,,,1,3,UNCLASSIFIED
+2025-02-03 17:42:37.000000 UTC,UpF,042a411d-7ba7-41aa-a05e-c704a48507c4,I thought I finished it.  I was just waiting for them to get back to me.,Inbound,2025-01-31,True,,2,3,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,043cf949-5fa0-4c20-9d36-c6050e4d0acd,I can't get my profile picture captured.,Inbound,2025-01-13,,,1,4,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,043cf949-5fa0-4c20-9d36-c6050e4d0acd,Yes,Inbound,2025-01-13,,,3,4,UNCLASSIFIED
+2025-02-28 17:30:09.000000 UTC,UpF,04693cae-7eb2-4b62-ba01-39d69f1a7273,yea iam not 18,Inbound,2025-02-23,,,1,3,UNCLASSIFIED
+2025-03-25 16:33:37.000000 UTC,UpF,04a8540a-f5d2-4bed-bc24-3bd30bac5e32,I was having a problem with allowing door dash access to my camera so I can upload my drivers license.,Inbound,2025-03-22,,,2,7,OBJ-NO-003
+2025-03-25 16:33:37.000000 UTC,UpF,04a8540a-f5d2-4bed-bc24-3bd30bac5e32,,Inbound,2025-03-22,,,3,7,UNCLASSIFIED
+2025-02-13 19:23:12.000000 UTC,UpF,04dcc44b-3918-4b74-878d-842374ff334b,"Yes, I did",Inbound,2025-02-10,True,True,8,11,OBJ-DL-001
+2025-02-13 19:23:12.000000 UTC,UpF,04dcc44b-3918-4b74-878d-842374ff334b,Hello,Inbound,2025-02-10,True,True,10,11,UNCLASSIFIED
+2025-02-13 19:23:12.000000 UTC,UpF,04dcc44b-3918-4b74-878d-842374ff334b,Tomorrow,Inbound,2025-02-10,True,True,11,11,UNCLASSIFIED
+2025-02-25 17:24:40.000000 UTC,UpF,04eba03e-a48f-4c18-810e-3a69aa1118a3,Unfortunately I can't last night. But I'll try do some tonight.,Inbound,2025-02-20,True,True,1,16,UNCLASSIFIED
+2025-02-25 17:24:40.000000 UTC,UpF,04eba03e-a48f-4c18-810e-3a69aa1118a3,"Hello! 
+
+I just went to American Deli and they canceled on my client's order. I have no idea what to do. So I unassigned myself to report the issue. How can I do this without affecting my completion %",Inbound,2025-02-20,True,True,2,16,OBJ-DL-001
+2025-02-25 17:24:40.000000 UTC,UpF,04eba03e-a48f-4c18-810e-3a69aa1118a3,Yes I was able to do both! Thank you for your help!,Inbound,2025-02-20,True,True,5,16,UNCLASSIFIED
+2025-02-25 17:24:40.000000 UTC,UpF,04eba03e-a48f-4c18-810e-3a69aa1118a3,I've been waiting to hear from DoorDash,Inbound,2025-02-20,True,True,9,16,OBJ-NO-003
+2025-02-25 17:24:40.000000 UTC,UpF,04eba03e-a48f-4c18-810e-3a69aa1118a3,,Inbound,2025-02-20,True,True,14,16,UNCLASSIFIED
+2025-02-25 17:24:40.000000 UTC,UpF,04eba03e-a48f-4c18-810e-3a69aa1118a3,"Oh yes! I am planning to do it this weekend. I work during the week and it's have been so busy. 
+
+I apologize for not replying back much sooner.",Inbound,2025-02-20,True,True,15,16,OBJ-BS-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,No. It's not do you want a picture of what I see,Inbound,2025-01-06,,,1,25,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,Yes there is something holding it back I'm still waiting on the identity verification,Inbound,2025-01-06,,,2,25,OBJ-DL-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,I even called and they basically said they can't do nothing,Inbound,2025-01-06,,,5,25,OBJ-DL-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,I tried but it didn't work,Inbound,2025-01-06,,,6,25,OBJ-GJ-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,Just waiting for the identity verification,Inbound,2025-01-06,,,10,25,OBJ-DL-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,I've done all of that it's been like 72 hours or more now. All I want to do is be able to work,Inbound,2025-01-06,,,12,25,OBJ-GJ-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,Hours,Inbound,2025-01-06,,,13,25,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,Yes correct but it's still saying 24-48,Inbound,2025-01-06,,,15,25,OBJ-SC-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,That makes no sense because it's been more them 48 hours,Inbound,2025-01-06,,,16,25,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,What should I do it's still not working it's still showing the identity verification,Inbound,2025-01-06,,,17,25,OBJ-GJ-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,It still says 24-48 hours,Inbound,2025-01-06,,,18,25,OBJ-SC-001
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,I am calling them right now,Inbound,2025-01-06,,,19,25,UNCLASSIFIED
+2025-01-09 17:24:24.000000 UTC,UpF,04fcc46f-176a-4f96-8c59-d15b36e275af,Yes it still says 24-48 hours and it's been more that now.,Inbound,2025-01-06,,,21,25,OBJ-SC-001
+2025-01-29 17:34:22.000000 UTC,UpF,05471a7a-547c-436d-a72b-5d027c635f2a,"Liked ""Got it. If you login again and stay on the 24-48 v...""",Inbound,2025-01-26,True,True,2,16,TSI-LI-001
+2025-01-29 17:34:22.000000 UTC,UpF,05471a7a-547c-436d-a72b-5d027c635f2a,Yes I did. Still waiting on an email from DoorDash to verify my identity,Inbound,2025-01-26,True,True,6,16,OBJ-NO-003
+2025-01-29 17:34:22.000000 UTC,UpF,05471a7a-547c-436d-a72b-5d027c635f2a,Only thing is I live in Tennessee but still have a Florida drivers license,Inbound,2025-01-26,True,True,9,16,OBJ-CP-001
+2025-01-29 17:34:22.000000 UTC,UpF,05471a7a-547c-436d-a72b-5d027c635f2a,"Liked ""Not a problem, you can still use a DL from another...""",Inbound,2025-01-26,True,True,10,16,OBJ-SC-001
+2025-01-29 17:34:22.000000 UTC,UpF,05471a7a-547c-436d-a72b-5d027c635f2a,O nice yup I'm 30. Should have some free time later on today,Inbound,2025-01-26,True,True,12,16,OBJ-BS-001
+2025-01-29 17:34:22.000000 UTC,UpF,05471a7a-547c-436d-a72b-5d027c635f2a,Hey yes I did and I am in the system. Doing my first run tomorrow afternoon/evening,Inbound,2025-01-26,True,True,16,16,OBJ-DL-001
+2025-03-04 17:39:21.000000 UTC,UpF,058e017c-a1a4-4278-902d-07b4d3648325,Hi Alex. I finished the application,Inbound,2025-03-01,True,True,2,4,UNCLASSIFIED
+2025-02-28 17:30:09.000000 UTC,UpF,07028b4c-57b5-4df7-b6bc-76e23f4559cd,Thanks!,Inbound,2025-02-23,,,1,4,UNCLASSIFIED
+2025-02-28 17:30:09.000000 UTC,UpF,07028b4c-57b5-4df7-b6bc-76e23f4559cd,I have decided not to apply. Thank you please cancel the request,Inbound,2025-02-23,,,4,4,OBJ-DL-001
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,ok im in now thanks for the assistance,Inbound,2025-02-08,True,True,1,15,UNCLASSIFIED
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,im getting an order at wingstop since im nearby,Inbound,2025-02-08,True,True,3,15,UNCLASSIFIED
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,im ready to become a dasher !,Inbound,2025-02-08,True,True,10,15,OBJ-NO-003
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,i already finished the background check im in the dasher app now,Inbound,2025-02-08,True,True,11,15,OBJ-NO-003
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,thanks for the help,Inbound,2025-02-08,True,True,13,15,UNCLASSIFIED
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,ok gotchu ima try it soon,Inbound,2025-02-08,True,True,14,15,UNCLASSIFIED
+2025-02-11 17:34:18.000000 UTC,UpF,0793204b-19e4-449c-8768-2c2eac313388,I was stuck onna white screen after submitting my drivers license on the app,Inbound,2025-02-08,True,True,15,15,OBJ-CP-001
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,I was like this,Inbound,2025-03-31,True,True,1,22,UNCLASSIFIED
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,But I don't have a car,Inbound,2025-03-31,True,True,2,22,OBJ-CP-001
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,Okay,Inbound,2025-03-31,True,True,4,22,UNCLASSIFIED
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,Okay,Inbound,2025-03-31,True,True,5,22,UNCLASSIFIED
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,I can't do it today but hopefully tomorrow,Inbound,2025-03-31,True,True,11,22,UNCLASSIFIED
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,I aredy did it,Inbound,2025-03-31,True,True,12,22,OBJ-DL-001
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,I probably do I check,Inbound,2025-03-31,True,True,16,22,TSI-BC-001
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,The thing it's I don't have a car,Inbound,2025-03-31,True,True,18,22,OBJ-CP-001
+2025-04-03 16:32:14.000000 UTC,UpF,07b5e0b3-7588-47f7-a4ef-17f8ee71aa12,Hello,Inbound,2025-03-31,True,True,20,22,UNCLASSIFIED
+2025-02-06 18:02:49.000000 UTC,UpF,0818277f-25a5-44a4-990a-b3abf0813c31,As soon as possible,Inbound,2025-02-03,True,,1,10,UNCLASSIFIED
+2025-02-06 18:02:49.000000 UTC,UpF,0818277f-25a5-44a4-990a-b3abf0813c31,DoorDash said my process should take 24-48 hours to process,Inbound,2025-02-03,True,,3,10,OBJ-NO-003
+2025-02-06 18:02:49.000000 UTC,UpF,0818277f-25a5-44a4-990a-b3abf0813c31,Hi! I believe I have an old account door dashing I had signed into with my email. It said still pending background check months later so I started this new one. Sorry I haven't had time to upload my new drivers license to the new account which I will upload right now,Inbound,2025-02-03,True,,4,10,OBJ-NO-003
+2025-02-06 18:02:49.000000 UTC,UpF,0818277f-25a5-44a4-990a-b3abf0813c31,Thank you,Inbound,2025-02-03,True,,6,10,UNCLASSIFIED
+2025-02-06 18:02:49.000000 UTC,UpF,0818277f-25a5-44a4-990a-b3abf0813c31,I turned the background check in!,Inbound,2025-02-03,True,,7,10,TSI-BC-001
+2025-02-06 18:02:49.000000 UTC,UpF,0818277f-25a5-44a4-990a-b3abf0813c31,"Hello, my review status was rejected. I told them I for a new number and email and license and I wasn't able to go into the old account and change anything bc it's still waiting for a background check months later! I've had this new number for over 4 months now and the old number to that account is no longer in my position. The number for the old account ends im 7824. I also had a South Dakota license. My current number ends in 9630 and I now have a North Dakota drivers license",Inbound,2025-02-03,True,,9,10,OBJ-CP-001
+2025-02-06 17:56:48.000000 UTC,UpF,08716d6c-c4aa-493c-bc4a-baef0164e449,Send me a new phone with iOS 17...,Inbound,2025-02-03,,,1,7,UNCLASSIFIED
+2025-02-06 17:56:48.000000 UTC,UpF,08716d6c-c4aa-493c-bc4a-baef0164e449,"I'm out, but thanks anyway.",Inbound,2025-02-03,,,5,7,UNCLASSIFIED
+2025-05-30 16:26:21.000000 UTC,UpF,08b954eb-33fd-43e8-9ef7-26d44b796662,It just takes me to a black screen,Inbound,2025-05-26,,,4,11,TSI-WS-001
+2025-05-30 16:26:21.000000 UTC,UpF,08b954eb-33fd-43e8-9ef7-26d44b796662,No I can,Inbound,2025-05-26,,,6,11,UNCLASSIFIED
+2025-05-30 16:26:21.000000 UTC,UpF,08b954eb-33fd-43e8-9ef7-26d44b796662,How do I do that?,Inbound,2025-05-26,,,10,11,UNCLASSIFIED
+2025-01-07 17:34:08.000000 UTC,UpF,08de9b30-6b96-405f-ae52-b432d2d06d4a,,Inbound,2025-01-04,,,3,4,UNCLASSIFIED
+2025-01-07 17:34:08.000000 UTC,UpF,08de9b30-6b96-405f-ae52-b432d2d06d4a,It has been stuck on this screen after i scan my id,Inbound,2025-01-04,,,4,4,OBJ-DL-001
+2025-05-27 16:29:16.000000 UTC,UpF,08ed0047-ca1c-4aae-9994-06404d49a52e,hi alex my doordash account not working,Inbound,2025-05-15,,,1,8,OBJ-NO-003
+2025-05-27 16:29:16.000000 UTC,UpF,08ed0047-ca1c-4aae-9994-06404d49a52e,saying my completion not working right now,Inbound,2025-05-15,,,5,8,OBJ-GJ-001
+2025-05-27 16:29:16.000000 UTC,UpF,08ed0047-ca1c-4aae-9994-06404d49a52e,i aint sign up im already a dasher it says my account has been deactivated,Inbound,2025-05-15,,,7,8,OBJ-NO-003
+2025-05-09 16:33:36.000000 UTC,UpF,0938597d-1d6d-4e69-bed4-c5caf749fbee,I will try that right now,Inbound,2025-04-30,True,,2,15,OBJ-SC-001
+2025-05-09 16:33:36.000000 UTC,UpF,0938597d-1d6d-4e69-bed4-c5caf749fbee,Still haven't been able to finish it,Inbound,2025-04-30,True,,5,15,OBJ-SC-001
+2025-05-09 16:33:36.000000 UTC,UpF,0938597d-1d6d-4e69-bed4-c5caf749fbee,,Inbound,2025-04-30,True,,6,15,UNCLASSIFIED
+2025-05-09 16:33:36.000000 UTC,UpF,0938597d-1d6d-4e69-bed4-c5caf749fbee,No not having any luck with it,Inbound,2025-04-30,True,,11,15,UNCLASSIFIED
+2025-05-09 16:33:36.000000 UTC,UpF,0938597d-1d6d-4e69-bed4-c5caf749fbee,Tried that it still doesn't work,Inbound,2025-04-30,True,,14,15,OBJ-GJ-001
+2025-05-09 16:33:36.000000 UTC,UpF,0938597d-1d6d-4e69-bed4-c5caf749fbee,Alex i have tried everything and cannot get my camera to take the selfie,Inbound,2025-04-30,True,,15,15,UNCLASSIFIED
+2025-05-08 16:32:56.000000 UTC,UpF,098de8f9-ea91-4af2-870f-c4b7539966b6,I thought it was done,Inbound,2025-04-29,,,3,4,UNCLASSIFIED
+2025-01-29 17:36:18.000000 UTC,UpF,09be8a12-86d6-4aee-93d0-fabbb4bc0e32,i'm only 17 but i've been driving for about 3 years now,Inbound,2025-01-25,,,1,4,OBJ-CP-001
+2025-01-29 17:36:18.000000 UTC,UpF,09be8a12-86d6-4aee-93d0-fabbb4bc0e32,i didn't know you had to be 18,Inbound,2025-01-25,,,3,4,OBJ-DL-001
+2025-04-21 16:26:25.000000 UTC,UpF,0a16594b-95f3-4f44-a459-69b5ebd7dc50,STOP,Inbound,2025-04-15,,,2,3,UNCLASSIFIED
+2025-01-10 17:21:44.000000 UTC,UpF,0a41ae6e-95d6-44e1-8417-49fcb269c6cf,"Hello, thank you, my account has already been opened.",Inbound,2025-01-06,,,5,5,TSI-BI-001
+2025-05-27 16:29:16.000000 UTC,UpF,0a5ba01d-7e4a-4661-8461-267d83c472c9,It's not letting me access my camera,Inbound,2025-05-13,,,3,10,UNCLASSIFIED
+2025-05-27 16:29:16.000000 UTC,UpF,0a5ba01d-7e4a-4661-8461-267d83c472c9,Not working is there anything else I can do,Inbound,2025-05-13,,,4,10,OBJ-GJ-001
+2025-05-27 16:29:16.000000 UTC,UpF,0a5ba01d-7e4a-4661-8461-267d83c472c9,My identity picture,Inbound,2025-05-13,,,9,10,OBJ-DL-001
+2025-05-27 16:29:16.000000 UTC,UpF,0a5ba01d-7e4a-4661-8461-267d83c472c9,Yes I would like to finish,Inbound,2025-05-13,,,10,10,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,0a8d84bf-243b-48bf-80d2-17828bcf7935,I applied and was verified within the day so it was quick to get started,Inbound,2025-03-19,,,1,8,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,0a8d84bf-243b-48bf-80d2-17828bcf7935,Can you actually cancel my application?,Inbound,2025-03-19,,,5,8,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,0a8d84bf-243b-48bf-80d2-17828bcf7935,"I have actually decided to just stick with UberEats, but thank you for reaching out!",Inbound,2025-03-19,,,7,8,OBJ-DL-001
+2025-04-18 16:40:44.000000 UTC,UpF,0aba51d0-966f-465b-b957-04639ff12171,I'll finish it today,Inbound,2025-04-15,True,,1,3,UNCLASSIFIED
+2025-05-16 17:51:49.000000 UTC,UpF,0ac91a0a-9f23-42e6-bc21-1a1cb22c035e,No. The will log into the app to finish it,Inbound,2025-05-07,True,,4,11,OBJ-SC-001
+2025-05-16 17:51:49.000000 UTC,UpF,0ac91a0a-9f23-42e6-bc21-1a1cb22c035e,This evening,Inbound,2025-05-07,True,,10,11,UNCLASSIFIED
+2025-02-13 19:17:09.000000 UTC,UpF,0bde18a1-d679-4c3b-99e1-0386c203e44d,No there's not what do I need to do to finish,Inbound,2025-02-10,True,,2,4,UNCLASSIFIED
+2025-01-16 20:23:49.000000 UTC,UpF,0c3c5c26-df19-45ec-aed3-e9aab775467f,I was able to finish my registration,Inbound,2025-01-13,True,True,1,7,UNCLASSIFIED
+2025-01-16 20:23:49.000000 UTC,UpF,0c3c5c26-df19-45ec-aed3-e9aab775467f,STOP,Inbound,2025-01-13,True,True,5,7,UNCLASSIFIED
+2025-01-16 20:23:49.000000 UTC,UpF,0c3c5c26-df19-45ec-aed3-e9aab775467f,I haven't received an email to continue. The app told me my identity is being verified.,Inbound,2025-01-13,True,True,6,7,OBJ-DL-001
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,I'm trying to log in but it won't let me retrieve my account bc my license was expired but I have an up to date one,Inbound,2025-03-10,,,2,14,OBJ-DL-001
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,Thank you for helping me,Inbound,2025-03-10,,,6,14,UNCLASSIFIED
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,Maybe gfolse1985@gmail.com,Inbound,2025-03-10,,,7,14,UNCLASSIFIED
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,It says it can't verify my identity,Inbound,2025-03-10,,,9,14,OBJ-DL-001
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,Nope,Inbound,2025-03-10,,,11,14,UNCLASSIFIED
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,Okay it's okay,Inbound,2025-03-10,,,12,14,UNCLASSIFIED
+2025-03-13 16:27:15.000000 UTC,UpF,0c85cc80-a239-44bd-a5b4-b47e21ce735c,The email is supposed to be gfolse85@gmail.com,Inbound,2025-03-10,,,14,14,UNCLASSIFIED
+2025-04-29 16:45:21.000000 UTC,UpF,0ca0a986-176f-4d44-8f0e-d5edae06a640,No I am just waiting on my background cheak,Inbound,2025-04-24,,,3,5,TSI-BC-001
+2025-04-14 16:46:08.000000 UTC,UpF,0db7bbf9-13da-443b-8a3e-0e4768a1e1bd,Okay thanks! I just have a couple of questions. So I'm 17 and a junior in high school. Is there a certain age? I have a provisional license does that work?,Inbound,2025-04-10,,,1,6,OBJ-GJ-001
+2025-04-14 16:46:08.000000 UTC,UpF,0db7bbf9-13da-443b-8a3e-0e4768a1e1bd,Hey Alex! Thanks for the update. I'm busy at the moment.  I was hoping to start in the summer?,Inbound,2025-04-10,,,2,6,OBJ-BS-001
+2025-04-14 16:46:08.000000 UTC,UpF,0db7bbf9-13da-443b-8a3e-0e4768a1e1bd,"I'm Driving
+
+- Sent from My Car",Inbound,2025-04-10,,,6,6,OBJ-CP-001
+2025-04-01 16:36:37.000000 UTC,UpF,0e14994a-c882-443f-804d-4c64adf49dbc,Yes what do I have to do,Inbound,2025-03-29,,,2,5,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,0ea62ea4-e9c6-4d78-ab52-6955a0e9ac21,Yes. Very much ☝🏽🙏🏾🤙🏿,Inbound,2025-02-27,,,2,6,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,0ea62ea4-e9c6-4d78-ab52-6955a0e9ac21,"I'm not good on computers and phones. I'm much better than I use to be, but every time I try to send it to you it don't get to you all.",Inbound,2025-02-27,,,4,6,OBJ-BS-001
+2025-03-04 17:41:12.000000 UTC,UpF,0ea62ea4-e9c6-4d78-ab52-6955a0e9ac21,When will you be available?,Inbound,2025-02-27,,,5,6,OBJ-SC-001
+2025-05-19 16:31:20.000000 UTC,UpF,0eba23c8-2294-403d-8661-a389a0cc646c,"No, i hate driving, thank you anyway",Inbound,2025-05-08,,,1,4,OBJ-CP-001
+2025-05-19 16:31:20.000000 UTC,UpF,0eba23c8-2294-403d-8661-a389a0cc646c,"No thank you, I downloaded that in error",Inbound,2025-05-08,,,3,4,TSI-CV-001
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,It wouldn't let me finish,Inbound,2025-01-04,True,,1,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Help,Inbound,2025-01-04,True,,2,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Nothing happen,Inbound,2025-01-04,True,,4,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Hello,Inbound,2025-01-04,True,,5,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,It's stuck here,Inbound,2025-01-04,True,,7,26,TSI-CB-001
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Yes I do,Inbound,2025-01-04,True,,8,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Why I can't dash,Inbound,2025-01-04,True,,9,26,OBJ-NO-003
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,There waiting for my back round,Inbound,2025-01-04,True,,10,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,When will my back round check be done,Inbound,2025-01-04,True,,11,26,OBJ-SC-001
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Ard,Inbound,2025-01-04,True,,14,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Hello,Inbound,2025-01-04,True,,15,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Yes,Inbound,2025-01-04,True,,17,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,I need hep,Inbound,2025-01-04,True,,19,26,UNCLASSIFIED
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,I did,Inbound,2025-01-04,True,,22,26,OBJ-DL-001
+2025-01-07 17:32:38.000000 UTC,UpF,0f211033-1587-4aa6-99da-e180124f8889,Ok,Inbound,2025-01-04,True,,23,26,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,0f68ee01-ca76-4d9f-9a85-3526ba8889f2,Yes if I need it I'll apply again,Inbound,2024-12-30,,,4,10,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,0f68ee01-ca76-4d9f-9a85-3526ba8889f2,I'm no longer interested but thank you,Inbound,2024-12-30,,,5,10,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,0f68ee01-ca76-4d9f-9a85-3526ba8889f2,No. I'm just undecided about it now,Inbound,2024-12-30,,,6,10,OBJ-DL-001
+2025-01-02 17:26:50.000000 UTC,UpF,0f68ee01-ca76-4d9f-9a85-3526ba8889f2,I found something else,Inbound,2024-12-30,,,7,10,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,0f68ee01-ca76-4d9f-9a85-3526ba8889f2,Needed some fast cash but I don't think that I'm up to it anymore especially since the weather turned colder,Inbound,2024-12-30,,,10,10,OBJ-WE-001
+2025-01-14 17:21:29.000000 UTC,UpF,0fc397d8-4a93-4089-a16f-83d106f9108f,Sorry just saw this I will work on gettting the picture uploaded tonight,Inbound,2025-01-11,True,True,4,8,OBJ-GJ-001
+2025-01-14 17:21:29.000000 UTC,UpF,0fc397d8-4a93-4089-a16f-83d106f9108f,No just needing to take a pic of my drivers license I didn't have it on me at the time,Inbound,2025-01-11,True,True,5,8,OBJ-BS-001
+2025-01-14 17:21:29.000000 UTC,UpF,0fc397d8-4a93-4089-a16f-83d106f9108f,I sent it in but it's not verifying,Inbound,2025-01-11,True,True,7,8,TSI-2S-001
+2025-01-30 17:31:17.000000 UTC,UpF,0fe9d89d-889d-458f-9161-e056814dcdc7,"Hi Alex, I'm just trying to set up my account. The first time I tried they said they couldn't confirm my identity, so I tried again. Is there something I did wrong?",Inbound,2025-01-24,,,2,4,OBJ-BS-001
+2025-01-03 17:22:04.000000 UTC,UpF,1054a21a-2503-422d-9d31-23f60905eb18,You guys will not finish my background check for me to start dashing,Inbound,2024-12-19,True,,4,5,OBJ-NO-003
+2025-01-03 17:22:04.000000 UTC,UpF,1054a21a-2503-422d-9d31-23f60905eb18,I may have accidentally but I just would like one account to dash from,Inbound,2024-12-19,True,,5,5,OBJ-NO-003
+2025-01-22 18:48:49.000000 UTC,UpF,10580c61-1666-4f0f-ab23-ff622e563a34,It says no driver jobs available,Inbound,2025-01-19,True,True,2,5,OBJ-CP-001
+2025-01-22 18:48:49.000000 UTC,UpF,10580c61-1666-4f0f-ab23-ff622e563a34,Thank you so much setting a reminder now,Inbound,2025-01-19,True,True,3,5,UNCLASSIFIED
+2025-02-17 17:21:55.000000 UTC,UpF,10f22644-03e3-4259-bda8-2ca5f180c71b,I need my number changed,Inbound,2025-02-12,True,True,2,4,UNCLASSIFIED
+2025-02-17 17:21:55.000000 UTC,UpF,10f22644-03e3-4259-bda8-2ca5f180c71b,Hello,Inbound,2025-02-12,True,True,3,4,UNCLASSIFIED
+2025-01-06 17:30:16.000000 UTC,UpF,11611d6e-5cd6-431d-aae2-1024c64f1a81,Hi alex,Inbound,2025-01-03,True,False,1,6,UNCLASSIFIED
+2025-01-06 17:30:16.000000 UTC,UpF,11611d6e-5cd6-431d-aae2-1024c64f1a81,"Hi alex, nice to meet you!",Inbound,2025-01-03,True,False,2,6,UNCLASSIFIED
+2025-01-06 17:30:16.000000 UTC,UpF,11611d6e-5cd6-431d-aae2-1024c64f1a81,"Sorry, but I just got my driver's license.",Inbound,2025-01-03,True,False,3,6,OBJ-CP-001
+2025-01-16 20:25:58.000000 UTC,UpF,117a4979-f97a-4eb8-81d6-b49bededf9f4,It doesn't take my drivers license,Inbound,2025-01-13,,,1,11,OBJ-CP-001
+2025-01-16 20:25:58.000000 UTC,UpF,117a4979-f97a-4eb8-81d6-b49bededf9f4,To finish the process,Inbound,2025-01-13,,,3,11,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,117a4979-f97a-4eb8-81d6-b49bededf9f4,It doesn't let me register,Inbound,2025-01-13,,,7,11,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,117a4979-f97a-4eb8-81d6-b49bededf9f4,Yes I am,Inbound,2025-01-13,,,9,11,UNCLASSIFIED
+2025-01-24 17:21:38.000000 UTC,UpF,11f0b419-cdeb-4415-8e63-e84394dde711,These options did not work,Inbound,2025-01-19,True,,1,8,OBJ-GJ-001
+2025-01-24 17:21:38.000000 UTC,UpF,11f0b419-cdeb-4415-8e63-e84394dde711,"That worked thank you.
+But now it keeps popping up as having 2 accounts and I never made 1",Inbound,2025-01-19,True,,4,8,OBJ-GJ-001
+2025-01-24 17:21:38.000000 UTC,UpF,11f0b419-cdeb-4415-8e63-e84394dde711,"Yes, it will not accept my driver license number says it is not a Michigan number",Inbound,2025-01-19,True,,8,8,OBJ-CP-001
+2025-05-21 16:24:50.000000 UTC,UpF,122f85bf-b02d-42c2-bba5-0f01da9aa55f,No,Inbound,2025-05-12,,,1,9,UNCLASSIFIED
+2025-05-21 16:24:50.000000 UTC,UpF,122f85bf-b02d-42c2-bba5-0f01da9aa55f,I have paper copy so it won't register my license,Inbound,2025-05-12,,,2,9,OBJ-DL-001
+2025-05-21 16:24:50.000000 UTC,UpF,122f85bf-b02d-42c2-bba5-0f01da9aa55f,Hopefully by next week,Inbound,2025-05-12,,,3,9,UNCLASSIFIED
+2025-05-21 16:24:50.000000 UTC,UpF,122f85bf-b02d-42c2-bba5-0f01da9aa55f,Ok,Inbound,2025-05-12,,,7,9,UNCLASSIFIED
+2025-01-21 17:32:36.000000 UTC,UpF,1256e9ac-8a29-4dba-9c6f-1cbbefeb9587,Yes,Inbound,2025-01-17,,,1,8,UNCLASSIFIED
+2025-01-21 17:32:36.000000 UTC,UpF,1256e9ac-8a29-4dba-9c6f-1cbbefeb9587,It told me too many drivers in Pecos,Inbound,2025-01-17,,,5,8,OBJ-CP-001
+2025-01-21 17:32:36.000000 UTC,UpF,1256e9ac-8a29-4dba-9c6f-1cbbefeb9587,Is it open now,Inbound,2025-01-17,,,6,8,UNCLASSIFIED
+2025-03-11 16:31:37.000000 UTC,UpF,126f0084-79ae-4ffb-b01c-91155ccf639c,No. I recently got scammed,Inbound,2025-03-05,True,,1,3,OBJ-SG-005
+2025-04-01 16:36:21.000000 UTC,UpF,127fd329-5294-470e-aaf5-c67d987d686e,STOP,Inbound,2025-03-29,,,1,4,UNCLASSIFIED
+2025-04-01 16:36:21.000000 UTC,UpF,127fd329-5294-470e-aaf5-c67d987d686e,DROP,Inbound,2025-03-29,,,3,4,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,1284390d-5a82-4659-a67c-18ff0a779474,"Oh, I thought I did everything",Inbound,2025-01-15,,,1,12,OBJ-DL-001
+2025-01-21 17:38:53.000000 UTC,UpF,1284390d-5a82-4659-a67c-18ff0a779474,I applied for another job and it did,Inbound,2025-01-15,,,2,12,OBJ-GJ-001
+2025-01-21 17:38:53.000000 UTC,UpF,1284390d-5a82-4659-a67c-18ff0a779474,I did one and it dropped my credit score almost 30 points,Inbound,2025-01-15,,,10,12,OBJ-DL-001
+2025-01-31 17:24:03.000000 UTC,UpF,128a1f62-402f-4a63-ace2-941a49d88d42,Need my ID to be verified,Inbound,2025-01-28,True,True,2,8,OBJ-DL-001
+2025-01-31 17:24:03.000000 UTC,UpF,128a1f62-402f-4a63-ace2-941a49d88d42,"Looks like my background check is done, right?",Inbound,2025-01-28,True,True,3,8,TSI-BC-001
+2025-02-14 17:40:21.000000 UTC,UpF,12ab123f-9d7f-4f5b-96fe-11c429fae8fa,I try to scan my face and nothing will happen,Inbound,2025-02-11,,,3,3,OBJ-SC-001
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,"I don't see any red zones anymore, only white flames",Inbound,2025-04-04,True,True,1,25,TSI-NR-001
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,I'll try it now,Inbound,2025-04-04,True,True,2,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,,Inbound,2025-04-04,True,True,4,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,I'm here trying to pick up the order and it's saying I'm not here,Inbound,2025-04-04,True,True,5,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,"No, says looking for offers",Inbound,2025-04-04,True,True,10,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,,Inbound,2025-04-04,True,True,13,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,Hopefully everything will be done later,Inbound,2025-04-04,True,True,15,25,OBJ-SC-001
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,Had to pull over,Inbound,2025-04-04,True,True,17,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,,Inbound,2025-04-04,True,True,18,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,I'm trying to get back to it.,Inbound,2025-04-04,True,True,20,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,Finally downloaded app,Inbound,2025-04-04,True,True,22,25,UNCLASSIFIED
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,A few minutes ago it was guiding me to Granby area then to a hotspot on Pembroke St in Htfd.,Inbound,2025-04-04,True,True,23,25,OBJ-DL-001
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,Extra money,Inbound,2025-04-04,True,True,24,25,OBJ-PAY-001
+2025-04-07 16:29:46.000000 UTC,UpF,12d9cf40-47c7-444e-8f0b-10d563786611,"Good, maybe today.",Inbound,2025-04-04,True,True,25,25,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,13ca8051-332c-4913-b1aa-b0684557fc68,yes,Inbound,2024-12-28,,,3,5,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,13ca8051-332c-4913-b1aa-b0684557fc68,It said that they couldnt verify my identity and I couldnt tell why,Inbound,2024-12-28,,,5,5,OBJ-DL-001
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,That's what it says on my computer when I go to do it on my phone it did work before now it's lagging,Inbound,2025-03-02,,,1,28,OBJ-GJ-001
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,I just have one more step it will be done soon as I can get it done hope to be dashing soon was hoping this weekend,Inbound,2025-03-02,,,2,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Im interested  on finishing my application,Inbound,2025-03-02,,,3,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Will finish up the registration soon got to get me a SD card. For more memory for phone so my phone will work faster still interested at doing door dash  hope this week or few weeks when I get paid I can get me new card so I can finish up my registration on door dash start dashing very soon cant wait,Inbound,2025-03-02,,,4,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,How do you do 1099  do you send 1099 out   when I sign up I'll be a contractor just let me no on the taxes thing thanks trying to figure all this out before I sign up,Inbound,2025-03-02,,,5,28,OBJ-TX-001
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Yeap I can,Inbound,2025-03-02,,,7,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Working on getting signed it having technical difficulties some reason the app  is not working right I may have to get a faster phone my phone is to slow,Inbound,2025-03-02,,,8,28,OBJ-GJ-001
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,It's not letting me finish sign up on my computer it says unauthorized how do I get that fixed so I can finish finish my application I can do it on my phone not on computer,Inbound,2025-03-02,,,9,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,I'll keep trying hope it will be faster so I can  finish up application,Inbound,2025-03-02,,,12,28,OBJ-SC-001
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Ok cool,Inbound,2025-03-02,,,13,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Been working lot still interested in finishing it interested in doing door dash,Inbound,2025-03-02,,,14,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Just wanted to make sure all my info is secure think that's what was holding me back to,Inbound,2025-03-02,,,16,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,My phone is lagging   may have to get me a new phone   I tryed to log in on website when I put my username and password it said don't work so I put my other password when I did it worked  when I did it said unauthorized not sure why I try it on my phone my phone is slow soon as I can get it working soon I'll have application processed soon can start dashing,Inbound,2025-03-02,,,17,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Thank you appreciate you get it finished soon as I can thank you,Inbound,2025-03-02,,,18,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Still interested at doing door dash  will finish application soon as I can,Inbound,2025-03-02,,,19,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Hope to get it finish so I can start dashing,Inbound,2025-03-02,,,20,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,May have to go to att get a new phone can't right now have to get money ahead first was hoping to start dashing this week,Inbound,2025-03-02,,,23,28,OBJ-NO-003
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,,Inbound,2025-03-02,,,24,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Going to finish it up soon as I can,Inbound,2025-03-02,,,25,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,Thanks,Inbound,2025-03-02,,,27,28,UNCLASSIFIED
+2025-03-05 17:31:28.000000 UTC,UpF,14335c38-3084-4030-9fb7-84b43dbba0f4,It's trying to load  my phone lagging,Inbound,2025-03-02,,,28,28,UNCLASSIFIED
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,It worked...thanks!,Inbound,2025-01-12,True,True,1,27,OBJ-GJ-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,Been extremely busy with my main job,Inbound,2025-01-12,True,True,5,27,OBJ-BS-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,It is possible sometime this weekend,Inbound,2025-01-12,True,True,6,27,OBJ-BS-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,"Liked ""Awesome! DoorDash will send your welcome kit (Red ...""",Inbound,2025-01-12,True,True,11,27,OBJ-NO-003
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,I did a dash just now,Inbound,2025-01-12,True,True,12,27,OBJ-NO-003
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,Couldn't get my picture to take,Inbound,2025-01-12,True,True,15,27,UNCLASSIFIED
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,Said that it still had to verify my identity,Inbound,2025-01-12,True,True,16,27,OBJ-DL-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,I work my full time job Monday thru Thursday so probably be this weekend before I am able to,Inbound,2025-01-12,True,True,18,27,OBJ-BS-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,Hopefully I will get some free time...thanks,Inbound,2025-01-12,True,True,19,27,OBJ-BS-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,That worked...thanks!,Inbound,2025-01-12,True,True,22,27,OBJ-GJ-001
+2025-01-15 17:27:15.000000 UTC,UpF,14af6b1e-331c-4d63-be16-a19c894e380e,I will definitely try over this weekend....thanks!,Inbound,2025-01-12,True,True,24,27,OBJ-SC-001
+2025-06-02 16:59:21.000000 UTC,UpF,1512779f-eeb5-4822-a7c5-f19c323a198e,No,Inbound,2025-05-29,True,,3,8,UNCLASSIFIED
+2025-06-02 16:59:21.000000 UTC,UpF,1512779f-eeb5-4822-a7c5-f19c323a198e,"Yes I think I have completed it, can you confirm?",Inbound,2025-05-29,True,,5,8,UNCLASSIFIED
+2025-04-11 16:38:48.000000 UTC,UpF,15131300-4f27-42e1-8f0e-a4d8224517ca,"Yes, please! 🙇‍♀️",Inbound,2025-04-08,True,,4,4,UNCLASSIFIED
+2025-02-03 17:38:29.000000 UTC,UpF,15604d8d-9e75-4aab-afcd-f91ea2ed2ca7,Idk u,Inbound,2025-01-31,,,1,3,OBJ-DL-001
+2025-02-03 17:38:29.000000 UTC,UpF,15604d8d-9e75-4aab-afcd-f91ea2ed2ca7,Stop,Inbound,2025-01-31,,,2,3,UNCLASSIFIED
+2025-04-28 16:39:10.000000 UTC,UpF,1622e1c6-7a5c-4390-9567-a3de5183d605,Yes but it's asking me to scan my id which I've lost I have the id number & a picture of it but it doesn't give me the option to enter it manually,Inbound,2025-04-21,True,False,3,9,OBJ-DL-001
+2025-04-28 16:39:10.000000 UTC,UpF,1622e1c6-7a5c-4390-9567-a3de5183d605,I don't have a license wanted to do deliveries on a bicycle,Inbound,2025-04-21,True,False,6,9,OBJ-BK-001
+2025-04-28 16:39:10.000000 UTC,UpF,1622e1c6-7a5c-4390-9567-a3de5183d605,Will do,Inbound,2025-04-21,True,False,8,9,OBJ-SC-001
+2025-04-28 16:39:10.000000 UTC,UpF,1622e1c6-7a5c-4390-9567-a3de5183d605,Yes I will continue the sign up once I get it,Inbound,2025-04-21,True,False,9,9,OBJ-SC-001
+2025-05-06 18:50:17.000000 UTC,UpF,1636728a-e508-47e3-9b63-b5382284c27c,It is just too many miles on my car. Thank you for the offer though!,Inbound,2025-04-27,,,3,5,OBJ-CP-001
+2025-05-06 18:50:17.000000 UTC,UpF,1636728a-e508-47e3-9b63-b5382284c27c,I can't take this job anymore.,Inbound,2025-04-27,,,5,5,OBJ-GJ-001
+2025-01-14 17:25:16.000000 UTC,UpF,1692a173-867e-4c9e-9c20-78d4d3f11792,Yes,Inbound,2025-01-10,,,1,11,UNCLASSIFIED
+2025-01-14 17:25:16.000000 UTC,UpF,1692a173-867e-4c9e-9c20-78d4d3f11792,Si llamen llámeme chequearon el presidente penal pero a mí me están pidiendo social yo lo que tengo el Haití Number y me dicen que con el Haití Number no se puede hacer,Inbound,2025-01-10,,,2,11,OBJ-DL-001
+2025-01-14 17:25:16.000000 UTC,UpF,1692a173-867e-4c9e-9c20-78d4d3f11792,Qué necesita para yo terminar mi aplicación,Inbound,2025-01-10,,,5,11,UNCLASSIFIED
+2025-01-14 17:25:16.000000 UTC,UpF,1692a173-867e-4c9e-9c20-78d4d3f11792,Si tengo licencia tengo más de 18 años,Inbound,2025-01-10,,,9,11,UNCLASSIFIED
+2025-04-11 16:32:43.000000 UTC,UpF,1697aa8d-289d-409a-a446-e41658b0656a,I have to find my license,Inbound,2025-04-08,True,,1,5,OBJ-DL-001
+2025-02-25 17:28:36.000000 UTC,UpF,16b199a5-013e-46e6-b1d3-9814c0de4338,i was just waiting on the identity verification!,Inbound,2025-02-19,True,,2,3,OBJ-DL-001
+2025-01-22 18:48:49.000000 UTC,UpF,175b247d-5e4e-404d-820c-3fe6dfaa1e5b,"Since I work for a company in Michigan, I must get approval for obtaining a 2nd job which I didn't know about until late last week.",Inbound,2025-01-19,,,1,10,OBJ-GJ-001
+2025-01-22 18:48:49.000000 UTC,UpF,175b247d-5e4e-404d-820c-3fe6dfaa1e5b,No. I was waiting on the next email. I don't know what stage I am at in the process of working with DoorDash,Inbound,2025-01-19,,,2,10,OBJ-NO-003
+2025-01-22 18:48:49.000000 UTC,UpF,175b247d-5e4e-404d-820c-3fe6dfaa1e5b,,Inbound,2025-01-19,,,9,10,UNCLASSIFIED
+2025-05-12 16:50:59.000000 UTC,UpF,17a37a79-bd1f-4080-aee8-663cd5bdbe1e,I don't have a vehicle right now or my license yet,Inbound,2025-05-01,,,2,4,OBJ-CP-001
+2025-05-12 16:50:59.000000 UTC,UpF,17a37a79-bd1f-4080-aee8-663cd5bdbe1e,Ik that. That's why I didn't finish my application. When I get my vehicle n license I'll reapply,Inbound,2025-05-01,,,4,4,OBJ-CP-001
+2025-01-22 18:46:08.000000 UTC,UpF,186b177f-4fe0-4faa-8423-e589fdeafdac,Bye,Inbound,2025-01-15,,,1,5,UNCLASSIFIED
+2025-01-22 18:46:08.000000 UTC,UpF,186b177f-4fe0-4faa-8423-e589fdeafdac,I did thanks,Inbound,2025-01-15,,,5,5,OBJ-DL-001
+2025-04-28 16:35:26.000000 UTC,UpF,1a139d5a-600e-4e07-9e0a-4dc151934cb8,Ok thank you.,Inbound,2025-04-22,True,,3,6,UNCLASSIFIED
+2025-04-28 16:35:26.000000 UTC,UpF,1a139d5a-600e-4e07-9e0a-4dc151934cb8,It just said that I was on a wait-list,Inbound,2025-04-22,True,,4,6,OBJ-DL-001
+2025-02-20 17:30:52.000000 UTC,UpF,1a6fa089-dbe4-45ec-a723-4ec459d99088,I still need to apply for it,Inbound,2025-02-17,,,2,4,OBJ-SC-001
+2025-02-20 17:30:52.000000 UTC,UpF,1a6fa089-dbe4-45ec-a723-4ec459d99088,I still don't have the license to finish registering,Inbound,2025-02-17,,,3,4,OBJ-DL-001
+2025-01-13 17:30:25.000000 UTC,UpF,1a7a5585-5606-43e6-b3e7-ca318f1f90f6,This phone number is no longer in service.,Inbound,2025-01-08,,,1,3,UNCLASSIFIED
+2025-02-11 17:40:27.000000 UTC,UpF,1ab94c61-5aaf-403c-94de-994cbbd3b8f6,Stop,Inbound,2025-02-08,,,1,6,UNCLASSIFIED
+2025-02-11 17:40:27.000000 UTC,UpF,1ab94c61-5aaf-403c-94de-994cbbd3b8f6,Ok,Inbound,2025-02-08,,,2,6,UNCLASSIFIED
+2025-02-11 17:40:27.000000 UTC,UpF,1ab94c61-5aaf-403c-94de-994cbbd3b8f6,And how old to I have To be to dash on a biycicyle,Inbound,2025-02-08,,,5,6,OBJ-NO-003
+2025-02-11 17:40:27.000000 UTC,UpF,1ab94c61-5aaf-403c-94de-994cbbd3b8f6,I don't have an id right now,Inbound,2025-02-08,,,6,6,OBJ-DL-001
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,When I went to my sign up recently it made me continue on that email even tho I put xquisitetouch23@gmail.com,Inbound,2025-04-09,,,1,10,UNCLASSIFIED
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,Can you check on my id check for me,Inbound,2025-04-09,,,3,10,OBJ-DL-001
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,?,Inbound,2025-04-09,,,5,10,UNCLASSIFIED
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,Can you check it for me?,Inbound,2025-04-09,,,6,10,TSI-BC-001
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,I had an account prior with shaneduff32@gmail.com,Inbound,2025-04-09,,,8,10,TSI-BI-001
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,Hey,Inbound,2025-04-09,,,9,10,UNCLASSIFIED
+2025-04-14 16:41:22.000000 UTC,UpF,1bb82d1d-a943-4774-8692-40f597448c9f,Yes I did the background I think that's what I'm waiting on,Inbound,2025-04-09,,,10,10,OBJ-DL-001
+2025-01-24 17:22:31.000000 UTC,UpF,1bb8b41c-d0e9-475d-a116-b08bd9781463,I just moved here from Florida and don't a Georgia license won't let me fill out application,Inbound,2025-01-21,,,2,6,OBJ-DL-001
+2025-04-07 16:36:56.000000 UTC,UpF,1bf8bae7-11bf-4e64-aa5a-e39856f5db85,Ok.,Inbound,2025-04-03,True,,3,8,UNCLASSIFIED
+2025-04-07 16:36:56.000000 UTC,UpF,1bf8bae7-11bf-4e64-aa5a-e39856f5db85,Yes,Inbound,2025-04-03,True,,5,8,UNCLASSIFIED
+2025-04-07 16:36:56.000000 UTC,UpF,1bf8bae7-11bf-4e64-aa5a-e39856f5db85,Done 👍,Inbound,2025-04-03,True,,6,8,UNCLASSIFIED
+2025-04-07 16:36:56.000000 UTC,UpF,1bf8bae7-11bf-4e64-aa5a-e39856f5db85,Hello my background check came back wondering what I should do,Inbound,2025-04-03,True,,8,8,TSI-BC-001
+2025-01-02 17:24:41.000000 UTC,UpF,1c0dd1ab-24de-4d1e-a98a-2d5496c0ab31,I'm here 🛬,Inbound,2024-12-30,,,3,6,UNCLASSIFIED
+2025-01-02 17:24:41.000000 UTC,UpF,1c0dd1ab-24de-4d1e-a98a-2d5496c0ab31,To,Inbound,2024-12-30,,,6,6,UNCLASSIFIED
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,No sir,Inbound,2025-03-09,True,,1,17,UNCLASSIFIED
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,Yes,Inbound,2025-03-09,True,,5,17,UNCLASSIFIED
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,Yeah so it won't let me complete the application it says this take 5 minutes then says error try again,Inbound,2025-03-09,True,,8,17,TSI-CV-001
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,,Inbound,2025-03-09,True,,10,17,UNCLASSIFIED
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,Android,Inbound,2025-03-09,True,,12,17,OBJ-DL-001
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,No sir that didn't work either,Inbound,2025-03-09,True,,13,17,OBJ-GJ-001
+2025-03-12 16:42:54.000000 UTC,UpF,1c3f2912-0e10-4637-ab8c-ee7434770c8c,Regular phone,Inbound,2025-03-09,True,,16,17,UNCLASSIFIED
+2025-01-06 17:29:05.000000 UTC,UpF,1c58c278-ec7a-4fac-9859-edaa5866fe7e,No reason just don't want to,Inbound,2025-01-02,,,1,10,UNCLASSIFIED
+2025-01-06 17:29:05.000000 UTC,UpF,1c58c278-ec7a-4fac-9859-edaa5866fe7e,I can't sign in how do you expect me to do it,Inbound,2025-01-02,,,3,10,TSI-LI-001
+2025-01-06 17:29:05.000000 UTC,UpF,1c58c278-ec7a-4fac-9859-edaa5866fe7e,Hi Alex was just trying to to get login in,Inbound,2025-01-02,,,6,10,TSI-LI-001
+2025-01-06 17:29:05.000000 UTC,UpF,1c58c278-ec7a-4fac-9859-edaa5866fe7e,It's okay I don't wanna do it anymore,Inbound,2025-01-02,,,7,10,UNCLASSIFIED
+2025-01-24 17:26:18.000000 UTC,UpF,1d88295a-6abe-4dad-abdc-93b2a677952c,Can I start today ?,Inbound,2025-01-21,,,3,5,UNCLASSIFIED
+2025-03-13 16:27:15.000000 UTC,UpF,1d98d0a4-5d0a-43aa-b276-cc7cd6acf490,How much will i earn a hour,Inbound,2025-03-10,,,4,5,OBJ-SC-001
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,Maybe tomorrow evening.,Inbound,2025-04-27,True,True,2,13,UNCLASSIFIED
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,I finished up a couple hours ago,Inbound,2025-04-27,True,True,3,13,UNCLASSIFIED
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,"Thanks. So, I could do it while traveling, then?",Inbound,2025-04-27,True,True,5,13,OBJ-OT-001
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,"I had something come up this evening but I am free all late afternoon and evening tomorrow, and until early evening Sunday.  Is everything I need to do pretty self explanatory once I accept a delivery?",Inbound,2025-04-27,True,True,7,13,OBJ-NO-003
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,I did.  I do have some questions though,Inbound,2025-04-27,True,True,9,13,OBJ-DL-001
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,Thanks.  Just got distracted.  Ill finish this evening,Inbound,2025-04-27,True,True,10,13,OBJ-SC-001
+2025-05-01 16:35:12.000000 UTC,UpF,1e0dccc2-724a-47b9-960f-290e67cf6074,I am moving to Tampa in 30 days for a job.  What is the process for changing the area I can door dash?,Inbound,2025-04-27,True,True,13,13,OBJ-NO-003
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,Doing the demo now thanks I think I'm good 👍 unless something I need to know,Inbound,2025-02-19,True,,1,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,Okay thanks 🙏,Inbound,2025-02-19,True,,5,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,"Yes , now it says 7 days delivery gift",Inbound,2025-02-19,True,,6,25,OBJ-NO-003
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,What I do now,Inbound,2025-02-19,True,,7,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,I'm going to do the demo first,Inbound,2025-02-19,True,,10,25,OBJ-TX-001
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,Yeah let me see how my schedule is for tomorrow should be good,Inbound,2025-02-19,True,,11,25,OBJ-BS-001
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,1 second,Inbound,2025-02-19,True,,13,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,I do tomorrow,Inbound,2025-02-19,True,,15,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,Okay,Inbound,2025-02-19,True,,16,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,I'm going to finish now are you here to help ?,Inbound,2025-02-19,True,,17,25,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1e19dd0a-f252-4508-b30b-2866230c2bf3,Yes it said that now they want social security number etc..,Inbound,2025-02-19,True,,23,25,OBJ-DL-001
+2025-04-17 16:35:47.000000 UTC,UpF,1e3c1cde-e8d2-4e6b-a58f-6cb788e56e73,I only got a paper copy of my license was trying to wait for the actual card to come in maip,Inbound,2025-04-14,,,3,14,OBJ-CP-001
+2025-04-17 16:35:47.000000 UTC,UpF,1e3c1cde-e8d2-4e6b-a58f-6cb788e56e73,No ill do it today,Inbound,2025-04-14,,,4,14,OBJ-SC-001
+2025-04-17 16:35:47.000000 UTC,UpF,1e3c1cde-e8d2-4e6b-a58f-6cb788e56e73,Yes,Inbound,2025-04-14,,,8,14,UNCLASSIFIED
+2025-04-17 16:35:47.000000 UTC,UpF,1e3c1cde-e8d2-4e6b-a58f-6cb788e56e73,Mail,Inbound,2025-04-14,,,9,14,UNCLASSIFIED
+2025-04-17 16:35:47.000000 UTC,UpF,1e3c1cde-e8d2-4e6b-a58f-6cb788e56e73,Yes,Inbound,2025-04-14,,,10,14,UNCLASSIFIED
+2025-04-17 16:35:47.000000 UTC,UpF,1e3c1cde-e8d2-4e6b-a58f-6cb788e56e73,No it  not done I'll get it done soon,Inbound,2025-04-14,,,12,14,UNCLASSIFIED
+2025-03-03 17:51:27.000000 UTC,UpF,1e9fb5b4-68eb-4333-95bf-6a0097bd7fd6,Yes,Inbound,2025-02-26,True,,1,13,UNCLASSIFIED
+2025-03-03 17:51:27.000000 UTC,UpF,1e9fb5b4-68eb-4333-95bf-6a0097bd7fd6,"Yes, I am here",Inbound,2025-02-26,True,,2,13,UNCLASSIFIED
+2025-03-03 17:51:27.000000 UTC,UpF,1e9fb5b4-68eb-4333-95bf-6a0097bd7fd6,Yes,Inbound,2025-02-26,True,,6,13,UNCLASSIFIED
+2025-03-03 17:51:27.000000 UTC,UpF,1e9fb5b4-68eb-4333-95bf-6a0097bd7fd6,Yes,Inbound,2025-02-26,True,,10,13,UNCLASSIFIED
+2025-04-04 16:46:39.000000 UTC,UpF,1ea13278-8b93-434e-8a80-837c771039fe,No,Inbound,2025-04-01,,,4,4,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,,Inbound,2025-02-19,True,True,3,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,So I have an issue and order came through and it's in the system at weis for me to pick up but it was picked up already and I called customer and she said she got it..so how do I cancel this,Inbound,2025-02-19,True,True,4,28,OBJ-DL-001
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,I have a full time job during the week so thinking to start sundays and mondays and until I get the hang of things,Inbound,2025-02-19,True,True,5,28,OBJ-BS-001
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,It keeps telling me it's in your end and check back in 24-48hrs,Inbound,2025-02-19,True,True,6,28,TSI-BC-001
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,:),Inbound,2025-02-19,True,True,8,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Thank you!! Weis said doordash itself was messed up today and they were in the phone for hours trying to figure it out,Inbound,2025-02-19,True,True,9,28,OBJ-NO-003
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Got it. Thank you!,Inbound,2025-02-19,True,True,11,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Let me try that!,Inbound,2025-02-19,True,True,12,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,I've already scared my license and face recognition,Inbound,2025-02-19,True,True,13,28,OBJ-CP-001
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Awesome thank you!!!,Inbound,2025-02-19,True,True,14,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Can't get past this...,Inbound,2025-02-19,True,True,18,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,I got it!!!!!!,Inbound,2025-02-19,True,True,19,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,I'm not able to start today.,Inbound,2025-02-19,True,True,21,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Yes and it was cleared!!!,Inbound,2025-02-19,True,True,22,28,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,1edb801d-b60e-42ad-bf74-73164aab30d4,Yes!!!!,Inbound,2025-02-19,True,True,23,28,UNCLASSIFIED
+2025-01-22 18:47:10.000000 UTC,UpF,1ee97fcc-9fa4-4665-8773-f99df6636e43,Let me check i was waiting for my id to get varified,Inbound,2025-01-17,,,1,7,OBJ-DL-001
+2025-01-22 18:47:10.000000 UTC,UpF,1ee97fcc-9fa4-4665-8773-f99df6636e43,Can you check on that for me please and thank you,Inbound,2025-01-17,,,2,7,TSI-BC-001
+2025-01-22 18:47:10.000000 UTC,UpF,1ee97fcc-9fa4-4665-8773-f99df6636e43,They said they are currently veriifing still,Inbound,2025-01-17,,,3,7,OBJ-DL-001
+2025-01-22 18:47:10.000000 UTC,UpF,1ee97fcc-9fa4-4665-8773-f99df6636e43,Ok i just submitted my id check again. Waiting for it to clear,Inbound,2025-01-17,,,5,7,OBJ-DL-001
+2025-02-24 17:33:58.000000 UTC,UpF,1f2df8fb-1117-49b9-8433-2bc9a5ee2090,Stop,Inbound,2025-02-19,,,1,3,UNCLASSIFIED
+2025-02-24 17:32:56.000000 UTC,UpF,1f84f7ba-507c-44dd-9eaf-f3ef6baaed48,I wasn't aware that I had to be 19 to be a dasher. I'm 18,Inbound,2025-02-21,,,2,9,OBJ-NO-003
+2025-02-24 17:32:56.000000 UTC,UpF,1f84f7ba-507c-44dd-9eaf-f3ef6baaed48,No I should be able to complete the application today,Inbound,2025-02-21,,,6,9,UNCLASSIFIED
+2025-02-24 17:32:56.000000 UTC,UpF,1f84f7ba-507c-44dd-9eaf-f3ef6baaed48,August,Inbound,2025-02-21,,,8,9,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,2001ceaa-4ebe-492d-a863-dcc021d2b10f,No,Inbound,2024-12-30,True,,1,4,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,2001ceaa-4ebe-492d-a863-dcc021d2b10f,No,Inbound,2024-12-30,True,,4,4,UNCLASSIFIED
+2025-06-02 16:26:47.000000 UTC,UpF,200ab5cf-c1b2-4df0-b460-c1d6e1053708,"Hi there, thank you for messaging me Alex
+Unfortunately, I do not have a drivers license. I will have to first get that completed and see my next step after that thank you for reaching out.",Inbound,2025-05-29,,,3,3,OBJ-CP-001
+2025-05-29 17:10:17.000000 UTC,UpF,203d718b-570e-465c-8603-901e656ff5b2,What's the requirements to be a Dasher because my mam is interested,Inbound,2025-05-14,,,1,15,OBJ-NO-003
+2025-05-29 17:10:17.000000 UTC,UpF,203d718b-570e-465c-8603-901e656ff5b2,I'm ready to finish it,Inbound,2025-05-14,,,5,15,UNCLASSIFIED
+2025-05-29 17:10:17.000000 UTC,UpF,203d718b-570e-465c-8603-901e656ff5b2,Send the application link so I can finish,Inbound,2025-05-14,,,11,15,UNCLASSIFIED
+2025-05-29 17:10:17.000000 UTC,UpF,203d718b-570e-465c-8603-901e656ff5b2,Yes,Inbound,2025-05-14,,,12,15,UNCLASSIFIED
+2025-03-17 16:41:59.000000 UTC,UpF,2040bef3-de0f-48d8-9042-35766e25fb9a,I tried and it kicked me out,Inbound,2025-03-13,True,True,1,6,UNCLASSIFIED
+2025-03-17 16:41:59.000000 UTC,UpF,2040bef3-de0f-48d8-9042-35766e25fb9a,No I'm ready I was just waiting for them to confirm my identity,Inbound,2025-03-13,True,True,3,6,OBJ-DL-001
+2025-03-17 16:41:59.000000 UTC,UpF,2040bef3-de0f-48d8-9042-35766e25fb9a,But it was 2 days ago I sent it in,Inbound,2025-03-13,True,True,6,6,UNCLASSIFIED
+2025-01-24 17:24:23.000000 UTC,UpF,207e7a6c-c97c-4a9b-9151-657139f04145,Hey just needed to find my id and I did you guys are verifying my identity.,Inbound,2025-01-21,True,,3,4,OBJ-DL-001
+2025-02-19 17:27:47.000000 UTC,UpF,20962964-e3c6-480e-819a-fe4408985880,What else do I need to put on it can you send me the link to complete it,Inbound,2025-02-14,,,2,4,UNCLASSIFIED
+2025-01-03 17:25:55.000000 UTC,UpF,21991c57-5773-4b29-9672-caab955559d6,,Inbound,2024-12-29,True,True,1,5,UNCLASSIFIED
+2025-01-03 17:25:55.000000 UTC,UpF,21991c57-5773-4b29-9672-caab955559d6,I submitted,Inbound,2024-12-29,True,True,2,5,UNCLASSIFIED
+2025-03-31 16:43:55.000000 UTC,UpF,223c2695-5c48-4af7-8075-7faefbbc49b5,Yes 5-9,Inbound,2025-03-26,True,True,1,12,UNCLASSIFIED
+2025-03-31 16:43:55.000000 UTC,UpF,223c2695-5c48-4af7-8075-7faefbbc49b5,I'm finishing it just waiting for the identification,Inbound,2025-03-26,True,True,7,12,OBJ-DL-001
+2025-03-31 16:43:55.000000 UTC,UpF,223c2695-5c48-4af7-8075-7faefbbc49b5,Got my 1st one in today pretty smooth,Inbound,2025-03-26,True,True,11,12,UNCLASSIFIED
+2025-04-14 16:46:08.000000 UTC,UpF,22877a69-98f3-4016-9417-3a9180cd74f7,I need to know if my driving record is okay,Inbound,2025-04-11,,,3,5,OBJ-CP-001
+2025-03-13 16:33:20.000000 UTC,UpF,23464fd9-7012-4650-ac70-5b4f35598bee,Yea here in Northern Minnesota,Inbound,2025-03-10,True,,1,6,UNCLASSIFIED
+2025-03-13 16:33:20.000000 UTC,UpF,23464fd9-7012-4650-ac70-5b4f35598bee,😊,Inbound,2025-03-10,True,,3,6,UNCLASSIFIED
+2025-03-13 16:33:20.000000 UTC,UpF,23464fd9-7012-4650-ac70-5b4f35598bee,Y'all don't accept e bike up here,Inbound,2025-03-10,True,,6,6,OBJ-BK-001
+2025-02-21 17:24:33.000000 UTC,UpF,237c78a7-61b0-4a37-bd0d-45b43a55d12a,Yes it wouldn't let me take a pic of my face,Inbound,2025-02-18,True,True,2,6,UNCLASSIFIED
+2025-02-21 17:24:33.000000 UTC,UpF,237c78a7-61b0-4a37-bd0d-45b43a55d12a,It me to now it's checking my background,Inbound,2025-02-18,True,True,3,6,TSI-BC-001
+2025-02-21 17:24:33.000000 UTC,UpF,237c78a7-61b0-4a37-bd0d-45b43a55d12a,Yup I did thank you,Inbound,2025-02-18,True,True,6,6,OBJ-DL-001
+2025-05-19 16:36:53.000000 UTC,UpF,24640859-91df-4f8a-9252-6d462194e8cf,I'm ready to start earning money,Inbound,2025-05-09,True,,6,7,OBJ-PAY-001
+2025-05-19 16:36:53.000000 UTC,UpF,24640859-91df-4f8a-9252-6d462194e8cf,,Inbound,2025-05-09,True,,7,7,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,2480b958-f02c-46e5-b452-5b9ecd886f64,I'm 18 I have to be 19,Inbound,2025-02-27,,,3,3,UNCLASSIFIED
+2025-03-06 17:28:43.000000 UTC,UpF,2516eda0-0a73-43cb-bfe1-030f63838490,I doing dash now,Inbound,2025-03-03,,,1,6,OBJ-NO-003
+2025-03-06 17:28:43.000000 UTC,UpF,2516eda0-0a73-43cb-bfe1-030f63838490,Is still waiting,Inbound,2025-03-03,,,2,6,OBJ-SC-001
+2025-03-06 17:28:43.000000 UTC,UpF,2516eda0-0a73-43cb-bfe1-030f63838490,Hey,Inbound,2025-03-03,,,5,6,UNCLASSIFIED
+2025-03-06 17:28:43.000000 UTC,UpF,2516eda0-0a73-43cb-bfe1-030f63838490,Its all good,Inbound,2025-03-03,,,6,6,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,251ec0d7-c837-4e57-87b1-b6469a08512f,Ok,Inbound,2025-02-06,,,1,11,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,251ec0d7-c837-4e57-87b1-b6469a08512f,"Oh , you're fine , but he will be home to day and he said he will get a hold of you , right",Inbound,2025-02-06,,,5,11,OBJ-DL-001
+2025-02-10 17:28:33.000000 UTC,UpF,251ec0d7-c837-4e57-87b1-b6469a08512f,Yw,Inbound,2025-02-06,,,6,11,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,251ec0d7-c837-4e57-87b1-b6469a08512f,"This is not Ali.This is his mom , but I will let him know when he come home",Inbound,2025-02-06,,,9,11,OBJ-SC-001
+2025-02-27 17:27:43.000000 UTC,UpF,25475fc7-0d03-4562-a7c1-127c447945f1,It seems to be stuck on the signing up page or does it take a while,Inbound,2025-02-22,True,,1,11,TSI-CB-001
+2025-02-27 17:27:43.000000 UTC,UpF,25475fc7-0d03-4562-a7c1-127c447945f1,It's the screen right after it verified me,Inbound,2025-02-22,True,,5,11,TSI-WS-001
+2025-02-27 17:27:43.000000 UTC,UpF,25475fc7-0d03-4562-a7c1-127c447945f1,No not really.,Inbound,2025-02-22,True,,7,11,UNCLASSIFIED
+2025-01-07 17:34:04.000000 UTC,UpF,256dc7c5-06ab-400e-9f72-2ccec4847d94,What do I have to do,Inbound,2025-01-02,,,1,8,UNCLASSIFIED
+2025-01-07 17:34:04.000000 UTC,UpF,256dc7c5-06ab-400e-9f72-2ccec4847d94,No,Inbound,2025-01-02,,,4,8,UNCLASSIFIED
+2025-05-02 16:31:32.000000 UTC,UpF,260a5592-b4a4-44e4-ab3b-ae01d1925bae,I don't know what I need to do next actually,Inbound,2025-04-29,True,,4,5,UNCLASSIFIED
+2025-03-31 16:43:55.000000 UTC,UpF,260ecf46-55db-4f53-8cdc-601c36db0d97,Can you send me the link?,Inbound,2025-03-26,True,,6,6,UNCLASSIFIED
+2025-02-03 17:43:45.000000 UTC,UpF,264fd80e-2a7a-4ad2-ace3-6e488d11c49d,Yes it is,Inbound,2025-01-29,,,1,12,UNCLASSIFIED
+2025-02-03 17:43:45.000000 UTC,UpF,264fd80e-2a7a-4ad2-ace3-6e488d11c49d,This is my new number this is Janel mascone,Inbound,2025-01-29,,,2,12,UNCLASSIFIED
+2025-02-03 17:43:45.000000 UTC,UpF,264fd80e-2a7a-4ad2-ace3-6e488d11c49d,5055149194,Inbound,2025-01-29,,,6,12,UNCLASSIFIED
+2025-02-03 17:43:45.000000 UTC,UpF,264fd80e-2a7a-4ad2-ace3-6e488d11c49d,No,Inbound,2025-01-29,,,11,12,UNCLASSIFIED
+2025-01-08 17:51:45.000000 UTC,UpF,266cb46c-5824-430a-a4e8-128580790781,Nothing is holding me back!,Inbound,2025-01-05,True,,7,8,UNCLASSIFIED
+2025-02-10 17:34:46.000000 UTC,UpF,26b56728-59f4-45c0-a925-f0fb1c08f7cb,At5pm,Inbound,2025-02-07,True,True,6,9,UNCLASSIFIED
+2025-02-10 17:34:46.000000 UTC,UpF,26b56728-59f4-45c0-a925-f0fb1c08f7cb,The Weeknd,Inbound,2025-02-07,True,True,7,9,UNCLASSIFIED
+2025-03-17 16:38:51.000000 UTC,UpF,26cf3743-940b-47e6-bcea-bf6cdd824aa2,Maybe verify my identity so I can begin?,Inbound,2025-03-14,True,,7,7,OBJ-DL-001
+2025-04-15 16:46:36.000000 UTC,UpF,27572dd1-3d68-4a85-988d-40db8cdca40a,"A few things, I'll be completing it soon",Inbound,2025-04-11,True,,1,11,UNCLASSIFIED
+2025-04-15 16:46:36.000000 UTC,UpF,27572dd1-3d68-4a85-988d-40db8cdca40a,Nevermind it started working,Inbound,2025-04-11,True,,3,11,OBJ-GJ-001
+2025-04-15 16:46:36.000000 UTC,UpF,27572dd1-3d68-4a85-988d-40db8cdca40a,Good morning! I'm actually trying to fill it out now,Inbound,2025-04-11,True,,6,11,OBJ-SC-001
+2025-04-15 16:46:36.000000 UTC,UpF,27572dd1-3d68-4a85-988d-40db8cdca40a,But it is telling me that my driver's license is not right,Inbound,2025-04-11,True,,9,11,OBJ-CP-001
+2025-01-16 20:25:58.000000 UTC,UpF,279245ab-0f78-4aa1-a698-1cdc6ada3241,Ok,Inbound,2025-01-13,,,2,11,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,279245ab-0f78-4aa1-a698-1cdc6ada3241,No im ready,Inbound,2025-01-13,,,3,11,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,279245ab-0f78-4aa1-a698-1cdc6ada3241,It still says unavle to identify,Inbound,2025-01-13,,,6,11,OBJ-DL-001
+2025-01-16 20:25:58.000000 UTC,UpF,279245ab-0f78-4aa1-a698-1cdc6ada3241,Oh I'm ready to do the steps,Inbound,2025-01-13,,,8,11,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,279245ab-0f78-4aa1-a698-1cdc6ada3241,Yea can get like 10 almost home,Inbound,2025-01-13,,,11,11,UNCLASSIFIED
+2025-01-31 17:22:54.000000 UTC,UpF,27ac0b6c-4eeb-41e5-aac0-f88243190283,I am only 18 instead of 19,Inbound,2025-01-28,,,1,4,UNCLASSIFIED
+2025-01-31 17:22:54.000000 UTC,UpF,27ac0b6c-4eeb-41e5-aac0-f88243190283,Sept 30,Inbound,2025-01-28,,,4,4,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,I have theresafarias620@gmail.com,Inbound,2025-02-26,True,,4,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Yes,Inbound,2025-02-26,True,,7,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Yes,Inbound,2025-02-26,True,,8,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Not yet,Inbound,2025-02-26,True,,9,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,No luck,Inbound,2025-02-26,True,,10,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,I do,Inbound,2025-02-26,True,,11,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Ok,Inbound,2025-02-26,True,,12,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Ok,Inbound,2025-02-26,True,,13,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,I scanned my id and the Face ID. I just got to wait now,Inbound,2025-02-26,True,,15,29,OBJ-DL-001
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,I just have to do my first delivery,Inbound,2025-02-26,True,,17,29,OBJ-NO-003
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Or I can just delete that profile,Inbound,2025-02-26,True,,18,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Yes I do,Inbound,2025-02-26,True,,21,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,I submitted it again,Inbound,2025-02-26,True,,25,29,UNCLASSIFIED
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,Can I change my email address,Inbound,2025-02-26,True,,26,29,OBJ-LOC-001
+2025-03-03 17:46:27.000000 UTC,UpF,27ac2eb1-7349-46a0-a264-60f412ec30fe,There nothing holding me back,Inbound,2025-02-26,True,,27,29,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Yes,Inbound,2025-02-27,,,4,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Who is this,Inbound,2025-02-27,,,7,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Ah okay,Inbound,2025-02-27,,,8,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Yes,Inbound,2025-02-27,,,10,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Sorry I haven't been responsive,Inbound,2025-02-27,,,11,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Is this a bot,Inbound,2025-02-27,,,12,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Not yet,Inbound,2025-02-27,,,14,15,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,27b7f71d-bfb5-46df-a409-f9ec93b17864,Is tomorrow okay? I'm dealing with something in my personal life right now,Inbound,2025-02-27,,,15,15,UNCLASSIFIED
+2025-01-30 17:21:42.000000 UTC,UpF,27dec21a-b8b6-4c16-8675-147b34454ee4,"Hello Alex, I was just waiting for the email that said my Identification card was verified!",Inbound,2025-01-27,True,True,3,9,OBJ-CP-001
+2025-01-30 17:21:42.000000 UTC,UpF,27dec21a-b8b6-4c16-8675-147b34454ee4,Sounds good to me! Thank you Alex!,Inbound,2025-01-27,True,True,4,9,UNCLASSIFIED
+2025-01-30 17:21:42.000000 UTC,UpF,27dec21a-b8b6-4c16-8675-147b34454ee4,"It worked! Thank you Alex, I will continue with the application now.",Inbound,2025-01-27,True,True,7,9,OBJ-GJ-001
+2025-01-30 17:21:42.000000 UTC,UpF,27dec21a-b8b6-4c16-8675-147b34454ee4,"I actually am partaking in a gathering to watch the Lakers, but if I'm cleared and are able to would I just be able to take an order on the app?",Inbound,2025-01-27,True,True,9,9,UNCLASSIFIED
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,I was waiting on my identification check,Inbound,2024-12-30,True,True,1,13,OBJ-DL-001
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,Yes,Inbound,2024-12-30,True,True,3,13,UNCLASSIFIED
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,Thank you.  I'm getting the hang of it,Inbound,2024-12-30,True,True,6,13,UNCLASSIFIED
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,I did not accept the offee,Inbound,2024-12-30,True,True,8,13,OBJ-DL-001
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,No today.  I will probably start Saturday,Inbound,2024-12-30,True,True,10,13,OBJ-SC-001
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,Offer,Inbound,2024-12-30,True,True,12,13,UNCLASSIFIED
+2025-01-02 17:24:41.000000 UTC,UpF,27f4cb82-fab5-447e-8ca3-f1d24ffd553c,I received this offer but I do not have a pizza bag.,Inbound,2024-12-30,True,True,13,13,UNCLASSIFIED
+2025-03-31 16:36:56.000000 UTC,UpF,283ec28d-1637-47bf-9a31-27faf2f907ea,iPhone. I just tried again. Now it says verification in progress.,Inbound,2025-03-26,True,,3,6,TSI-2S-001
+2025-03-31 16:36:56.000000 UTC,UpF,283ec28d-1637-47bf-9a31-27faf2f907ea,I couldn't finish the application. After I scan my license nothing happened. Screen just went blank white . I have tried 7 times.,Inbound,2025-03-26,True,,5,6,OBJ-BS-001
+2025-02-06 17:55:59.000000 UTC,UpF,286527e9-20a9-4f5a-92e6-9eeedcb209ff,"Yes, over 18. ID is valid.",Inbound,2025-02-01,True,True,3,15,OBJ-DL-001
+2025-02-06 17:55:59.000000 UTC,UpF,286527e9-20a9-4f5a-92e6-9eeedcb209ff,I submitted everything. Been waiting for days after it said 24-48 hours,Inbound,2025-02-01,True,True,6,15,OBJ-DL-001
+2025-02-06 17:55:59.000000 UTC,UpF,286527e9-20a9-4f5a-92e6-9eeedcb209ff,Sure,Inbound,2025-02-01,True,True,9,15,UNCLASSIFIED
+2025-02-06 17:55:59.000000 UTC,UpF,286527e9-20a9-4f5a-92e6-9eeedcb209ff,I could not verify my identity,Inbound,2025-02-01,True,True,11,15,OBJ-DL-001
+2025-02-06 17:55:59.000000 UTC,UpF,286527e9-20a9-4f5a-92e6-9eeedcb209ff,DL,Inbound,2025-02-01,True,True,12,15,UNCLASSIFIED
+2025-02-06 17:55:59.000000 UTC,UpF,286527e9-20a9-4f5a-92e6-9eeedcb209ff,I can try again to upload it,Inbound,2025-02-01,True,True,13,15,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,2950605e-b564-4532-8576-a1500027574e,"Hi. Yes, I've yet to receive confirmation on my identity verification.",Inbound,2025-03-18,True,True,2,4,OBJ-DL-001
+2025-01-07 17:34:04.000000 UTC,UpF,2a496d0a-3b03-4b58-a254-942b5f9811a8,No thank you,Inbound,2025-01-02,,,3,4,UNCLASSIFIED
+2025-05-05 17:15:42.000000 UTC,UpF,2a5eef4a-832d-4d4c-8307-1c5d2b941a14,I had another account that was never completed so i tried a new one,Inbound,2025-05-01,True,,1,7,TSI-BI-001
+2025-05-05 17:15:42.000000 UTC,UpF,2a5eef4a-832d-4d4c-8307-1c5d2b941a14,I finished my app,Inbound,2025-05-01,True,,2,7,UNCLASSIFIED
+2025-05-05 17:15:42.000000 UTC,UpF,2a5eef4a-832d-4d4c-8307-1c5d2b941a14,Thanks for your help,Inbound,2025-05-01,True,,3,7,UNCLASSIFIED
+2025-05-05 17:15:42.000000 UTC,UpF,2a5eef4a-832d-4d4c-8307-1c5d2b941a14,No problem,Inbound,2025-05-01,True,,4,7,UNCLASSIFIED
+2025-05-05 17:15:42.000000 UTC,UpF,2a5eef4a-832d-4d4c-8307-1c5d2b941a14,Now it's in your hands,Inbound,2025-05-01,True,,6,7,UNCLASSIFIED
+2025-05-05 17:15:42.000000 UTC,UpF,2a5eef4a-832d-4d4c-8307-1c5d2b941a14,Hi Alex,Inbound,2025-05-01,True,,7,7,UNCLASSIFIED
+2025-02-10 17:29:28.000000 UTC,UpF,2a6addfb-7331-4ec6-be22-3b4cdc5c909f,No sé qué me haga falta pa incorporarme,Inbound,2025-02-07,,,2,5,UNCLASSIFIED
+2025-02-10 17:29:28.000000 UTC,UpF,2a6addfb-7331-4ec6-be22-3b4cdc5c909f,Hola si me gustaria comenzar a generar ingresos,Inbound,2025-02-07,,,3,5,UNCLASSIFIED
+2025-03-13 16:27:13.000000 UTC,UpF,2b1b8464-24f8-47c3-839e-2f69adc5c1a8,,Inbound,2025-03-10,,,2,8,UNCLASSIFIED
+2025-03-13 16:27:13.000000 UTC,UpF,2b1b8464-24f8-47c3-839e-2f69adc5c1a8,,Inbound,2025-03-10,,,4,8,UNCLASSIFIED
+2025-03-13 16:27:15.000000 UTC,UpF,2b24e9ec-c23e-4497-95b2-a9d5d4ad92ee,Hi. I haven't received my driving license . I will get it in a month,Inbound,2025-03-10,True,True,3,4,OBJ-CP-001
+2025-04-14 16:43:42.000000 UTC,UpF,2b2f3fab-3888-4f2d-ae1e-709333f85532,No tengo licencia pensaba hacerlo en bicicleta,Inbound,2025-03-31,,,1,5,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b2f3fab-3888-4f2d-ae1e-709333f85532,Quiero seguir haciéndola,Inbound,2025-03-31,,,2,5,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,Hi what do I put down for that part?,Inbound,2025-04-07,True,False,1,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,You know?,Inbound,2025-04-07,True,False,2,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,,Inbound,2025-04-07,True,False,3,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,Yes just waiting to hear back to get all the information set up.,Inbound,2025-04-07,True,False,4,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,What do I put down?,Inbound,2025-04-07,True,False,5,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,"I completed my end of it just waiting to hear back from you,",Inbound,2025-04-07,True,False,7,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,I got a message from the app about getting it set forward.,Inbound,2025-04-07,True,False,9,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,.*,Inbound,2025-04-07,True,False,10,14,UNCLASSIFIED
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,Got it all working I chose to get the cash immediately then it asked me it again later only giving me a weekly option so I wanted to make sure I get it immediately?,Inbound,2025-04-07,True,False,11,14,OBJ-GJ-001
+2025-04-14 16:43:42.000000 UTC,UpF,2b45c310-3306-4942-a670-021d073c72f4,Thank you I didn't want to fuck it up,Inbound,2025-04-07,True,False,12,14,OBJ-DL-001
+2025-02-04 17:35:42.000000 UTC,UpF,2bc423ea-c8fc-4780-926c-0ccd57b9c3aa,no i just haven't had the time,Inbound,2025-01-30,,,7,7,OBJ-BS-001
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Estoy próxima a sacar mi licencia cuando quiera hacer dash en carro usted me ayuda con el cambio,Inbound,2024-12-28,True,True,4,23,OBJ-NO-003
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Ya tengo mi cuenta,Inbound,2024-12-28,True,True,6,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Ok,Inbound,2024-12-28,True,True,8,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Aún sale que verifican mi identidad,Inbound,2024-12-28,True,True,9,23,OBJ-DL-001
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Una pregunta,Inbound,2024-12-28,True,True,11,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,,Inbound,2024-12-28,True,True,12,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Siii,Inbound,2024-12-28,True,True,13,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Graciasss,Inbound,2024-12-28,True,True,14,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Muchas gracias,Inbound,2024-12-28,True,True,15,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Ya lo hice,Inbound,2024-12-28,True,True,16,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Pero ahora me pide más verificación,Inbound,2024-12-28,True,True,18,23,OBJ-DL-001
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Y ya van 4 días,Inbound,2024-12-28,True,True,19,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Ya está listo,Inbound,2024-12-28,True,True,21,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Si me ayudas,Inbound,2024-12-28,True,True,22,23,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,2be987d3-d248-4817-8aa9-127dc5a30a7d,Listo,Inbound,2024-12-28,True,True,23,23,UNCLASSIFIED
+2025-03-03 17:49:54.000000 UTC,UpF,2bf3a56e-9c0c-493f-ae92-504dbb98da00,No,Inbound,2025-02-28,,,4,7,UNCLASSIFIED
+2025-03-03 17:49:54.000000 UTC,UpF,2bf3a56e-9c0c-493f-ae92-504dbb98da00,Yes but I am asked for a license when I want to use my bike I just got. I just can't get pass that...,Inbound,2025-02-28,,,5,7,OBJ-BK-001
+2025-04-21 16:26:25.000000 UTC,UpF,2c197539-abbf-43b2-a338-238dc7f5f906,Yes but it's not off I got it it says allowed,Inbound,2025-04-17,,,1,7,UNCLASSIFIED
+2025-04-21 16:26:25.000000 UTC,UpF,2c197539-abbf-43b2-a338-238dc7f5f906,Android,Inbound,2025-04-17,,,2,7,OBJ-DL-001
+2025-04-21 16:26:25.000000 UTC,UpF,2c197539-abbf-43b2-a338-238dc7f5f906,The app won't let me take a picture of my license,Inbound,2025-04-17,,,3,7,OBJ-DL-001
+2025-02-03 17:39:01.000000 UTC,UpF,2c46f4fa-07a1-4419-9d60-21e6e6c6a2c2,Hi! I thought I was finished. My application says it's currently verifying my identity. Thanks!,Inbound,2025-01-29,,,1,4,OBJ-DL-001
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,Tomorrow,Inbound,2025-01-19,True,True,1,20,UNCLASSIFIED
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,"❤️ to "" Good luck on your first dashes today! Let me know if you need anything. You can also use the in-app help center for quick answers :) We will get your dasher equipment sent out as soon as that first dash is complete! """,Inbound,2025-01-19,True,True,4,20,OBJ-NO-003
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,It said it was waiting on you all,Inbound,2025-01-19,True,True,5,20,OBJ-DL-001
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,"Hey Alex, I completed my first delivery.",Inbound,2025-01-19,True,True,8,20,OBJ-NO-003
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,"Yes, let me try it, sir.",Inbound,2025-01-19,True,True,14,20,UNCLASSIFIED
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,Thanks!,Inbound,2025-01-19,True,True,16,20,UNCLASSIFIED
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,I think so,Inbound,2025-01-19,True,True,17,20,UNCLASSIFIED
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,"❤️ to "" Awesome! Your equipment should be on it """,Inbound,2025-01-19,True,True,18,20,OBJ-WK-001
+2025-01-22 18:48:49.000000 UTC,UpF,2cb7abb3-ce9e-43df-a8ca-c617df12aa21,"❤️ to "" Just expedited your results and you are all clear to start making deliveries(: The final and most important step is making your first delivery. After that we will get you your equipment sent out and you will be all set to earn on your terms! What day this week do you have just 15 minutes to try your first delivery? """,Inbound,2025-01-19,True,True,19,20,OBJ-NO-003
+2025-02-19 17:24:54.000000 UTC,UpF,2cbe7baa-6fbb-41d0-8527-6385754ecebb,Hey can you give me a call back,Inbound,2025-02-15,,,1,9,UNCLASSIFIED
+2025-05-05 17:13:45.000000 UTC,UpF,2cedaef9-e70c-4f48-9311-f105f829d70f,No,Inbound,2025-04-29,,,3,7,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Si,Inbound,2025-02-15,,,1,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Muchas gracias,Inbound,2025-02-15,,,2,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,"Hola, sí gracias",Inbound,2025-02-15,,,3,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,I si voy directamente aplicar,Inbound,2025-02-15,,,6,21,OBJ-CP-001
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Sí,Inbound,2025-02-15,,,9,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Bea,Inbound,2025-02-15,,,12,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Puedo ircresar en en lase mandemelo,Inbound,2025-02-15,,,13,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Agorita la yeno,Inbound,2025-02-15,,,15,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Solo meda la dirección,Inbound,2025-02-15,,,17,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Deme el enlase,Inbound,2025-02-15,,,18,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Bueno ya lo ago para keme yameme para ir atrabajar,Inbound,2025-02-15,,,19,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Mire casi notengo saldo y pues Nome abre,Inbound,2025-02-15,,,20,21,UNCLASSIFIED
+2025-02-18 17:46:34.000000 UTC,UpF,2cf76bf7-82d9-4f72-8b3f-e7a1c4e89ff2,Estoy en el metro milwuakee así al sur,Inbound,2025-02-15,,,21,21,UNCLASSIFIED
+2025-01-08 17:47:22.000000 UTC,UpF,2d504f95-9b71-4f1a-b451-3c261483ef33,"I have plans, but I still don't have anyone to marry.",Inbound,2025-01-05,,,2,7,OBJ-SC-001
+2025-01-08 17:47:22.000000 UTC,UpF,2d504f95-9b71-4f1a-b451-3c261483ef33,Gracias,Inbound,2025-01-05,,,4,7,UNCLASSIFIED
+2025-01-08 17:47:22.000000 UTC,UpF,2d504f95-9b71-4f1a-b451-3c261483ef33,I don't have social,Inbound,2025-01-05,,,7,7,UNCLASSIFIED
+2025-01-16 20:23:49.000000 UTC,UpF,2d937a94-cde6-44a4-9d66-85d7de2ab549,iPhone,Inbound,2025-01-13,True,True,1,10,UNCLASSIFIED
+2025-01-16 20:23:49.000000 UTC,UpF,2d937a94-cde6-44a4-9d66-85d7de2ab549,I did it,Inbound,2025-01-13,True,True,3,10,OBJ-DL-001
+2025-01-16 20:23:49.000000 UTC,UpF,2d937a94-cde6-44a4-9d66-85d7de2ab549,It's not letting get past the ID verification,Inbound,2025-01-13,True,True,5,10,OBJ-DL-001
+2025-01-16 20:23:49.000000 UTC,UpF,2d937a94-cde6-44a4-9d66-85d7de2ab549,Will do,Inbound,2025-01-13,True,True,6,10,OBJ-SC-001
+2025-01-16 20:23:49.000000 UTC,UpF,2d937a94-cde6-44a4-9d66-85d7de2ab549,Ok,Inbound,2025-01-13,True,True,8,10,UNCLASSIFIED
+2025-01-16 20:23:49.000000 UTC,UpF,2d937a94-cde6-44a4-9d66-85d7de2ab549,It still doesn't let me get past this part.,Inbound,2025-01-13,True,True,9,10,OBJ-SC-001
+2025-03-04 17:41:12.000000 UTC,UpF,2dc12068-ce9c-4b33-a007-d12a5da1508a,Stop,Inbound,2025-02-27,True,,1,3,UNCLASSIFIED
+2025-03-04 17:41:12.000000 UTC,UpF,2dd9265e-4023-40bd-918f-83391e437f75,Are you the one that just called?,Inbound,2025-02-27,True,,4,7,UNCLASSIFIED
+2025-02-04 17:35:54.000000 UTC,UpF,2e2ea953-8195-4bab-94e4-eb7a94e7dfe7,I need a job please,Inbound,2025-01-31,,,4,5,OBJ-GJ-001
+2025-02-04 17:35:54.000000 UTC,UpF,2e2ea953-8195-4bab-94e4-eb7a94e7dfe7,Yessir,Inbound,2025-01-31,,,5,5,UNCLASSIFIED
+2025-02-24 17:29:31.000000 UTC,UpF,2e666a81-efc4-4d91-a647-9352bc7f1589,yes i'm out of the state right now that's why i didn't finish the application  i will be back next week sorry,Inbound,2025-02-19,,,2,6,OBJ-DL-001
+2025-02-24 17:29:31.000000 UTC,UpF,2e666a81-efc4-4d91-a647-9352bc7f1589,yes i'm back and i already finished signing with a different account because i couldn't log in to the other one,Inbound,2025-02-19,,,4,6,TSI-BI-001
+2025-05-13 16:38:08.000000 UTC,UpF,2e68a572-476e-443f-bdc4-771a83c16212,Help me complete the application process,Inbound,2025-05-09,True,,4,5,UNCLASSIFIED
+2025-05-13 16:38:08.000000 UTC,UpF,2edecca8-9934-44d7-b07c-a1e0af8c0ec6,Hey thank you I was going to finish application today,Inbound,2025-05-03,,,1,4,UNCLASSIFIED
+2025-05-19 16:31:20.000000 UTC,UpF,2f4419c2-859d-4960-802a-4f2008c560ed,I mean no I can do like four p.m.,Inbound,2025-05-13,,,2,6,UNCLASSIFIED
+2025-05-19 16:31:20.000000 UTC,UpF,2f4419c2-859d-4960-802a-4f2008c560ed,Yes,Inbound,2025-05-13,,,5,6,UNCLASSIFIED
+2025-01-13 17:30:25.000000 UTC,UpF,2f46bfd6-c41e-46d0-8ade-3890a01d0277,It keeps telling me this but it's been since like Wednesday or Thursday already,Inbound,2025-01-08,True,True,2,11,UNCLASSIFIED
+2025-01-13 17:30:25.000000 UTC,UpF,2f46bfd6-c41e-46d0-8ade-3890a01d0277,No there isn't,Inbound,2025-01-08,True,True,4,11,UNCLASSIFIED
+2025-01-13 17:30:25.000000 UTC,UpF,2f46bfd6-c41e-46d0-8ade-3890a01d0277,Ok thank you,Inbound,2025-01-08,True,True,5,11,UNCLASSIFIED
+2025-01-13 17:30:25.000000 UTC,UpF,2f46bfd6-c41e-46d0-8ade-3890a01d0277,Now I'm just waiting for the background check to finish,Inbound,2025-01-08,True,True,9,11,TSI-BC-001
+2025-01-13 17:30:25.000000 UTC,UpF,2f46bfd6-c41e-46d0-8ade-3890a01d0277,Yes please,Inbound,2025-01-08,True,True,10,11,UNCLASSIFIED
+2025-01-14 17:24:09.000000 UTC,UpF,2f9aa855-2d69-4053-85d3-6ae0b19bac8b,I'm ready,Inbound,2025-01-09,,,1,5,UNCLASSIFIED
+2025-01-14 17:24:09.000000 UTC,UpF,2f9aa855-2d69-4053-85d3-6ae0b19bac8b,Ok,Inbound,2025-01-09,,,5,5,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Ok I had did that,Inbound,2025-02-09,True,,1,20,OBJ-DL-001
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Yes,Inbound,2025-02-09,True,,3,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Hey it want let me schedule a time to do DoorDash,Inbound,2025-02-09,True,,4,20,OBJ-NO-003
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Ok,Inbound,2025-02-09,True,,5,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,No,Inbound,2025-02-09,True,,6,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,No,Inbound,2025-02-09,True,,7,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,iPhone,Inbound,2025-02-09,True,,9,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Yes it's not working,Inbound,2025-02-09,True,,10,20,OBJ-GJ-001
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Hey I don't get the background check done yet,Inbound,2025-02-09,True,,11,20,TSI-BC-001
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,Ok,Inbound,2025-02-09,True,,14,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,The picture,Inbound,2025-02-09,True,,16,20,UNCLASSIFIED
+2025-02-12 17:40:07.000000 UTC,UpF,2ff3acd2-9ff0-4a53-96f4-88e2e49a117a,It's not doing it,Inbound,2025-02-09,True,,20,20,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,2,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Ok,Inbound,2025-02-15,,,3,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,4,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Restarted,Inbound,2025-02-15,,,5,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,I keep getting redirected to the FAQ page. This is frustrating,Inbound,2025-02-15,,,9,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Okay,Inbound,2025-02-15,,,10,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,No luck,Inbound,2025-02-15,,,11,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,12,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,I'm unable to complete the application,Inbound,2025-02-15,,,14,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,15,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Nothing changed,Inbound,2025-02-15,,,17,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Ok,Inbound,2025-02-15,,,18,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Nope,Inbound,2025-02-15,,,19,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Ok did it,Inbound,2025-02-15,,,20,32,OBJ-DL-001
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,I'm not able to find the live chat,Inbound,2025-02-15,,,21,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Last 2 are the same screenshots,Inbound,2025-02-15,,,22,32,TSI-WS-001
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,23,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,Restarting phone now,Inbound,2025-02-15,,,24,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,I don't know what else to do. I would really like to start employment,Inbound,2025-02-15,,,26,32,OBJ-GJ-001
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,I don't understand,Inbound,2025-02-15,,,27,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,28,32,UNCLASSIFIED
+2025-02-18 17:45:32.000000 UTC,UpF,30535ffd-0dd9-4051-b6c8-af2cf9d219db,,Inbound,2025-02-15,,,29,32,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,Yes,Inbound,2025-05-20,True,,1,14,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,How much is made on each delivery?,Inbound,2025-05-20,True,,3,14,OBJ-NO-003
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,I haven't received an email for the background check,Inbound,2025-05-20,True,,6,14,TSI-BC-001
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,How do I get to the background check,Inbound,2025-05-20,True,,9,14,TSI-BC-001
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,I completed the picture and driver license step.  What's next.,Inbound,2025-05-20,True,,11,14,OBJ-CP-001
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,Still with me?,Inbound,2025-05-20,True,,13,14,OBJ-SC-001
+2025-05-29 16:31:14.000000 UTC,UpF,3083ec7d-c03e-425c-853b-31c93f6a4687,Please advise,Inbound,2025-05-20,True,,14,14,UNCLASSIFIED
+2025-03-11 16:28:31.000000 UTC,UpF,30992bdc-781a-4bee-8c33-3abaf89f8693,Yes I did I'm still waiting,Inbound,2025-03-05,True,True,1,8,OBJ-DL-001
+2025-03-11 16:28:31.000000 UTC,UpF,30992bdc-781a-4bee-8c33-3abaf89f8693,Just need to download the app,Inbound,2025-03-05,True,True,2,8,UNCLASSIFIED
+2025-03-11 16:28:31.000000 UTC,UpF,30992bdc-781a-4bee-8c33-3abaf89f8693,Ok what happens after,Inbound,2025-03-05,True,True,4,8,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,"No, they are saying contact support",Inbound,2025-03-18,True,True,1,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,,Inbound,2025-03-18,True,True,2,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,It says it's unable to verify my identity,Inbound,2025-03-18,True,True,3,41,OBJ-DL-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,I submitted an form again,Inbound,2025-03-18,True,True,5,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,Yes,Inbound,2025-03-18,True,True,6,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,How do I re submit it?,Inbound,2025-03-18,True,True,8,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,That's what I submitted on the sign up,Inbound,2025-03-18,True,True,9,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,And I submitted my permit I get my drivers license later this week,Inbound,2025-03-18,True,True,10,41,OBJ-CP-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,today,Inbound,2025-03-18,True,True,11,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,Louisiana,Inbound,2025-03-18,True,True,14,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,It's still on that screen,Inbound,2025-03-18,True,True,16,41,OBJ-SC-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,I go later on today so i will submit soon as I get it.,Inbound,2025-03-18,True,True,19,41,OBJ-SC-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,Thanks,Inbound,2025-03-18,True,True,22,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,okay,Inbound,2025-03-18,True,True,27,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,I submitted my drivers license,Inbound,2025-03-18,True,True,28,41,OBJ-CP-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,Yes,Inbound,2025-03-18,True,True,29,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,The office of motor vehicles,Inbound,2025-03-18,True,True,30,41,OBJ-CP-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,yes i finished signing up,Inbound,2025-03-18,True,True,35,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,Hey just tried again and was unable to verify my identity,Inbound,2025-03-18,True,True,36,41,OBJ-DL-001
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,yes,Inbound,2025-03-18,True,True,39,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,I submitted,Inbound,2025-03-18,True,True,40,41,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,31e988cd-be82-4d25-a079-377d0ce85e99,No i was waiting on someone to get back to me,Inbound,2025-03-18,True,True,41,41,UNCLASSIFIED
+2025-02-03 17:39:01.000000 UTC,UpF,3285c083-2c55-4bba-83df-41314fc9c44a,Yes I have a ID,Inbound,2025-01-29,True,,1,8,OBJ-DL-001
+2025-02-03 17:39:01.000000 UTC,UpF,3285c083-2c55-4bba-83df-41314fc9c44a,Yes I can do that,Inbound,2025-01-29,True,,6,8,UNCLASSIFIED
+2025-02-03 17:39:01.000000 UTC,UpF,3285c083-2c55-4bba-83df-41314fc9c44a,It's honestly just the license part I thought I just needed a vehicle I have 2022 truck but not license,Inbound,2025-01-29,True,,8,8,OBJ-CP-001
+2025-02-04 17:38:17.000000 UTC,UpF,33b53243-e3ad-4036-a3e3-cd49ec4f3fad,I should be ready to complete it this afternoon.,Inbound,2025-01-30,,,2,8,UNCLASSIFIED
+2025-02-04 17:38:17.000000 UTC,UpF,33b53243-e3ad-4036-a3e3-cd49ec4f3fad,Yes I'm getting my insurance right before I finish.,Inbound,2025-01-30,,,4,8,UNCLASSIFIED
+2025-02-04 17:38:17.000000 UTC,UpF,33b53243-e3ad-4036-a3e3-cd49ec4f3fad,I will thank you,Inbound,2025-01-30,,,7,8,OBJ-SC-001
+2025-03-26 16:31:51.000000 UTC,UpF,33ff12cc-96c9-425a-9cff-75e4bcd91f37,It wouldn't let me complete it it just goes to a white screen and does nothing,Inbound,2025-03-23,True,True,3,4,TSI-WS-001
+2025-04-17 16:35:47.000000 UTC,UpF,34211270-0b0b-44a3-9d1c-644c5d8dce56,I can do it tonight,Inbound,2025-04-13,True,True,1,12,UNCLASSIFIED
+2025-04-17 16:35:47.000000 UTC,UpF,34211270-0b0b-44a3-9d1c-644c5d8dce56,I did,Inbound,2025-04-13,True,True,5,12,OBJ-DL-001
+2025-04-17 16:35:47.000000 UTC,UpF,34211270-0b0b-44a3-9d1c-644c5d8dce56,I'm in Elkton. And have been driving for a pizza company for a while. Id just like to deliver more.,Inbound,2025-04-13,True,True,7,12,OBJ-CP-001
+2025-04-17 16:35:47.000000 UTC,UpF,34211270-0b0b-44a3-9d1c-644c5d8dce56,So it's saying my license number is invalid.,Inbound,2025-04-13,True,True,8,12,OBJ-DL-001
+2025-04-17 16:35:47.000000 UTC,UpF,34211270-0b0b-44a3-9d1c-644c5d8dce56,So my number changed from the one that was shown,Inbound,2025-04-13,True,True,10,12,UNCLASSIFIED
+2025-03-03 17:48:31.000000 UTC,UpF,34843def-f60f-4676-a38f-24951d06bed3,For purchasing orders?,Inbound,2025-02-27,,,1,6,TSI-NO-001
+2025-03-03 17:48:31.000000 UTC,UpF,34843def-f60f-4676-a38f-24951d06bed3,It still says it can't verify my identity when I try to finish in the app,Inbound,2025-02-27,,,4,6,OBJ-DL-001
+2025-03-03 17:48:31.000000 UTC,UpF,34843def-f60f-4676-a38f-24951d06bed3,"Need fAst money, no time to wait for a card to come in the mail",Inbound,2025-02-27,,,5,6,OBJ-BS-001
+2025-05-05 17:15:42.000000 UTC,UpF,34a59100-6f0b-4112-9bb3-a3ca1e0079d4,Yes I will want u to help me,Inbound,2025-04-25,True,,1,16,OBJ-SC-001
+2025-05-05 17:15:42.000000 UTC,UpF,34a59100-6f0b-4112-9bb3-a3ca1e0079d4,I will but busy for now,Inbound,2025-04-25,True,,12,16,OBJ-BS-001
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,"Kk. Thanks, you as well",Inbound,2025-03-23,True,True,2,19,UNCLASSIFIED
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,Probably Friday,Inbound,2025-03-23,True,True,3,19,OBJ-DL-001
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,Didn't get any hits for 30 minutes so turned it off and will try again another day,Inbound,2025-03-23,True,True,5,19,OBJ-DL-001
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,I completed first order last night. Went good other than the gps pin for customers house is inaccurate. Fortunately she sent me a message in the app telling me her actual coordinates and it was delivered successfully,Inbound,2025-03-23,True,True,8,19,OBJ-TX-001
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,Completed my first door dash. Not sure where to find my crimson account,Inbound,2025-03-23,True,True,10,19,OBJ-NO-003
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,Ok great! Thanks. You as well,Inbound,2025-03-23,True,True,11,19,UNCLASSIFIED
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,Tomorrow evening I can,Inbound,2025-03-23,True,True,16,19,UNCLASSIFIED
+2025-03-26 16:33:03.000000 UTC,UpF,34d61ba5-6b6d-45fb-aba5-afde6ecbc55d,It wouldn't let me do anything until my identity is verified,Inbound,2025-03-23,True,True,19,19,OBJ-DL-001
+2025-01-15 17:31:16.000000 UTC,UpF,355e0900-73ea-49ad-9a24-d51ee5fcd18b,Aún no tengo transporte,Inbound,2025-01-12,True,False,2,3,UNCLASSIFIED
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,Android,Inbound,2025-04-22,True,False,1,14,OBJ-DL-001
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,This is all that comes up. There is no button to push to take selfie. It's just a white page,Inbound,2025-04-22,True,False,2,14,UNCLASSIFIED
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,"Nope, still doing the same thing",Inbound,2025-04-22,True,False,3,14,OBJ-SC-001
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,"Ok, thank you",Inbound,2025-04-22,True,False,4,14,UNCLASSIFIED
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,I called customer service and they told me to fill out a form. Will this prevent me from becoming a dasher?,Inbound,2025-04-22,True,False,7,14,OBJ-NO-003
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,I have tried several times. Deleted the app and everything. Still no change,Inbound,2025-04-22,True,False,8,14,OBJ-BS-001
+2025-05-01 16:33:08.000000 UTC,UpF,35605fd0-b10a-4739-a1ed-1ad75f740381,"Yes, there is something wrong with the app. It will not let me take a selfie to finish identifying me.",Inbound,2025-04-22,True,False,13,14,OBJ-DL-001
+2025-03-13 16:27:13.000000 UTC,UpF,35d75ba6-0c66-4004-a439-ba4468b5e78f,I don't have a lisense,Inbound,2025-03-10,True,,3,3,UNCLASSIFIED
+2025-04-01 16:36:21.000000 UTC,UpF,35f9d09c-a69a-40a2-8d11-0e6d25674350,Working right now. I'll try later.,Inbound,2025-03-29,,,2,5,OBJ-GJ-001
+2025-04-01 16:36:21.000000 UTC,UpF,35f9d09c-a69a-40a2-8d11-0e6d25674350,Take me off,Inbound,2025-03-29,,,4,5,UNCLASSIFIED
+2025-01-29 17:31:29.000000 UTC,UpF,35fed2e2-ad48-4c8e-a733-0f0f1598077e,Wat do I do to start,Inbound,2025-01-26,,,2,3,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,"No, even with Wi-Fi off it wont allow me to continue",Inbound,2025-03-28,True,,3,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,The app goes blank Everytime I scan my face,Inbound,2025-03-28,True,,4,25,OBJ-BS-001
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,Yes,Inbound,2025-03-28,True,,5,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,iPhone,Inbound,2025-03-28,True,,8,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,Wont let me move forward,Inbound,2025-03-28,True,,11,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,e,Inbound,2025-03-28,True,,12,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,It's now not letting me submit my bank info,Inbound,2025-03-28,True,,13,25,TSI-BI-001
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,Ok,Inbound,2025-03-28,True,,14,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,It wont allow me to dash near me,Inbound,2025-03-28,True,,15,25,OBJ-NO-003
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,I'm not sure,Inbound,2025-03-28,True,,16,25,UNCLASSIFIED
+2025-04-01 16:36:37.000000 UTC,UpF,36045d07-472e-4157-ab06-59ba7b75dcec,"It finally worked, thank you",Inbound,2025-03-28,True,,21,25,OBJ-GJ-001
+2025-03-25 16:35:54.000000 UTC,UpF,3676feed-81ee-4f28-b342-1fb15425f2a4,No I'm ready,Inbound,2025-03-19,,,4,4,UNCLASSIFIED
+2025-01-13 17:22:33.000000 UTC,UpF,36a5594a-7711-4cbc-baa1-7ec7500659da,It can't read my license,Inbound,2025-01-08,,,3,4,OBJ-DL-001
+2025-01-21 17:38:53.000000 UTC,UpF,36c14404-5f99-434c-a178-86b267f004a1,Stop,Inbound,2025-01-15,,,3,3,UNCLASSIFIED
+2025-01-15 17:27:15.000000 UTC,UpF,36eb4b70-9896-43f6-b0b6-ad5a5acb8423,I gotta get a New id first,Inbound,2025-01-12,,,2,6,OBJ-DL-001
+2025-02-10 17:34:46.000000 UTC,UpF,36ef8ac3-d51c-4d73-aa64-6280991128b2,"Hi 
+As i am new to dorash how can i get deliveries",Inbound,2025-02-07,True,True,2,4,UNCLASSIFIED
+2025-02-10 17:34:46.000000 UTC,UpF,36ef8ac3-d51c-4d73-aa64-6280991128b2,I clicked on dash now but there is no delivery here,Inbound,2025-02-07,True,True,3,4,OBJ-NO-003
+2025-03-25 16:35:54.000000 UTC,UpF,37064aa9-c363-40c1-b8dd-3eb7a339fcb8,Nope,Inbound,2025-03-20,,,5,6,UNCLASSIFIED
+2025-03-25 16:35:54.000000 UTC,UpF,37064aa9-c363-40c1-b8dd-3eb7a339fcb8,Fuck uuuuuu,Inbound,2025-03-20,,,6,6,UNCLASSIFIED
+2025-01-23 17:24:24.000000 UTC,UpF,384d4941-ad0d-4729-9b69-d00326628d22,Hi! I'm stuck on this screen after submitting my license and photo. I haven't been able to get past this page,Inbound,2025-01-16,,,1,5,OBJ-DL-001
+2025-02-03 17:42:37.000000 UTC,UpF,3889be35-f7dc-4278-9b08-1383e6277b57,No I'm ready,Inbound,2025-01-31,True,,6,6,UNCLASSIFIED
+2025-03-17 16:41:59.000000 UTC,UpF,38be043f-8f26-4b07-90bb-b54133cd4d4d,"Hello, it is still asking for my ID.",Inbound,2025-03-12,True,,2,9,OBJ-DL-001
+2025-03-17 16:41:59.000000 UTC,UpF,38be043f-8f26-4b07-90bb-b54133cd4d4d,Yes. The fact that I've tried submitting my ID multiple times and nothing happens.,Inbound,2025-03-12,True,,5,9,OBJ-BS-001
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,"Oh okay sick, thanks",Inbound,2025-01-09,True,False,1,15,OBJ-SC-001
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,My identity is being verified,Inbound,2025-01-09,True,False,3,15,OBJ-DL-001
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,Or just in the first week?,Inbound,2025-01-09,True,False,4,15,OBJ-TX-001
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,"Yep, I got everything completed, so now I'm ready to start dashing",Inbound,2025-01-09,True,False,5,15,OBJ-NO-003
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,Do I get the free bag if my first delivery is within a week of signing up? Or just anytime?,Inbound,2025-01-09,True,False,8,15,OBJ-NO-003
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,Is it anytime?,Inbound,2025-01-09,True,False,10,15,OBJ-BS-001
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,"Yep, it worked!",Inbound,2025-01-09,True,False,13,15,OBJ-GJ-001
+2025-01-14 17:21:29.000000 UTC,UpF,38ed2bce-baac-450a-acd6-88a72456c990,"I do not, unfortunately, but I will likely start in the next 5 days",Inbound,2025-01-09,True,False,15,15,OBJ-SC-001
+2025-03-17 16:35:17.000000 UTC,UpF,391c6335-dd2b-474e-ae66-399766dd5aae,"That's what I'm wondering, had my identity been verified yet",Inbound,2025-03-14,True,,2,9,OBJ-DL-001
+2025-05-12 16:44:54.000000 UTC,UpF,3963b27e-cbe0-45ce-8337-438c76549f11,No,Inbound,2025-05-01,,,2,8,UNCLASSIFIED
+2025-05-12 16:44:54.000000 UTC,UpF,3963b27e-cbe0-45ce-8337-438c76549f11,I want to earn extra cash,Inbound,2025-05-01,,,4,8,UNCLASSIFIED
+2025-05-12 16:44:54.000000 UTC,UpF,3963b27e-cbe0-45ce-8337-438c76549f11,Yes,Inbound,2025-05-01,,,5,8,UNCLASSIFIED
+2025-05-12 16:44:54.000000 UTC,UpF,3963b27e-cbe0-45ce-8337-438c76549f11,What application,Inbound,2025-05-01,,,7,8,UNCLASSIFIED
+2025-02-06 17:58:21.000000 UTC,UpF,3a1cfd88-8f7d-4200-aeb3-14f37c535be7,Hello I need to change my information of my car,Inbound,2025-02-03,,,2,3,OBJ-CP-001
+2025-01-21 17:38:53.000000 UTC,UpF,3a1d09eb-6b61-40ac-a42c-f9c0a97e9818,No,Inbound,2025-01-15,,,4,6,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,3a1d09eb-6b61-40ac-a42c-f9c0a97e9818,Android,Inbound,2025-01-15,,,5,6,OBJ-DL-001
+2025-01-21 17:38:53.000000 UTC,UpF,3a1d09eb-6b61-40ac-a42c-f9c0a97e9818,I can't get the application to load,Inbound,2025-01-15,,,6,6,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,If you open a review what does that do?,Inbound,2025-05-20,True,,2,21,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,,Inbound,2025-05-20,True,,3,21,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,I did still doing this,Inbound,2025-05-20,True,,4,21,OBJ-DL-001
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,No I haven't yet I was going to try in a little bit.,Inbound,2025-05-20,True,,6,21,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,Yes,Inbound,2025-05-20,True,,8,21,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,Same thing try again later I guess,Inbound,2025-05-20,True,,10,21,UNCLASSIFIED
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,Im on a android,Inbound,2025-05-20,True,,11,21,OBJ-DL-001
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,Wouldn't let me go to the next step said to center yourself in the camera and nothing was happening,Inbound,2025-05-20,True,,12,21,OBJ-DL-001
+2025-05-29 16:31:14.000000 UTC,UpF,3b159c41-0c51-4273-b3bc-31460de7ed9b,I just tried and it got to where it asked me for my address to send a gift if I do a delivery in 7 days then it said error,Inbound,2025-05-20,True,,19,21,OBJ-NO-003
+2025-02-12 17:35:37.000000 UTC,UpF,3b385007-5b8d-4bff-8572-6be585855df4,For some reason the app blacked out on my phone so I guess I need to uninstall and reinstall,Inbound,2025-02-08,,,4,6,UNCLASSIFIED
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,No,Inbound,2025-01-14,,,1,19,UNCLASSIFIED
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,Yes,Inbound,2025-01-14,,,6,19,UNCLASSIFIED
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,Yes,Inbound,2025-01-14,,,7,19,UNCLASSIFIED
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,The system won't accept my license for some reason,Inbound,2025-01-14,,,12,19,OBJ-DL-001
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,WiFi,Inbound,2025-01-14,,,14,19,UNCLASSIFIED
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,No I'm stuck at id scan,Inbound,2025-01-14,,,17,19,OBJ-DL-001
+2025-01-17 17:27:50.000000 UTC,UpF,3bb968bf-e08f-443c-847c-25a1af324c30,Could you help me finish signing up?,Inbound,2025-01-14,,,18,19,UNCLASSIFIED
+2025-02-06 18:02:49.000000 UTC,UpF,3bbfe0db-88a0-493e-ba80-7a7f7945a0d5,Thank you,Inbound,2025-02-03,True,,2,10,UNCLASSIFIED
+2025-02-06 18:02:49.000000 UTC,UpF,3bbfe0db-88a0-493e-ba80-7a7f7945a0d5,Thank you,Inbound,2025-02-03,True,,3,10,UNCLASSIFIED
+2025-02-06 18:02:49.000000 UTC,UpF,3bbfe0db-88a0-493e-ba80-7a7f7945a0d5,"I apologize, I never got around to delivering, I have been busy for the past few days. I'll start delivering tomorrow.",Inbound,2025-02-03,True,,8,10,OBJ-NO-003
+2025-03-25 16:34:15.000000 UTC,UpF,3cab0ee4-14c4-4de5-991a-a168fdefcdcf,STOP,Inbound,2025-03-19,,,2,3,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,3dcceca8-3157-4ad4-9720-5461e9394a5b,I can finish the application,Inbound,2025-03-20,True,,5,8,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,3dcceca8-3157-4ad4-9720-5461e9394a5b,No,Inbound,2025-03-20,True,,7,8,UNCLASSIFIED
+2025-03-25 16:34:15.000000 UTC,UpF,3dcceca8-3157-4ad4-9720-5461e9394a5b,I did it already,Inbound,2025-03-20,True,,8,8,OBJ-DL-001
+2025-01-16 20:25:58.000000 UTC,UpF,3ee32199-5d8a-48d1-a2cb-d853e33ab8f1,No it's a white page that won't load after I uploaded my id,Inbound,2025-01-13,,,1,9,OBJ-DL-001
+2025-01-16 20:25:58.000000 UTC,UpF,3ee32199-5d8a-48d1-a2cb-d853e33ab8f1,Yes sorry,Inbound,2025-01-13,,,2,9,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,3ee32199-5d8a-48d1-a2cb-d853e33ab8f1,Do you mind sending the link to complete,Inbound,2025-01-13,,,6,9,UNCLASSIFIED
+2025-01-16 20:25:58.000000 UTC,UpF,3ee32199-5d8a-48d1-a2cb-d853e33ab8f1,I went back in and finished uploading my information,Inbound,2025-01-13,,,9,9,TSI-CB-001
+2025-05-30 16:24:40.000000 UTC,UpF,3ef623be-c987-4fc7-bbee-c1984cef17e8,Okay,Inbound,2025-05-27,,,1,6,UNCLASSIFIED
+2025-05-30 16:24:40.000000 UTC,UpF,3ef623be-c987-4fc7-bbee-c1984cef17e8,STFU,Inbound,2025-05-27,,,6,6,UNCLASSIFIED
+2025-03-26 16:28:41.000000 UTC,UpF,3efcf7d2-6002-4b6c-be82-8c55d881fa69,Okay,Inbound,2025-03-22,,,1,7,UNCLASSIFIED
+2025-03-26 16:28:41.000000 UTC,UpF,3efcf7d2-6002-4b6c-be82-8c55d881fa69,My paper ID has a picture on it,Inbound,2025-03-22,,,4,7,OBJ-DL-001
+2025-03-26 16:28:41.000000 UTC,UpF,3efcf7d2-6002-4b6c-be82-8c55d881fa69,I only have a paper ID,Inbound,2025-03-22,,,6,7,OBJ-DL-001
+2025-01-22 18:46:08.000000 UTC,UpF,3eff28c0-fb7e-499c-a0bc-31f6b5262f76,"If I have social security but I don't have a license, only an ID, does the person need social security to start working at this company?",Inbound,2025-01-17,,,3,6,OBJ-GJ-001
+2025-01-22 18:46:08.000000 UTC,UpF,3eff28c0-fb7e-499c-a0bc-31f6b5262f76,"Hi, what do I have to do? The other person told me to go to the indii app if it is",Inbound,2025-01-17,,,5,6,UNCLASSIFIED
+2025-01-22 18:46:08.000000 UTC,UpF,3eff28c0-fb7e-499c-a0bc-31f6b5262f76,"Yes, I understand English but I don't speak it perfectly. I just translate the messages now.",Inbound,2025-01-17,,,6,6,UNCLASSIFIED
+2025-04-15 16:39:46.000000 UTC,UpF,3f70115b-7a4d-46fe-8d46-c81b01460c64,I just haven't gotten time to finish filling it out I'm sorry,Inbound,2025-04-12,True,,1,8,OBJ-BS-001
+2025-04-15 16:39:46.000000 UTC,UpF,3f70115b-7a4d-46fe-8d46-c81b01460c64,I did,Inbound,2025-04-12,True,,7,8,OBJ-DL-001
+2025-01-30 17:22:24.000000 UTC,UpF,3f9bef54-5450-4049-8f7e-0db160082f6f,Thank you for the help,Inbound,2025-01-15,True,,2,10,UNCLASSIFIED
+2025-01-30 17:22:24.000000 UTC,UpF,3f9bef54-5450-4049-8f7e-0db160082f6f,Hey Alex,Inbound,2025-01-15,True,,3,10,UNCLASSIFIED
+2025-01-30 17:22:24.000000 UTC,UpF,3f9bef54-5450-4049-8f7e-0db160082f6f,I think I have submitted a background check,Inbound,2025-01-15,True,,4,10,TSI-BC-001
+2025-01-30 17:22:24.000000 UTC,UpF,3f9bef54-5450-4049-8f7e-0db160082f6f,I can do that myself,Inbound,2025-01-15,True,,6,10,UNCLASSIFIED
+2025-01-30 17:22:24.000000 UTC,UpF,3f9bef54-5450-4049-8f7e-0db160082f6f,No,Inbound,2025-01-15,True,,9,10,UNCLASSIFIED
+2025-01-31 17:26:53.000000 UTC,UpF,3fbd7f0f-c35f-44d9-86ef-12a193c41043,Yes! 👍,Inbound,2025-01-28,,,1,6,UNCLASSIFIED
+2025-01-31 17:26:53.000000 UTC,UpF,3fbd7f0f-c35f-44d9-86ef-12a193c41043,Okay!,Inbound,2025-01-28,,,4,6,UNCLASSIFIED
+2025-04-14 16:43:00.000000 UTC,UpF,40b800fb-8a49-4439-812e-e336f59d29b8,Do y'all have a option for foot delivery,Inbound,2025-04-09,,,4,6,OBJ-NO-003
+2025-03-04 17:39:21.000000 UTC,UpF,41419389-c010-4ace-bc45-0b4c019907b2,Dentener,Inbound,2025-03-01,,,1,3,UNCLASSIFIED
+2025-02-13 19:17:20.000000 UTC,UpF,4172d802-f0ff-4d5b-865e-a8b7acc9a4ae,eat shit,Inbound,2025-02-06,,,1,3,UNCLASSIFIED
+2025-03-26 16:37:09.000000 UTC,UpF,4220485b-d9ee-4a7f-aa20-97dd9e2eb1b1,I dont have a drivers liscense i have a ebike,Inbound,2025-03-21,,,1,5,OBJ-BK-001
+2025-03-26 16:37:09.000000 UTC,UpF,4220485b-d9ee-4a7f-aa20-97dd9e2eb1b1,No id,Inbound,2025-03-21,,,4,5,OBJ-DL-001
+2025-04-03 16:36:27.000000 UTC,UpF,426be6c2-9e17-4ac2-a299-293d1c9feaea,I want to do the dordash,Inbound,2025-03-30,True,,2,3,OBJ-NO-003
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,I am reporting you,Inbound,2025-05-23,,,1,8,UNCLASSIFIED
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,STOP,Inbound,2025-05-23,,,2,8,UNCLASSIFIED
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,Stop,Inbound,2025-05-23,,,3,8,UNCLASSIFIED
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,Sending me orders,Inbound,2025-05-23,,,4,8,TSI-NO-001
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,Start,Inbound,2025-05-23,,,6,8,UNCLASSIFIED
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,I am reporting your business to the police,Inbound,2025-05-23,,,7,8,UNCLASSIFIED
+2025-05-27 16:22:03.000000 UTC,UpF,426fa6da-70f4-4425-9871-b131d1766f29,START,Inbound,2025-05-23,,,8,8,UNCLASSIFIED
+2025-02-03 17:38:29.000000 UTC,UpF,430ae898-ddd0-405b-ba45-d153651787be,And how do I know you're really from door dash,Inbound,2025-01-30,,,2,11,OBJ-NO-003
+2025-02-03 17:38:29.000000 UTC,UpF,430ae898-ddd0-405b-ba45-d153651787be,I did complete it?!,Inbound,2025-01-30,,,4,11,OBJ-DL-001
+2025-02-03 17:38:29.000000 UTC,UpF,430ae898-ddd0-405b-ba45-d153651787be,"Liked ""Oh I see, it looks like you had started a dasher a...""",Inbound,2025-01-30,,,8,11,OBJ-NO-003
+2025-02-03 17:38:29.000000 UTC,UpF,430ae898-ddd0-405b-ba45-d153651787be,That isn't my email address though. At least not the one I'm registered with DoorDash for,Inbound,2025-01-30,,,9,11,OBJ-NO-003
+2025-02-03 17:38:29.000000 UTC,UpF,430ae898-ddd0-405b-ba45-d153651787be,Nope,Inbound,2025-01-30,,,10,11,UNCLASSIFIED
+2025-02-03 17:42:37.000000 UTC,UpF,43a41ed9-bcce-48cb-8faf-cbc0b62db1c0,I finished it,Inbound,2025-01-31,True,True,2,4,UNCLASSIFIED
+2025-02-24 17:29:31.000000 UTC,UpF,45332a38-cccc-4280-8b6e-cb757f3be59b,Yes. I failed the identity verification because my face scan was blurry and it stopped me. I emailed support and they said they fixed it so I could retry but it is not letting me. Please advise I would like to start. Thanks,Inbound,2025-02-15,,,3,3,OBJ-DL-001
+2025-04-21 16:26:25.000000 UTC,UpF,454497d4-d811-4c19-bb37-e67a28c0cc5e,"I think it's my cloud storage or something, but it won't let me download the app as soon as I can I'll be ready",Inbound,2025-04-17,True,False,4,6,UNCLASSIFIED
+2025-04-21 16:26:25.000000 UTC,UpF,454497d4-d811-4c19-bb37-e67a28c0cc5e,Does the app cost to download?,Inbound,2025-04-17,True,False,5,6,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,45a67b67-07dc-47c6-b4ab-bb1f0b02f67d,What's happening to it right now,Inbound,2025-02-07,True,,2,10,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,45a67b67-07dc-47c6-b4ab-bb1f0b02f67d,Okay thank you it's processing now,Inbound,2025-02-07,True,,4,10,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,45a67b67-07dc-47c6-b4ab-bb1f0b02f67d,How long does the background check take,Inbound,2025-02-07,True,,6,10,TSI-BC-001
+2025-02-10 17:28:33.000000 UTC,UpF,45a67b67-07dc-47c6-b4ab-bb1f0b02f67d,No,Inbound,2025-02-07,True,,7,10,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,45a67b67-07dc-47c6-b4ab-bb1f0b02f67d,I can't it says We're currently verifying your identity. Our team will update you via email in the next 24 to 48 hours. Once verified you'll be able to continue with your application.,Inbound,2025-02-07,True,,10,10,OBJ-DL-001
+2025-02-03 17:38:29.000000 UTC,UpF,463caba6-2a87-4f8d-bcb4-c3825e397337,Just about done with application.  Would like to start as soon as possible,Inbound,2025-01-31,True,,3,3,UNCLASSIFIED
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,Thank you so much I appreciate it. He plays about 80 baseball games from June until October so we are busy all week and the weekends so on days that we are free during the day that's when we plan on dashing. And he will be helping me because I'm going to use it as his job but I'm going to be the one working he will just earn the money.,Inbound,2025-04-17,True,True,1,17,OBJ-NO-003
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,How long does it take to get the email verifying my identity?  I did the photo of my ID and a face scan.,Inbound,2025-04-17,True,True,7,17,OBJ-DL-001
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,My son is 17 so he's going to be helping me.  I'm old lol.,Inbound,2025-04-17,True,True,9,17,UNCLASSIFIED
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,I have a pickup at a 7-Eleven that is liquor. And it's not giving me the directions it's not working like it normally does all it says is return to task but it just takes me to a black screen with the red check mark in the center. What how do I handle liquor because it's not giving me directions,Inbound,2025-04-17,True,True,11,17,OBJ-GJ-001
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,I'm still interested in door dash but it will be sporadic as best until summer and my son is out of school.  So end of May.,Inbound,2025-04-17,True,True,12,17,OBJ-NO-003
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,I got it straightened out and figured out the ID scan.,Inbound,2025-04-17,True,True,13,17,OBJ-DL-001
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,He's going to be my Runner running and get food or whatever the case is or dropping it off. It helps him get past some of his social anxiety as well,Inbound,2025-04-17,True,True,14,17,UNCLASSIFIED
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,We've done like 5 or 6.  It was a bit confusing at first but we got the hang of it now.,Inbound,2025-04-17,True,True,16,17,OBJ-TX-001
+2025-04-21 16:32:26.000000 UTC,UpF,473e5bb8-1374-442d-b632-f6aa8d7dcb4a,We are getting ready to dash for the first time. We are headed to the Arnold area,Inbound,2025-04-17,True,True,17,17,OBJ-NO-003
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,"I have my state ID, and no I haven't recently tried",Inbound,2025-04-06,,,3,15,OBJ-DL-001
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,"It's off-topic; I'm not sure if you can answer or not, but you should follow me on Instagram, and we can be mutuals.",Inbound,2025-04-06,,,6,15,UNCLASSIFIED
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,"Désolé si cette question vous met mal à l'aise, mon cœur.",Inbound,2025-04-06,,,7,15,UNCLASSIFIED
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,"My driver license, but it's currently on paper bc the real id hasn't been delivered yet",Inbound,2025-04-06,,,8,15,OBJ-CP-001
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,How are you,Inbound,2025-04-06,,,10,15,UNCLASSIFIED
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,Hey Alex,Inbound,2025-04-06,,,12,15,UNCLASSIFIED
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,Okay thank you!,Inbound,2025-04-06,,,13,15,UNCLASSIFIED
+2025-04-11 16:38:48.000000 UTC,UpF,48900236-dce2-4df4-9faa-72663cc18759,I have one more question,Inbound,2025-04-06,,,14,15,UNCLASSIFIED
+2025-01-17 17:26:00.000000 UTC,UpF,499e9dc7-942d-463a-b9d1-271a1565844b,"No, I just need to submit my drivers liscense",Inbound,2025-01-14,,,2,4,OBJ-CP-001
+2025-03-14 16:28:39.000000 UTC,UpF,4c99e434-b300-469e-aa41-aef48e665b2c,Stop,Inbound,2025-03-11,,,1,3,UNCLASSIFIED
+2025-03-14 16:28:39.000000 UTC,UpF,4c99e434-b300-469e-aa41-aef48e665b2c,"I won't be doing it any longer, thank you",Inbound,2025-03-11,,,3,3,UNCLASSIFIED
+2025-03-24 22:56:48.000000 UTC,UpF,4dc92f81-bc7e-4e10-9141-e2618ddc8942,It states that my identity is still being verified- it's also said that for a few days now,Inbound,2025-03-19,True,,1,6,OBJ-DL-001
+2025-01-30 17:22:24.000000 UTC,UpF,4e5f9693-ae37-4646-922a-5bf40f8ce0fe,Ok,Inbound,2025-01-15,,,1,7,UNCLASSIFIED
+2025-01-30 17:22:24.000000 UTC,UpF,4e5f9693-ae37-4646-922a-5bf40f8ce0fe,I did tht,Inbound,2025-01-15,,,3,7,OBJ-DL-001
+2025-01-30 17:22:24.000000 UTC,UpF,4e5f9693-ae37-4646-922a-5bf40f8ce0fe,No kirkwoodrayray534@gmail.com,Inbound,2025-01-15,,,4,7,UNCLASSIFIED
+2025-01-30 17:22:24.000000 UTC,UpF,4e5f9693-ae37-4646-922a-5bf40f8ce0fe,My background check,Inbound,2025-01-15,,,5,7,TSI-BC-001
+2025-02-05 17:27:09.000000 UTC,UpF,4e6db2c4-3d37-420d-a559-2528f6f0166b,Wouldn't you go through,Inbound,2025-02-02,,,1,9,UNCLASSIFIED
+2025-02-05 17:27:09.000000 UTC,UpF,4e6db2c4-3d37-420d-a559-2528f6f0166b,Ok,Inbound,2025-02-02,,,4,9,UNCLASSIFIED
+2025-02-05 17:27:09.000000 UTC,UpF,4e6db2c4-3d37-420d-a559-2528f6f0166b,Yes,Inbound,2025-02-02,,,8,9,UNCLASSIFIED
+2025-02-05 17:27:09.000000 UTC,UpF,4e6db2c4-3d37-420d-a559-2528f6f0166b,"I can't do that, Alex because I don't have the proper papers for you.I have a Driver's license.I have a car but that's it",Inbound,2025-02-02,,,9,9,OBJ-CP-001
+2025-01-21 17:38:53.000000 UTC,UpF,4eeae78e-4056-4d2c-a00c-953cc66bdd66,"I'm Driving
+
+- Sent from My Car",Inbound,2025-01-16,,,2,7,OBJ-CP-001
+2025-01-21 17:38:53.000000 UTC,UpF,4eeae78e-4056-4d2c-a00c-953cc66bdd66,Are you a support person?,Inbound,2025-01-16,,,5,7,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,4eeae78e-4056-4d2c-a00c-953cc66bdd66,It froze when I was applying,Inbound,2025-01-16,,,6,7,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,4efe3d98-7450-4b1e-8f44-df98b9afef73,No,Inbound,2025-02-20,True,,1,7,UNCLASSIFIED
+2025-02-25 17:28:36.000000 UTC,UpF,4efe3d98-7450-4b1e-8f44-df98b9afef73,Yes,Inbound,2025-02-20,True,,4,7,UNCLASSIFIED
+2025-03-28 16:39:33.000000 UTC,UpF,4f21dc9e-1d41-49a6-a18c-aa809c8d7de1,It will say my phone number is incorrect when I put the new phone number in,Inbound,2025-03-25,,,4,8,OBJ-SC-001
+2025-03-28 16:39:33.000000 UTC,UpF,4f21dc9e-1d41-49a6-a18c-aa809c8d7de1,"So I tried putting my new I mean, I put my new phone number in there twice and the second time it wouldn't give me a code. I don't know why.",Inbound,2025-03-25,,,5,8,OBJ-BS-001
+2025-03-28 16:39:33.000000 UTC,UpF,4f21dc9e-1d41-49a6-a18c-aa809c8d7de1,I can't get in my acct due two second verification not sending code to my phone,Inbound,2025-03-25,,,8,8,TSI-2S-001
+2025-03-06 17:31:53.000000 UTC,UpF,4f7e1750-f5f2-4aa1-9341-db0c4fadde23,They didn't want to help me,Inbound,2025-03-03,True,,2,3,OBJ-DL-001
+2025-01-22 18:46:08.000000 UTC,UpF,4fbf184c-7bf7-42bf-a5ae-d5158a8a9fb6,The loading,Inbound,2025-01-16,,,1,4,TSI-CB-001
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,Yes we're still interested but needing another phone which I don't have access to at this time,Inbound,2025-04-08,,,1,17,OBJ-BS-001
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,I'm not sure.,Inbound,2025-04-08,,,3,17,UNCLASSIFIED
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,No.,Inbound,2025-04-08,,,8,17,UNCLASSIFIED
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,The app keeps freezing up and causes my phone to freeze,Inbound,2025-04-08,,,9,17,TSI-AC-001
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,Also it is okay if my mother in law and I do it together,Inbound,2025-04-08,,,10,17,UNCLASSIFIED
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,Just cancel it until I'm ready.,Inbound,2025-04-08,,,14,17,UNCLASSIFIED
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,Thank you,Inbound,2025-04-08,,,15,17,UNCLASSIFIED
+2025-04-11 16:35:32.000000 UTC,UpF,4fd37726-7671-4e8a-b561-05567c387e96,I did that. Still freezing up,Inbound,2025-04-08,,,16,17,OBJ-DL-001
+2025-02-24 17:33:58.000000 UTC,UpF,4ffe6dfd-44c4-4bd7-8d07-7b095a659fba,I am currently working a 2nd job and my final day is March 6th. Then I will be starting with Door Dash.,Inbound,2025-02-19,True,True,1,7,OBJ-NO-003
+2025-02-24 17:33:58.000000 UTC,UpF,4ffe6dfd-44c4-4bd7-8d07-7b095a659fba,I will check it right now,Inbound,2025-02-19,True,True,7,7,OBJ-SC-001
+2025-01-17 17:27:50.000000 UTC,UpF,5041e17a-34c4-44dd-a731-cf3f33c69d73,I finished the application and am able to begging dashing!,Inbound,2025-01-14,True,True,2,3,OBJ-NO-003
+2025-01-06 17:25:55.000000 UTC,UpF,5090616a-c58e-4751-a810-d632958666d7,I'm trying,Inbound,2025-01-01,,,2,7,UNCLASSIFIED
+2025-01-06 17:25:55.000000 UTC,UpF,5090616a-c58e-4751-a810-d632958666d7,Yes,Inbound,2025-01-01,,,3,7,UNCLASSIFIED
+2025-01-06 17:25:55.000000 UTC,UpF,5090616a-c58e-4751-a810-d632958666d7,Yes,Inbound,2025-01-01,,,4,7,UNCLASSIFIED
+2025-03-11 16:31:37.000000 UTC,UpF,51506ee4-62ba-4d94-b4f8-647714dc737a,I got it,Inbound,2025-03-06,,,1,3,UNCLASSIFIED
+2025-03-11 16:31:37.000000 UTC,UpF,51506ee4-62ba-4d94-b4f8-647714dc737a,Stop,Inbound,2025-03-06,,,2,3,UNCLASSIFIED
+2025-02-20 17:27:35.000000 UTC,UpF,515c40ca-870e-4514-b2fc-3c07c4935c32,"Hello Alex, yes I'm just waiting until I get paid again to get insurance for my new car given that I'm a new driver.",Inbound,2025-02-11,True,False,1,3,OBJ-CP-001
+2025-01-16 20:23:49.000000 UTC,UpF,516cd6ff-b694-4f09-b421-fac9d1bd7bf1,"Hey Alex, are you guys looking for drivers in the Norman, Oklahoma city OK area?",Inbound,2025-01-13,True,,3,5,OBJ-CP-001
+2025-01-22 18:48:49.000000 UTC,UpF,5206df9c-2e70-41e8-b87e-36510baad72c,What is the minimum age to be a dasher,Inbound,2025-01-19,,,3,3,OBJ-NO-003
+2025-04-28 16:39:10.000000 UTC,UpF,5220b72e-dd14-44b2-8392-d9acfca8f405,,Inbound,2025-04-22,,,4,5,UNCLASSIFIED
+2025-04-28 16:39:10.000000 UTC,UpF,5220b72e-dd14-44b2-8392-d9acfca8f405,"Your system is fucked up, basically",Inbound,2025-04-22,,,5,5,UNCLASSIFIED
+2025-01-14 17:21:05.000000 UTC,UpF,52bbb4a3-4b2f-4728-aed3-dd7bbb0e76a9,yes i can try it again,Inbound,2025-01-09,True,,4,8,UNCLASSIFIED
+2025-01-14 17:21:05.000000 UTC,UpF,52bbb4a3-4b2f-4728-aed3-dd7bbb0e76a9,it says i'm good to go now,Inbound,2025-01-09,True,,5,8,UNCLASSIFIED
+2025-01-14 17:21:05.000000 UTC,UpF,52bbb4a3-4b2f-4728-aed3-dd7bbb0e76a9,"Well I would like to finish the application but when I go to do it says ""we're currently certifying your identity"" which it has almost taken a week to approve",Inbound,2025-01-09,True,,6,8,OBJ-DL-001
+2025-01-14 17:21:05.000000 UTC,UpF,52bbb4a3-4b2f-4728-aed3-dd7bbb0e76a9,STOP,Inbound,2025-01-09,True,,7,8,UNCLASSIFIED
+2025-05-19 16:36:53.000000 UTC,UpF,532db9a9-c3e7-4485-8f00-3d2219ce1dac,I am supposed to get it on Sunday!,Inbound,2025-05-10,,,5,7,UNCLASSIFIED
+2025-05-19 16:36:53.000000 UTC,UpF,532db9a9-c3e7-4485-8f00-3d2219ce1dac,Hi Alex! I will finish completing my application. I recently lost my id so I'm just waiting on a replacement!,Inbound,2025-05-10,,,7,7,OBJ-DL-001
+2025-04-28 16:33:57.000000 UTC,UpF,5363947b-3648-4ea4-8a0a-e63bd0abc59e,Nvm,Inbound,2025-04-19,,,2,9,UNCLASSIFIED
+2025-04-28 16:33:57.000000 UTC,UpF,5363947b-3648-4ea4-8a0a-e63bd0abc59e,I don't have a license yet just an id,Inbound,2025-04-19,,,5,9,OBJ-DL-001
+2025-04-28 16:33:57.000000 UTC,UpF,5363947b-3648-4ea4-8a0a-e63bd0abc59e,Nope,Inbound,2025-04-19,,,6,9,UNCLASSIFIED
+2025-03-25 16:33:37.000000 UTC,UpF,540dc2e1-fa77-4a67-a24d-40f3d16c14a8,I'm just searching for cars,Inbound,2025-03-22,True,,1,15,OBJ-CP-001
+2025-03-25 16:33:37.000000 UTC,UpF,540dc2e1-fa77-4a67-a24d-40f3d16c14a8,All good,Inbound,2025-03-22,True,,4,15,UNCLASSIFIED
+2025-03-25 16:33:37.000000 UTC,UpF,540dc2e1-fa77-4a67-a24d-40f3d16c14a8,Thank you,Inbound,2025-03-22,True,,7,15,UNCLASSIFIED
+2025-03-25 16:33:37.000000 UTC,UpF,540dc2e1-fa77-4a67-a24d-40f3d16c14a8,Soon hopefully,Inbound,2025-03-22,True,,8,15,UNCLASSIFIED
+2025-03-25 16:33:37.000000 UTC,UpF,540dc2e1-fa77-4a67-a24d-40f3d16c14a8,Oh yes I did it,Inbound,2025-03-22,True,,10,15,OBJ-DL-001
+2025-03-25 16:33:37.000000 UTC,UpF,540dc2e1-fa77-4a67-a24d-40f3d16c14a8,On the app or via text?,Inbound,2025-03-22,True,,13,15,UNCLASSIFIED
+2025-01-09 17:40:17.000000 UTC,UpF,54da808c-73ea-4065-a5f5-b696e5394b5b,Yes,Inbound,2025-01-06,True,,3,4,UNCLASSIFIED
+2025-01-13 17:27:57.000000 UTC,UpF,55992f77-0f53-4117-8a2a-f7853254e8d6,Do I have to schedule a time to make deliveries?,Inbound,2025-01-08,True,True,1,8,OBJ-BS-001
+2025-01-13 17:27:57.000000 UTC,UpF,55992f77-0f53-4117-8a2a-f7853254e8d6,It won't let me proceed. It's waiting on verification from your end,Inbound,2025-01-08,True,True,6,8,TSI-2S-001
+2025-01-13 17:27:57.000000 UTC,UpF,55992f77-0f53-4117-8a2a-f7853254e8d6,I can't just hop on and off when I'm available?,Inbound,2025-01-08,True,True,7,8,UNCLASSIFIED
+2025-04-14 16:41:22.000000 UTC,UpF,55b89542-0db0-4c9a-abb5-c547bbbc985f,It went really well. I'm looking forward to a lot of hours this weekend. 5-10 days is great. Thank you,Inbound,2025-04-09,True,True,7,15,UNCLASSIFIED
+2025-04-14 16:41:22.000000 UTC,UpF,55b89542-0db0-4c9a-abb5-c547bbbc985f,Are there any sign up promotions? I am currently working for Uber and it's going well.,Inbound,2025-04-09,True,True,9,15,OBJ-GJ-001
+2025-04-14 16:41:22.000000 UTC,UpF,55b89542-0db0-4c9a-abb5-c547bbbc985f,Any promos for new drivers?,Inbound,2025-04-09,True,True,14,15,OBJ-CP-001
+2025-04-14 16:41:22.000000 UTC,UpF,55b89542-0db0-4c9a-abb5-c547bbbc985f,Please send me my welcome kit! I have started Dashing today,Inbound,2025-04-09,True,True,15,15,OBJ-NO-003
+2025-01-09 17:40:17.000000 UTC,UpF,576dfbce-ba50-4edd-ba2e-f49a83a3d043,Whattt,Inbound,2025-01-06,,,2,4,UNCLASSIFIED
+2025-01-02 17:27:53.000000 UTC,UpF,579739f4-33c4-41e2-8040-490aa42edb77,It says my background check is pending and it may take up to 3 days. I'm just waiting to be approved I guess. I couldn't do much more from what I could tell,Inbound,2024-12-30,True,,1,4,TSI-BC-001
+2025-01-02 17:27:53.000000 UTC,UpF,579739f4-33c4-41e2-8040-490aa42edb77,Thanks!,Inbound,2024-12-30,True,,3,4,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,57c7070e-0a12-4be0-8ad1-6a468bef9360,No it's just that I ain't even wanted,Inbound,2024-12-26,,,1,8,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,57c7070e-0a12-4be0-8ad1-6a468bef9360,I mean nothing is wrong,Inbound,2024-12-26,,,3,8,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,57c7070e-0a12-4be0-8ad1-6a468bef9360,Wha... what,Inbound,2024-12-26,,,6,8,UNCLASSIFIED
+2025-01-02 17:29:15.000000 UTC,UpF,57c7070e-0a12-4be0-8ad1-6a468bef9360,I can even talk right,Inbound,2024-12-26,,,8,8,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,57e32a10-757f-46f9-8536-c120f5fc27da,No there isn't.,Inbound,2024-12-30,True,,2,8,UNCLASSIFIED
+2025-01-02 17:26:50.000000 UTC,UpF,57e32a10-757f-46f9-8536-c120f5fc27da,I need the link to upload my id,Inbound,2024-12-30,True,,4,8,OBJ-DL-001
+2025-01-02 17:26:50.000000 UTC,UpF,57e32a10-757f-46f9-8536-c120f5fc27da,I filled out the application,Inbound,2024-12-30,True,,8,8,OBJ-SC-001
+2025-01-31 17:26:53.000000 UTC,UpF,58066fea-ccbb-4614-bf2e-8272dbe81a97,I turn 19 in march 15,Inbound,2025-01-24,,,1,8,UNCLASSIFIED
+2025-01-31 17:26:53.000000 UTC,UpF,58066fea-ccbb-4614-bf2e-8272dbe81a97,Ok thats probably why!?,Inbound,2025-01-24,,,3,8,UNCLASSIFIED
+2025-01-31 17:26:53.000000 UTC,UpF,58066fea-ccbb-4614-bf2e-8272dbe81a97,Identity fail,Inbound,2025-01-24,,,4,8,OBJ-DL-001
+2025-01-31 17:26:53.000000 UTC,UpF,58066fea-ccbb-4614-bf2e-8272dbe81a97,Im 18,Inbound,2025-01-24,,,5,8,UNCLASSIFIED
+2025-01-31 17:26:53.000000 UTC,UpF,58066fea-ccbb-4614-bf2e-8272dbe81a97,And no im id vail and not expired,Inbound,2025-01-24,,,6,8,OBJ-DL-001
+2025-02-13 19:17:09.000000 UTC,UpF,586eab18-c9e6-401b-8e0d-715bcec1b025,My identity hasn't been verified yet,Inbound,2025-02-10,,,6,6,OBJ-DL-001
+2025-03-31 16:36:22.000000 UTC,UpF,58cf3be1-eb43-4f58-bef5-228a02d91e72,Yes,Inbound,2025-03-27,True,,2,7,UNCLASSIFIED
+2025-03-31 16:36:22.000000 UTC,UpF,58cf3be1-eb43-4f58-bef5-228a02d91e72,Been having problems with my camera for verification,Inbound,2025-03-27,True,,3,7,TSI-2S-001
+2025-03-28 16:44:40.000000 UTC,UpF,59176254-a76c-46ea-a95b-0e049a6117b5,Stop,Inbound,2025-03-25,,,1,3,UNCLASSIFIED
+2025-02-03 17:40:58.000000 UTC,UpF,59b59839-39ef-498c-a4eb-17d12a2427c2,stop,Inbound,2025-01-29,,,1,4,UNCLASSIFIED
+2025-01-08 17:51:45.000000 UTC,UpF,59cd724e-4433-4e80-820c-ea1ca4711ee9,"Ok great , yea I do",Inbound,2025-01-05,True,,1,12,UNCLASSIFIED
+2025-01-08 17:51:45.000000 UTC,UpF,59cd724e-4433-4e80-820c-ea1ca4711ee9,Can I have the number ? Wasn't sure who to call .. I spoke with them the other day and was directed to sign into my first door dash account from 2021 and when I do that comes up,Inbound,2025-01-05,True,,3,12,OBJ-NO-003
+2025-01-08 17:51:45.000000 UTC,UpF,59cd724e-4433-4e80-820c-ea1ca4711ee9,"No actually, i just forgot about it",Inbound,2025-01-05,True,,4,12,UNCLASSIFIED
+2025-01-08 17:51:45.000000 UTC,UpF,59cd724e-4433-4e80-820c-ea1ca4711ee9,,Inbound,2025-01-05,True,,5,12,UNCLASSIFIED
+2025-01-08 17:51:45.000000 UTC,UpF,59cd724e-4433-4e80-820c-ea1ca4711ee9,,Inbound,2025-01-05,True,,8,12,UNCLASSIFIED
+2025-01-08 17:51:45.000000 UTC,UpF,59cd724e-4433-4e80-820c-ea1ca4711ee9,Hey Alex I'm finished sorry for the delay,Inbound,2025-01-05,True,,10,12,UNCLASSIFIED
+2025-03-17 16:41:59.000000 UTC,UpF,5a5b50cf-d096-4a44-9ccc-8510aac7314f,It says it got rejected. Is it because of the other account also in my name? I cannot access that one at all,Inbound,2025-03-12,True,,2,11,TSI-BI-001
+2025-03-17 16:41:59.000000 UTC,UpF,5a5b50cf-d096-4a44-9ccc-8510aac7314f,What needs to be done,Inbound,2025-03-12,True,,3,11,UNCLASSIFIED
+2025-03-17 16:41:59.000000 UTC,UpF,5a5b50cf-d096-4a44-9ccc-8510aac7314f,Tried already,Inbound,2025-03-12,True,,4,11,UNCLASSIFIED
+2025-03-17 16:41:59.000000 UTC,UpF,5a5b50cf-d096-4a44-9ccc-8510aac7314f,I forgot I had a old one. So I made a new one using my new number and new email rachelmerillo0528@gmail.com,Inbound,2025-03-12,True,,8,11,OBJ-SC-001
+2025-03-17 16:41:59.000000 UTC,UpF,5a5b50cf-d096-4a44-9ccc-8510aac7314f,Yes and I done all that,Inbound,2025-03-12,True,,11,11,UNCLASSIFIED
+2025-02-10 17:36:04.000000 UTC,UpF,5b232133-8038-4f64-8538-1209b247ea3d,Hey Alex thank you I'll try and get it finished today,Inbound,2025-02-05,True,,1,4,UNCLASSIFIED
+2025-02-25 17:27:10.000000 UTC,UpF,5b2e8179-2976-4bdd-a4d4-ad29e23c3de7,Hey there how can I get a door dash job? I'm really low on money rn and I want to do something to help me get my car back,Inbound,2025-02-22,,,2,7,OBJ-NO-003
+2025-02-25 17:27:10.000000 UTC,UpF,5b2e8179-2976-4bdd-a4d4-ad29e23c3de7,Ok thank u so much,Inbound,2025-02-22,,,4,7,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,5b49803c-d16c-4845-ac39-edfd17f1c770,"I did complete the application, now it says to wait 24-48 hours to verify identification.",Inbound,2025-01-15,True,True,2,17,OBJ-DL-001
+2025-01-21 17:38:53.000000 UTC,UpF,5b49803c-d16c-4845-ac39-edfd17f1c770,iPhone,Inbound,2025-01-15,True,True,4,17,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,5b49803c-d16c-4845-ac39-edfd17f1c770,"Tomorrow I will definitely get the first delivery completed, thank you!",Inbound,2025-01-15,True,True,8,17,OBJ-NO-003
+2025-01-21 17:38:53.000000 UTC,UpF,5b49803c-d16c-4845-ac39-edfd17f1c770,"It would not accurately load my identity after taking several pictures of my drivers license , DoorDash the app was lagging and never refreshed to the newest page",Inbound,2025-01-15,True,True,9,17,OBJ-NO-003
+2025-01-21 17:38:53.000000 UTC,UpF,5b49803c-d16c-4845-ac39-edfd17f1c770,Yes please!,Inbound,2025-01-15,True,True,10,17,UNCLASSIFIED
+2025-01-21 17:38:53.000000 UTC,UpF,5b49803c-d16c-4845-ac39-edfd17f1c770,Thank you so much!!,Inbound,2025-01-15,True,True,16,17,UNCLASSIFIED
+2025-03-12 16:42:55.000000 UTC,UpF,5b5a85cc-e964-428c-a9bb-fb583e176ad5,Yeah so when I scan my license the app just freezes up I don't know if it's because I'm only 16 or if I can still door dash if I'm 16,Inbound,2025-03-07,,,3,4,OBJ-NO-003
+2025-03-12 16:42:55.000000 UTC,UpF,5b5a85cc-e964-428c-a9bb-fb583e176ad5,Ok thank you for letting me know,Inbound,2025-03-07,,,4,4,UNCLASSIFIED
+2025-02-20 17:23:12.000000 UTC,UpF,5b939ade-46ef-4985-899c-c4a620881178,For some reason last week when i tried putting in my application it failed to verify my Drivers license with my face scan,Inbound,2025-02-16,,,4,4,OBJ-CP-001
+2025-06-02 16:59:21.000000 UTC,UpF,5ba1e031-631c-4eac-9c76-c58652545199,Yes I would like to finish,Inbound,2025-05-29,,,1,4,UNCLASSIFIED
+2025-05-13 16:37:21.000000 UTC,UpF,5c1afa57-6a03-4bf5-8ce1-d523a05d1777,The email is wrong ricardoteluston@icloud.com,Inbound,2025-05-10,True,,1,8,OBJ-CP-001
+2025-05-13 16:37:21.000000 UTC,UpF,5c1afa57-6a03-4bf5-8ce1-d523a05d1777,Why is my application not approve yet?,Inbound,2025-05-10,True,,2,8,UNCLASSIFIED
+2025-05-13 16:37:21.000000 UTC,UpF,5c1afa57-6a03-4bf5-8ce1-d523a05d1777,Everything is good now,Inbound,2025-05-10,True,,6,8,UNCLASSIFIED
+2025-02-27 17:27:43.000000 UTC,UpF,5ce024b8-534a-437b-9c0a-0f20e685ece7,No,Inbound,2025-02-22,,,1,5,UNCLASSIFIED
+2025-01-27 17:38:51.000000 UTC,UpF,5db4c4e6-0654-4c5c-a840-60287b2b9a31,Nothing 🕳,Inbound,2025-01-22,,,1,12,UNCLASSIFIED
+2025-01-27 17:38:51.000000 UTC,UpF,5db4c4e6-0654-4c5c-a840-60287b2b9a31,Not really,Inbound,2025-01-22,,,6,12,UNCLASSIFIED
+2025-01-27 17:38:51.000000 UTC,UpF,5db4c4e6-0654-4c5c-a840-60287b2b9a31,No,Inbound,2025-01-22,,,11,12,UNCLASSIFIED
+2025-01-27 17:38:51.000000 UTC,UpF,5db4c4e6-0654-4c5c-a840-60287b2b9a31,Thanks!,Inbound,2025-01-22,,,12,12,UNCLASSIFIED
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"It's a refreshing change since all the jobs I've been replying to have been from AI bots 🤖 
+
+Thank you
+
+Idk if you've had matcha before, but the new drink at Starbucks is pretty good
+
+Oatmilk matcha lavender latte
+-light ice
+-extra lavender powder mixed in to the milk",Inbound,2025-03-15,True,True,1,23,OBJ-GJ-001
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"Hi Alex.
+
+My drivers license is still pending",Inbound,2025-03-15,True,True,4,23,OBJ-CP-001
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,Thank you Alex,Inbound,2025-03-15,True,True,6,23,UNCLASSIFIED
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"I can try it out soon, thank you for your help Alex
+
+Your enthusiasm is contagious lol",Inbound,2025-03-15,True,True,7,23,UNCLASSIFIED
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"Oh so the DoorDash app tracks it for you every time you dash? That's nice
+
+Does it keep track of the gas mileage as well ?",Inbound,2025-03-15,True,True,8,23,OBJ-NO-003
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"Good afternoon,
+
+I was able to get everything set up!
+I'm going to look into a miles tracking app as well as expense tracking for tax purposes before I do any dashes",Inbound,2025-03-15,True,True,9,23,OBJ-NO-003
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"I'm so glad
+
+Sorry to take up your time lol
+But yea I'll definitely look at the app soon and get that situated 
+
+Thank you again for your kindness 
+I hope you have an amazing rest of the day and great weekend",Inbound,2025-03-15,True,True,10,23,OBJ-BS-001
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"Is that a chain? I feel like I've heard of that name recently.. 
+
+Yes for sure! Matcha has an earthy taste it may not be suited for everyone.. but definitely worth a shot 
+
+I'm not a fan of coffee too much hence the matcha 😂",Inbound,2025-03-15,True,True,13,23,TSI-WN-001
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"That's pretty cool
+I'm gonna get everything set up soon so I can start",Inbound,2025-03-15,True,True,16,23,UNCLASSIFIED
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"Will do, I appreciate it",Inbound,2025-03-15,True,True,22,23,OBJ-SC-001
+2025-03-20 16:29:16.000000 UTC,UpF,5ee420d8-480c-4e0e-9e4b-3c764b9e9743,"Oh I see.. that's useful!! 
+
+Do you have any idea what the 7 day reward is? For dashing within 7 days of signing up?",Inbound,2025-03-15,True,True,23,23,OBJ-NO-003
+2025-01-07 17:32:38.000000 UTC,UpF,5efc39b7-8c25-4617-a130-d069c08fbf08,It's still doing the same thing,Inbound,2025-01-04,,,2,9,OBJ-SC-001
+2025-01-07 17:32:38.000000 UTC,UpF,5efc39b7-8c25-4617-a130-d069c08fbf08,Everytime I submit a picture of my id it just freezes and doesn't process,Inbound,2025-01-04,,,7,9,OBJ-BS-001
+2025-01-07 17:32:38.000000 UTC,UpF,5efc39b7-8c25-4617-a130-d069c08fbf08,Yes,Inbound,2025-01-04,,,9,9,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,5f8198fc-051a-46a2-913f-136e6bda72ab,Licencia no yo lo haría en carriola y SSN si,Inbound,2025-02-07,,,1,6,OBJ-CP-001
+2025-02-10 17:28:33.000000 UTC,UpF,5f8198fc-051a-46a2-913f-136e6bda72ab,Quien es??,Inbound,2025-02-07,,,2,6,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,5f8198fc-051a-46a2-913f-136e6bda72ab,Quién eres??,Inbound,2025-02-07,,,4,6,UNCLASSIFIED
+2025-02-10 17:28:33.000000 UTC,UpF,5f8198fc-051a-46a2-913f-136e6bda72ab,Ok si quiero,Inbound,2025-02-07,,,5,6,UNCLASSIFIED
+2025-05-14 16:39:17.000000 UTC,UpF,5fa1d69c-b9bb-410e-be7c-be00a653c12d,I need more information because I have a truck that I wanna do DoorDash with,Inbound,2025-05-04,,,6,8,OBJ-NO-003
+2025-05-14 16:39:17.000000 UTC,UpF,5fa1d69c-b9bb-410e-be7c-be00a653c12d,"I have a question, y'all do other delivery besides food",Inbound,2025-05-04,,,8,8,OBJ-NO-003
+2025-03-03 17:49:00.000000 UTC,UpF,600aa3c2-98a0-4fb3-91d4-cd3be0e2a1d0,"I was told i'm not old enough, I'm 18",Inbound,2025-02-26,,,1,7,UNCLASSIFIED
+2025-03-03 17:49:00.000000 UTC,UpF,600aa3c2-98a0-4fb3-91d4-cd3be0e2a1d0,"No, however I'm still waiting to be verified. It won't let me move on till then.",Inbound,2025-02-26,,,3,7,OBJ-SC-001
+2025-03-03 17:49:00.000000 UTC,UpF,600aa3c2-98a0-4fb3-91d4-cd3be0e2a1d0,Never mind I just got verified,Inbound,2025-02-26,,,5,7,UNCLASSIFIED
+2025-03-13 16:27:13.000000 UTC,UpF,601cd96b-22d6-47e3-aa09-e39f0b4f9eae,This is the screen after it says my ID and face scans are being processed,Inbound,2025-03-10,,,1,29,OBJ-DL-001
+2025-03-13 16:27:13.000000 UTC,UpF,601cd96b-22d6-47e3-aa09-e39f0b4f9eae,It's all good. Thank you for your help!,Inbound,2025-03-10,,,2,29,UNCLASSIFIED
+2025-03-13 16:27:13.000000 UTC,UpF,601cd96b-22d6-47e3-aa09-e39f0b4f9eae,Okay thank you,Inbound,2025-03-10,,,3,29,UNCLASSIFIED
+2025-03-13 16:27:13.000000 UTC,UpF,601cd96b-22d6-47e3-aa09-e39f0b4f9eae,"Yes, the app will not work. I get through my license picture and scanning of my face, then the screen goes blank white and nothing will work",Inbound,2025-03-10,,,4,29,OBJ-GJ-001

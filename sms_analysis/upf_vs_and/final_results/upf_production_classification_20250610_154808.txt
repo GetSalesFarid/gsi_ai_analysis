@@ -1,0 +1,122 @@
+UPF INBOUND MESSAGE CLASSIFICATION - PRODUCTION APPROACH
+=========================================================
+Analysis Date: 2025-06-10 15:48:08
+Focus: UpF Tagged Opportunities, Inbound Messages Only
+Method: Classification using bucket titles (production-like approach)
+
+CLASSIFICATION PERFORMANCE
+=========================
+Total UpF Inbound Messages: 968
+Successfully Classified: 420
+Classification Rate: 43.4%
+Unclassified Messages: 548
+Active Buckets Used: 26/59
+Bucket Utilization: 44.1%
+
+BUCKET PERFORMANCE BREAKDOWN
+=============================
+
+OBJ-DL-001: No Driver's License
+• Messages: 132 (13.6% of total)
+• Conversion Rate: 85.1%
+• BGC Conversion Rate: 100.0%
+
+OBJ-NO-003: Dash Now Unavailable
+• Messages: 69 (7.1% of total)
+• Conversion Rate: 89.7%
+• BGC Conversion Rate: 100.0%
+
+OBJ-SC-001: Sick / COVID
+• Messages: 46 (4.8% of total)
+• Conversion Rate: 66.7%
+• BGC Conversion Rate: 100.0%
+
+OBJ-CP-001: Car Problems
+• Messages: 45 (4.6% of total)
+• Conversion Rate: 82.4%
+• BGC Conversion Rate: 100.0%
+
+OBJ-GJ-001: Got New Job / Not Dashing Anymore / Has another job / Recently Employed
+• Messages: 36 (3.7% of total)
+• Conversion Rate: 80.0%
+• BGC Conversion Rate: 100.0%
+
+OBJ-BS-001: Busy
+• Messages: 28 (2.9% of total)
+• Conversion Rate: 84.6%
+• BGC Conversion Rate: 100.0%
+
+TSI-BC-001: Waiting on Background Check
+• Messages: 17 (1.8% of total)
+• Conversion Rate: 100.0%
+• BGC Conversion Rate: 100.0%
+
+TSI-BI-001: Keeps Asking for Bank Info / App stuck asking for Direct Deposit 
+• Messages: 6 (0.6% of total)
+• Conversion Rate: nan%
+• BGC Conversion Rate: 100.0%
+
+TSI-2S-001: 2-Step Verification
+• Messages: 6 (0.6% of total)
+• Conversion Rate: 100.0%
+• BGC Conversion Rate: 100.0%
+
+OBJ-TX-001: Taxes
+• Messages: 5 (0.5% of total)
+• Conversion Rate: 66.7%
+• BGC Conversion Rate: 100.0%
+
+SAMPLE CLASSIFICATIONS (for validation)
+======================================
+
+Message: I need a job please
+Classified as: OBJ-GJ-001
+Converted: Yes
+
+Message: Thank you appreciate you get it finished soon as I can thank you
+Classified as: UNCLASSIFIED
+Converted: Yes
+
+Message: No I should be able to complete the application today
+Classified as: UNCLASSIFIED
+Converted: Yes
+
+Message: I had another account that was never completed so i tried a new one
+Classified as: TSI-BI-001
+Converted: Yes
+
+Message: Hello
+Classified as: UNCLASSIFIED
+Converted: Yes
+
+Message: My identity hasn't been verified yet
+Classified as: OBJ-DL-001
+Converted: Yes
+
+Message: I want to do the dordash
+Classified as: OBJ-NO-003
+Converted: Yes
+
+Message: iPhone. I just tried again. Now it says verification in progress.
+Classified as: TSI-2S-001
+Converted: Yes
+
+Message: It still says 24-48 hours
+Classified as: OBJ-SC-001
+Converted: Yes
+
+Message: ❤️ to " Just expedited your results and you are all clear to start making deliveries(: The final and...
+Classified as: OBJ-NO-003
+Converted: Yes
+
+KEY INSIGHTS
+============
+
+✗ NEEDS IMPROVEMENT: 43.4% classification rate below production standards
+• Using 26/59 available buckets (44.1% utilization)
+
+Top Performing Bucket: TSI-BC-001 (Waiting on Background Check)
+• 100.0% conversion rate with 17 messages
+
+Most Frequent Bucket: OBJ-DL-001 (No Driver's License)
+• 132 messages (13.6% of total)
