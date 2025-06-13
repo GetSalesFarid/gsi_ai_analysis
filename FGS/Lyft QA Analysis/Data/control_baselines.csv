@@ -1,0 +1,5 @@
+xp_month,language,experiment,leads,full_conversion,upfunnel_next_step_conversion,control_conversion_rate
+2025-05-01,English,Lyft Funnel Conversion - Stale,521,172,0,0.33013435700575816
+2025-05-01,English,Lyft Funnel Conversion - Upfunnel,2034,81,93,0.03982300884955752
+2025-05-01,English,Lyft Funnel Conversion,391,112,0,0.2864450127877238
+2025-05-01,English,Lyft Funnel Conversion - Launch,696,2,0,0.0028735632183908046
