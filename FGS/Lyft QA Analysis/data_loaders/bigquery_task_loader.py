@@ -62,6 +62,7 @@ class BigQueryTaskLoader:
         join `getsaleswarehouse.gsi_mart_core.sms_materialized_outreach_activities` oa on o.opportunity_uuid = oa.opportunity_uuid
         left join `getsaleswarehouse.gsi_intermediate.execvision_call_transcripts` cc on oa.task_id = cc.task_id
         where task_stage in ('first_contact' , 'post_contact')
+        and not coalesce(automated_system_flag , false)
         """
         
         print("🔄 Fetching task data from BigQuery...")

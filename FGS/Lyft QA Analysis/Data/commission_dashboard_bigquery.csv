@@ -1,8 +1,8 @@
 rep_id,rep_name,conversion_rate,total_opportunities,total_conversions
-richard.berry@copilotcareers.org,Richard Berry,0.3698630136986301,584,216
-jj.johnson@copilotcareers.org,Jarvis Johnson,0.3670886075949367,790,290
-trevor.greenman@copilotcareers.org,Trevor Greenman,0.3560606060606061,792,282
-luis.mondragon@copilotcareers.org,Luis Mondragon,0.31107954545454547,704,219
+richard.berry@copilotcareers.org,Richard Berry,0.375,584,219
+jj.johnson@copilotcareers.org,Jarvis Johnson,0.369620253164557,790,292
+trevor.greenman@copilotcareers.org,Trevor Greenman,0.36363636363636365,792,288
+luis.mondragon@copilotcareers.org,Luis Mondragon,0.3153409090909091,704,222
 liza.alfaro@copilotcareers.org,Liza Alfaro,0.3037249283667622,349,106
 hevoapi@getsales.team,Hevo API,0.2857142857142857,14,4
 kami.pelech@copilotcareers.org,Kami Pelech,0.16129032258064516,124,20
@@ -10,18 +10,18 @@ jalen.adams@copilotcareers.org,Jalen Adams,0.13793103448275862,58,8
 caro.paez@copilotcareers.org,Carolina Paez,0.13215859030837004,681,90
 ethan.dubbs@getsales.team,Ethan Dubbs,0.12,350,42
 ario.rahnama@getsales.team,Ario Rahnama,0.11904761904761904,672,80
-chloe.dulworth@getsales.team,Chloe Dulworth,0.10993377483443709,755,83
+chloe.dulworth@getsales.team,Chloe Dulworth,0.11125827814569536,755,84
 ryann.stehley@copilotcareers.org,Ryann Stehley,0.1076923076923077,130,14
 wade.gramlich@getsales.team,Wade Gramlich,0.10591133004926108,406,43
 charles.field@getsales.team,Charles Field,0.10569105691056911,123,13
-branden.beacham@getsales.team,Branden Beacham,0.09968354430379747,632,63
+branden.beacham@getsales.team,Branden Beacham,0.10126582278481013,632,64
 spencer.lane@copilotcareers.org,Spencer Lane,0.0847457627118644,708,60
 kevin.jacques@copilotcareers.org,Kevin Jacques,0.08333333333333333,132,11
 t.leone@getsales.team,T Leone,0.08060453400503778,397,32
+j.zambrano@getsales.team,J Zambrano,0.07754010695187166,374,29
 awsintegrationapi@getsales.team,AWS Integration API,0.07581227436823104,277,21
-j.zambrano@getsales.team,J Zambrano,0.0748663101604278,374,28
-tiffany.lima@copilotcareers.org,Tiffany Lima,0.06578947368421052,380,25
+tiffany.lima@copilotcareers.org,Tiffany Lima,0.07105263157894737,380,27
 flavien.hacot@copilotcareers.org,Flavien Hacot,0.05846153846153846,650,38
-gabe.ortiz@copilotcareers.org,Gabe Ortiz,0.0,19,0
+gabe.ortiz@copilotcareers.org,Gabe Ortiz,0.05263157894736842,19,1
 hugo.baron@copilotcareers.org,Hugo Baron,0.0,114,0
 vicente.garza@getsales.team,Vicente Garza,0.0,18,0

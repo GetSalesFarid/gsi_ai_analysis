@@ -20,26 +20,42 @@ class ManualBigQueryLoader:
         """Fetch opportunity data and save to CSV manually"""
         
         query = """
+        with notes as (
+          select
+           question_1
+          ,question_2
+          ,question_3
+          ,coalesce(o.description ,l.notes_c_c) additional_notes
+          ,l.opportunity_uuid
+          from `getsaleswarehouse.gsi_intermediate.last_submitted_outreach_notes` o 
+          join `getsaleswarehouse.gsi_mart_core.sfdc_lead` l on o.salesforce_id =l.id and l.opportunity_type_c in ('Lyft Funnel Conversion Launch' , 'Lyft W Plus Funnel Conversion', 'Lyft W Plus Funnel Conversion Stale AnA')
+        )
+        
         select
-         opportunity_uuid 
+         l.opportunity_uuid
         ,coalesce(language_c , 'English') language
-        ,project experiment 
+        ,project experiment
         ,date(first_contacted_date_time_c) first_contact_date
         ,owner_username
         ,owner_name
         ,first_contact_method
         ,case
           when project in ('Lyft Funnel Conversion - Stale')
-          then if(date_diff(date(first_ride_at) , exposure_date , day) <= 30 , true, false) 
-          else if(date_diff(date(first_ride_at) , application_date , day) <= 30 , true, false) 
-          end full_conversion 
+          then if(date_diff(date(first_ride_at) , exposure_date , day) <= 30 , true, false)
+          else if(date_diff(date(first_ride_at) , application_date , day) <= 30 , true, false)
+          end full_conversion
         ,case
           when project not in ('Lyft Funnel Conversion - Upfunnel')
           then 'n/a'
           when project in ('Lyft Funnel Conversion - Upfunnel')
           then if(date_diff(date(approved_date) , application_date , day) <= 30 , 'true' , 'false')
           end upfunnel_next_step_conversion
-        from `getsaleswarehouse.gsi_mart_lyft.lyft_dim_opp` 
+        ,coalesce(question_1 , 'ignore question 1') what_are_your_goals_or_motivations_to_start_driving_for_lyft
+        ,coalesce(question_2 , 'ignore question 2') what_else_do_you_need_to_submit
+        ,coalesce(question_3 , 'ignore question 3') estimated_bgc_date
+        ,coalesce(additional_notes , 'ignore question 4') additional_notes
+        from `getsaleswarehouse.gsi_mart_lyft.lyft_dim_opp` l 
+        left join notes n on l.opportunity_uuid = n.opportunity_uuid 
         where date_trunc(date(first_contacted_date_time_c) , month) = date_trunc(date_sub(current_date , interval 1 month) , month)
         """
         
@@ -57,7 +73,9 @@ class ManualBigQueryLoader:
                 writer.writerow([
                     'opportunity_uuid', 'language', 'experiment', 'first_contact_date',
                     'owner_username', 'owner_name', 'first_contact_method', 
-                    'full_conversion', 'upfunnel_next_step_conversion'
+                    'full_conversion', 'upfunnel_next_step_conversion', 
+                    'what_are_your_goals_or_motivations_to_start_driving_for_lyft',
+                    'what_else_do_you_need_to_submit', 'estimated_bgc_date', 'additional_notes'
                 ])
                 
                 # Write data rows
@@ -72,7 +90,11 @@ class ManualBigQueryLoader:
                         row.owner_name,
                         row.first_contact_method,
                         row.full_conversion,
-                        row.upfunnel_next_step_conversion
+                        row.upfunnel_next_step_conversion,
+                        row.what_are_your_goals_or_motivations_to_start_driving_for_lyft if row.what_are_your_goals_or_motivations_to_start_driving_for_lyft else '',
+                        row.what_else_do_you_need_to_submit if row.what_else_do_you_need_to_submit else '',
+                        row.estimated_bgc_date if row.estimated_bgc_date else '',
+                        row.additional_notes if row.additional_notes else ''
                     ])
                     row_count += 1
             
